@@ -1,9 +1,10 @@
 # Beni JobSearch
 
-Envia todo dia às 10h (horário de Brasília) um e-mail com 10 vagas júnior 100% remotas
+Envia de segunda a sexta às 10h (horário de Brasília) um e-mail com 10 vagas júnior 100% remotas
 em Desenvolvimento de Software, Dados e IA, publicadas nos últimos 7 dias:
 8 de pequenas e médias empresas e 2 de grandes. Às quintas-feiras o mesmo e-mail traz
 também 5 vagas internacionais júnior abertas a candidatos no Brasil.
+Às sextas-feiras o e-mail leva um .txt com os requisitos mais pedidos na semana (`scripts/weekly_report.py`).
 
 A busca roda como uma rotina agendada no Claude. Este repositório guarda:
 

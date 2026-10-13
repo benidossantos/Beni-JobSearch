@@ -1,0 +1,28 @@
+BENI JOBSEARCH - REQUISITOS MAIS PEDIDOS DA SEMANA
+Período: 12/10 a 13/10/2026 · 10 vagas analisadas
+
+TOP 10 GERAL
+ 1. Java                                      4 vagas (40%)
+ 2. JavaScript                                4 vagas (40%)
+ 3. APIs REST                                 4 vagas (40%)
+ 4. SQL                                       4 vagas (40%)
+ 5. Spring / Spring Boot                      3 vagas (30%)
+ 6. TypeScript                                2 vagas (20%)
+ 7. Python                                    2 vagas (20%)
+ 8. HTML e CSS                                2 vagas (20%)
+ 9. Manipulação de dados                      2 vagas (20%)
+10. Graduação (em andamento)                  2 vagas (20%)
+
+DADOS
+  - Manipulação de dados (2)
+  - Excel / Google Sheets (2)
+  - Python (1)
+  - HTML e CSS (1)
+  - JavaScript (1)
+
+DESENVOLVIMENTO
+  - Java (4)
+  - APIs REST (4)
+  - Spring / Spring Boot (3)
+  - JavaScript (3)
+  - SQL (3)

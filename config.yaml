@@ -3,6 +3,7 @@
 
 destinatario: bernardo.claude.bot@gmail.com
 horario_envio: "10:00"          # horário de Brasília (America/Sao_Paulo)
+dias_envio: segunda a sexta      # sem envio aos sábados e domingos
 fuso: America/Sao_Paulo
 
 perfil:
@@ -50,6 +51,13 @@ fontes:
     - trampos.co
     - inhire.app (a página da vaga; o link ainda pode ser enviado)
     - github.com/*/vagas
+
+relatorio_semanal:
+  dia_semana: sexta-feira
+  formato: txt anexado ao e-mail do dia
+  conteudo: requisitos mais pedidos nas vagas enviadas de segunda a sexta (contagem e porcentagem),
+    separados por área, mais sugestões do que estudar primeiro
+  fonte_dos_dados: data/sent_jobs.json (cada vaga guarda área e requisitos)
 
 regras_de_exclusao:
   - vaga já enviada antes (ver data/sent_jobs.json)
