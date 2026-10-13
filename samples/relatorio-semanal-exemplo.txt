@@ -1,17 +1,17 @@
 BENI JOBSEARCH - REQUISITOS MAIS PEDIDOS DA SEMANA
-Período: 12/10 a 13/10/2026 · 10 vagas analisadas
+Período: 12/10 a 13/10/2026 · 15 vagas analisadas
 
 TOP 10 GERAL
- 1. Java                                      4 vagas (40%)
- 2. JavaScript                                4 vagas (40%)
- 3. APIs REST                                 4 vagas (40%)
- 4. SQL                                       4 vagas (40%)
- 5. Spring / Spring Boot                      3 vagas (30%)
- 6. TypeScript                                2 vagas (20%)
- 7. Python                                    2 vagas (20%)
- 8. HTML e CSS                                2 vagas (20%)
- 9. Manipulação de dados                      2 vagas (20%)
-10. Graduação (em andamento)                  2 vagas (20%)
+ 1. APIs REST                                 6 vagas (40%)
+ 2. JavaScript                                5 vagas (33%)
+ 3. Python                                    5 vagas (33%)
+ 4. SQL                                       5 vagas (33%)
+ 5. Java                                      4 vagas (27%)
+ 6. Testes                                    4 vagas (27%)
+ 7. TypeScript                                3 vagas (20%)
+ 8. Spring / Spring Boot                      3 vagas (20%)
+ 9. Git                                       3 vagas (20%)
+10. Inglês                                    3 vagas (20%)
 
 DADOS
   - Manipulação de dados (2)
@@ -21,8 +21,32 @@ DADOS
   - JavaScript (1)
 
 DESENVOLVIMENTO
+  - APIs REST (6)
   - Java (4)
-  - APIs REST (4)
-  - Spring / Spring Boot (3)
+  - SQL (4)
   - JavaScript (3)
-  - SQL (3)
+  - Spring / Spring Boot (3)
+
+IA
+  - Python (1)
+  - JavaScript (1)
+  - TypeScript (1)
+  - Back-end em produção (1)
+  - Testes (1)
+
+O QUE PRIORIZAR NOS ESTUDOS
+1. APIs REST: aparecem em 40% das vagas, em qualquer linguagem. Saber criar e
+   consumir uma API (rotas, verbos HTTP, JSON, status codes) vale para quase tudo.
+2. SQL: pedido tanto em Desenvolvimento quanto em Dados. Joins, agregações e
+   modelagem básica abrem as duas trilhas ao mesmo tempo.
+3. Escolha uma linguagem de back-end e vá fundo: Java + Spring Boot domina as
+   vagas nacionais, e Python domina as internacionais e as de Dados/IA.
+4. JavaScript/TypeScript: base para front-end e full stack, presente em 1 de
+   cada 3 vagas.
+5. Testes automatizados e Git: aparecem como requisito em vagas júnior e contam
+   pontos em entrevistas técnicas.
+6. Inglês: todas as vagas internacionais pedem inglês fluente ou avançado. É o
+   que mais separa você das vagas que pagam em dólar.
+
+Observação: este relatório usou 15 vagas de 1 dia. Nas sextas, ele cobre a
+semana inteira (cerca de 50 vagas), e os números ficam mais confiáveis.

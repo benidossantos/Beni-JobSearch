@@ -1,6 +1,7 @@
 {
  "data": "2026-10-13",
  "observacoes": [
+  "E-mail de teste com tudo junto: vagas nacionais, internacionais (que normalmente vêm às quintas) e o relatório de requisitos em anexo (que normalmente vem às sextas).",
   "Uma vaga (Prothera) vem de um site que não mostra a data de publicação e está marcada como \"data não confirmada\"."
  ],
  "vagas": [
@@ -159,5 +160,95 @@
    "fonte": "Glassdoor"
   }
  ],
- "internacionais": []
+ "internacionais": [
+  {
+   "titulo": "Software Engineer, Python",
+   "empresa": "Pyyne",
+   "pais": "EUA / Suécia",
+   "contratacao": "Tempo integral, remoto do Brasil",
+   "publicada": "há 5 dias",
+   "area": "Desenvolvimento",
+   "requisitos": [
+    "Python e asyncio",
+    "APIs REST (FastAPI)",
+    "PostgreSQL e SQLAlchemy",
+    "Testes com pytest",
+    "Git"
+   ],
+   "aviso": "Vaga júnior/pleno: pede 2+ anos de Python e inglês fluente",
+   "link": "https://jobs.ashbyhq.com/pyyne/1bb286af-97c9-47f0-a6e6-a41498fda225",
+   "fonte": "Remote Rocketship"
+  },
+  {
+   "titulo": "Junior Backend Developer (Python/Django)",
+   "empresa": "Talent Journey",
+   "pais": "Portugal",
+   "contratacao": "Tempo integral, aberta a todos os países",
+   "publicada": "há 6 dias",
+   "area": "Desenvolvimento",
+   "requisitos": [
+    "Python básico",
+    "Django e Django REST Framework",
+    "Resolução de problemas",
+    "Inglês fluente"
+   ],
+   "aviso": "Vaga para contratação futura (banco de talentos); confirme se segue aberta",
+   "link": "https://himalayas.app/companies/talent-journey/jobs/junior-backend-developer-future-position",
+   "fonte": "Himalayas"
+  },
+  {
+   "titulo": "Junior Frontend Developer (Next.js)",
+   "empresa": "Talent Journey",
+   "pais": "Portugal",
+   "contratacao": "Tempo integral, sem experiência exigida",
+   "publicada": "há 6 dias",
+   "area": "Desenvolvimento",
+   "requisitos": [
+    "Next.js básico",
+    "Front-end moderno",
+    "Trabalho remoto autônomo",
+    "Inglês fluente"
+   ],
+   "aviso": "Vaga para contratação futura (banco de talentos); confirme se segue aberta",
+   "link": "https://himalayas.app/companies/talent-journey/jobs/junior-frontend-developer-future-position",
+   "fonte": "Himalayas"
+  },
+  {
+   "titulo": "Full Stack Developer .NET/C#",
+   "empresa": "Workana",
+   "pais": "Argentina",
+   "contratacao": "PJ, meio período (20h/semana), projeto de 4 meses",
+   "publicada": "há 4 dias",
+   "area": "Desenvolvimento",
+   "salario": "R$ 5.500/mês",
+   "requisitos": [
+    "C# e .NET WebForms",
+    "SQL Server",
+    "Visual Studio",
+    "Componentes DevExpress"
+   ],
+   "aviso": "Júnior/pleno: pede 2+ anos de .NET WebForms",
+   "link": "https://apply.workable.com/workana-premium/j/0DE24BDF2C",
+   "fonte": "Remote Rocketship"
+  },
+  {
+   "titulo": "Python Developer",
+   "empresa": "Anyone AI",
+   "pais": "EUA (foco em América Latina)",
+   "contratacao": "Contractor, meio período por projeto",
+   "publicada": "há 2 dias",
+   "area": "IA / Desenvolvimento",
+   "salario": "US$ 45 a 80/hora",
+   "requisitos": [
+    "Python",
+    "JavaScript ou TypeScript",
+    "Back-end em produção",
+    "Testes (pytest, Jest)",
+    "Inglês escrito avançado"
+   ],
+   "aviso": "Júnior/pleno: pede 2+ anos de experiência profissional",
+   "link": "https://jobs.ashbyhq.com/anyone-ai/67153fa8-8331-42b8-b22c-7349d2a925da",
+   "fonte": "Remote Rocketship"
+  }
+ ]
 }

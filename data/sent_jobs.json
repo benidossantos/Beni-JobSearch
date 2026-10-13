@@ -139,5 +139,77 @@
   ],
   "link": "https://www.glassdoor.com.br/job-listing/desenvolvedor-back-end-java-jr-tag-estapar-estacionamentos-JV_KO0,34_KE35,58.htm?jl=1010289771515",
   "enviada_em": "2026-10-13"
+ },
+ {
+  "empresa": "Pyyne",
+  "titulo": "Software Engineer, Python",
+  "area": "Desenvolvimento",
+  "porte": "internacional",
+  "requisitos": [
+   "Python e asyncio",
+   "APIs REST (FastAPI)",
+   "PostgreSQL e SQLAlchemy",
+   "Testes com pytest",
+   "Git"
+  ],
+  "link": "https://jobs.ashbyhq.com/pyyne/1bb286af-97c9-47f0-a6e6-a41498fda225",
+  "enviada_em": "2026-10-13"
+ },
+ {
+  "empresa": "Talent Journey",
+  "titulo": "Junior Backend Developer (Python/Django)",
+  "area": "Desenvolvimento",
+  "porte": "internacional",
+  "requisitos": [
+   "Python básico",
+   "Django e Django REST Framework",
+   "Resolução de problemas",
+   "Inglês fluente"
+  ],
+  "link": "https://himalayas.app/companies/talent-journey/jobs/junior-backend-developer-future-position",
+  "enviada_em": "2026-10-13"
+ },
+ {
+  "empresa": "Talent Journey",
+  "titulo": "Junior Frontend Developer (Next.js)",
+  "area": "Desenvolvimento",
+  "porte": "internacional",
+  "requisitos": [
+   "Next.js básico",
+   "Front-end moderno",
+   "Trabalho remoto autônomo",
+   "Inglês fluente"
+  ],
+  "link": "https://himalayas.app/companies/talent-journey/jobs/junior-frontend-developer-future-position",
+  "enviada_em": "2026-10-13"
+ },
+ {
+  "empresa": "Workana",
+  "titulo": "Full Stack Developer .NET/C#",
+  "area": "Desenvolvimento",
+  "porte": "internacional",
+  "requisitos": [
+   "C# e .NET WebForms",
+   "SQL Server",
+   "Visual Studio",
+   "Componentes DevExpress"
+  ],
+  "link": "https://apply.workable.com/workana-premium/j/0DE24BDF2C",
+  "enviada_em": "2026-10-13"
+ },
+ {
+  "empresa": "Anyone AI",
+  "titulo": "Python Developer",
+  "area": "IA / Desenvolvimento",
+  "porte": "internacional",
+  "requisitos": [
+   "Python",
+   "JavaScript ou TypeScript",
+   "Back-end em produção",
+   "Testes (pytest, Jest)",
+   "Inglês escrito avançado"
+  ],
+  "link": "https://jobs.ashbyhq.com/anyone-ai/67153fa8-8331-42b8-b22c-7349d2a925da",
+  "enviada_em": "2026-10-13"
  }
 ]

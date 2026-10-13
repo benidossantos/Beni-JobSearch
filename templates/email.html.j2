@@ -36,6 +36,8 @@
       <div style="font-size:16px;font-weight:bold;color:#ffffff;">{{ v.titulo }}</div>
       <div style="font-size:14px;color:#d4d4d4;margin-top:2px;">{{ v.empresa }} · {{ v.pais }}</div>
       <div style="font-size:12px;color:#8a8a8a;margin-top:4px;">{{ v.contratacao }} · {{ v.publicada }} · via {{ v.fonte }}</div>
+      {% if v.salario %}<div style="font-size:13px;color:#4ade80;margin-top:6px;">💰 {{ v.salario }}</div>{% endif %}
+      {% if v.aviso %}<div style="font-size:12px;color:#fbbf24;margin-top:6px;">⚠ {{ v.aviso }}</div>{% endif %}
       <div style="font-size:13px;margin-top:8px;color:#e5e5e5;"><b>Requisitos:</b> {{ v.requisitos | join(" · ") }}</div>
       <div style="margin-top:10px;"><a href="{{ v.link }}" style="display:inline-block;padding:8px 14px;background:#141414;color:#ffffff !important;border:1px solid #ffffff;font-weight:bold;text-decoration:none;border-radius:5px;font-size:13px;"><span style="color:#ffffff;">Ver vaga e candidatar-se →</span></a></div>
     </td></tr></table>
