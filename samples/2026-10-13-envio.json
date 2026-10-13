@@ -1,0 +1,28 @@
+{
+ "data": "2026-10-13",
+ "observacoes": ["Hoje só 5 vagas de pequenas e médias empresas passaram nos filtros e ainda não tinham sido enviadas, então este e-mail tem 7 vagas. As vagas já enviadas nos e-mails de teste não se repetem."],
+ "vagas": [
+  {"titulo":"Junior Software Engineer","empresa":"Emetlab","porte":"pequena (startup em crescimento)","area":"Desenvolvimento / IA","publicada":"há 1 dia",
+   "requisitos":["Python, C#, TypeScript ou JavaScript","APIs, bancos de dados e Git","Graduação ou experiência equivalente","Interesse em IA e dados (diferencial)"],
+   "aviso":"Empresa estrangeira aberta a todos os países; processo provavelmente em inglês","link":"https://himalayas.app/companies/emetlab/jobs/junior-software-engineer","fonte":"Himalayas"},
+  {"titulo":"Engenheiro(a) de Software Full-Stack (PHP/Angular)","empresa":"Serious Development","porte":"pequena (11 a 50 funcionários)","area":"Desenvolvimento","publicada":"hoje",
+   "requisitos":["PHP e Angular","Linux ou macOS","Produtos SaaS","Inglês avançado"],
+   "aviso":"Júnior/pleno: pede 2+ anos de experiência full stack","link":"https://serious-development.breezy.hr/p/507763d25e6d-full-stack-software-engineer-php-angular-remote-location-requirement-brazil-or-latam-job-id-26se2042","fonte":"página de carreiras da empresa"},
+  {"titulo":"Pessoa Engenheira de Software Júnior (Java)","empresa":"Confidencial","porte":"de porte não informado","area":"Desenvolvimento","publicada":"há 5 dias",
+   "requisitos":["Java e Spring Boot","Docker","Kafka básico","Kubernetes básico","APIs REST"],
+   "aviso":"Empresa não identificada no anúncio","link":"https://confidencial.gupy.io/job/eyJqb2JJZCI6MTI2Mzk5OTQsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar","fonte":"Gupy (via Remotar)"},
+  {"titulo":"Dev Delphi JR","empresa":"Korp (via Novare RH)","porte":"pequena","area":"Desenvolvimento","publicada":"há 5 dias","salario":"a partir de R$ 1.800 (CLT)",
+   "requisitos":["Delphi (1 ano)","Back-end","Regras de negócio da indústria","Raciocínio lógico"],
+   "link":"https://himalayas.app/companies/novare-rh/jobs/dev-delphi-jr-remote-work","fonte":"Himalayas"},
+  {"titulo":"Desenvolvedor(a) Full Stack Júnior (React e TypeScript)","empresa":"Viradev","porte":"pequena/média","area":"Desenvolvimento","publicada":"data não confirmada","salario":"até R$ 10.000 (PJ)",
+   "requisitos":["React e TypeScript","APIs e persistência de dados","Git e testes automatizados","Inglês avançado"],
+   "aviso":"Pede 1 ano de experiência e inglês avançado (time trabalha com horário dos EUA)","link":"https://programathor.com.br/jobs/33838-desenvolvedor-a-full-stack-junior-react-e-typescript","fonte":"ProgramaThor"},
+  {"titulo":"Engenheiro de Software Jr. (Java)","empresa":"PagBank","porte":"grande","area":"Desenvolvimento","publicada":"há 3 dias",
+   "requisitos":["Java","SQL (Oracle, MySQL ou PostgreSQL)","Git","Scrum ou Kanban","Graduação em andamento"],
+   "link":"https://pagseguro.gupy.io/jobs/10866503","fonte":"página de carreiras do PagBank (Gupy)"},
+  {"titulo":"Desenvolvedor Full Stack Java Júnior","empresa":"FCamara","porte":"grande","area":"Desenvolvimento","publicada":"há 6 dias",
+   "requisitos":["Java e Spring Boot","HTML, CSS e JavaScript/TypeScript","React, Angular ou Vue","Testes (JUnit, Jest)","SQL e Git"],
+   "link":"https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI2OTIwNTYsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar","fonte":"página de carreiras da FCamara (Gupy)"}
+ ],
+ "internacionais": []
+}

@@ -211,5 +211,106 @@
   ],
   "link": "https://jobs.ashbyhq.com/anyone-ai/67153fa8-8331-42b8-b22c-7349d2a925da",
   "enviada_em": "2026-10-13"
+ },
+ {
+  "empresa": "Emetlab",
+  "titulo": "Junior Software Engineer",
+  "area": "Desenvolvimento / IA",
+  "porte": "pequena (startup em crescimento)",
+  "requisitos": [
+   "Python, C#, TypeScript ou JavaScript",
+   "APIs, bancos de dados e Git",
+   "Graduação ou experiência equivalente",
+   "Interesse em IA e dados (diferencial)"
+  ],
+  "link": "https://himalayas.app/companies/emetlab/jobs/junior-software-engineer",
+  "enviada_em": "2026-10-13"
+ },
+ {
+  "empresa": "Serious Development",
+  "titulo": "Engenheiro(a) de Software Full-Stack (PHP/Angular)",
+  "area": "Desenvolvimento",
+  "porte": "pequena (11 a 50 funcionários)",
+  "requisitos": [
+   "PHP e Angular",
+   "Linux ou macOS",
+   "Produtos SaaS",
+   "Inglês avançado"
+  ],
+  "link": "https://serious-development.breezy.hr/p/507763d25e6d-full-stack-software-engineer-php-angular-remote-location-requirement-brazil-or-latam-job-id-26se2042",
+  "enviada_em": "2026-10-13"
+ },
+ {
+  "empresa": "Confidencial",
+  "titulo": "Pessoa Engenheira de Software Júnior (Java)",
+  "area": "Desenvolvimento",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "Java e Spring Boot",
+   "Docker",
+   "Kafka básico",
+   "Kubernetes básico",
+   "APIs REST"
+  ],
+  "link": "https://confidencial.gupy.io/job/eyJqb2JJZCI6MTI2Mzk5OTQsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+  "enviada_em": "2026-10-13"
+ },
+ {
+  "empresa": "Korp (via Novare RH)",
+  "titulo": "Dev Delphi JR",
+  "area": "Desenvolvimento",
+  "porte": "pequena",
+  "requisitos": [
+   "Delphi (1 ano)",
+   "Back-end",
+   "Regras de negócio da indústria",
+   "Raciocínio lógico"
+  ],
+  "link": "https://himalayas.app/companies/novare-rh/jobs/dev-delphi-jr-remote-work",
+  "enviada_em": "2026-10-13"
+ },
+ {
+  "empresa": "Viradev",
+  "titulo": "Desenvolvedor(a) Full Stack Júnior (React e TypeScript)",
+  "area": "Desenvolvimento",
+  "porte": "pequena/média",
+  "requisitos": [
+   "React e TypeScript",
+   "APIs e persistência de dados",
+   "Git e testes automatizados",
+   "Inglês avançado"
+  ],
+  "link": "https://programathor.com.br/jobs/33838-desenvolvedor-a-full-stack-junior-react-e-typescript",
+  "enviada_em": "2026-10-13"
+ },
+ {
+  "empresa": "PagBank",
+  "titulo": "Engenheiro de Software Jr. (Java)",
+  "area": "Desenvolvimento",
+  "porte": "grande",
+  "requisitos": [
+   "Java",
+   "SQL (Oracle, MySQL ou PostgreSQL)",
+   "Git",
+   "Scrum ou Kanban",
+   "Graduação em andamento"
+  ],
+  "link": "https://pagseguro.gupy.io/jobs/10866503",
+  "enviada_em": "2026-10-13"
+ },
+ {
+  "empresa": "FCamara",
+  "titulo": "Desenvolvedor Full Stack Java Júnior",
+  "area": "Desenvolvimento",
+  "porte": "grande",
+  "requisitos": [
+   "Java e Spring Boot",
+   "HTML, CSS e JavaScript/TypeScript",
+   "React, Angular ou Vue",
+   "Testes (JUnit, Jest)",
+   "SQL e Git"
+  ],
+  "link": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI2OTIwNTYsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+  "enviada_em": "2026-10-13"
  }
 ]
