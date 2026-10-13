@@ -59,6 +59,11 @@ Acrescentar cada vaga enviada a `data/sent_jobs.json`
 (`empresa, titulo, area, porte, requisitos, link, enviada_em`), fazer commit
 `Envio de DD/MM: N vagas` e `git push origin main`.
 
+## 6. Sexta-feira: atualizar o README
+Substituir o trecho entre `<!-- REQUISITOS:INICIO` e `<!-- REQUISITOS:FIM -->` no `README.md` pelo
+resultado acumulado de todas as vagas em `data/sent_jobs.json` (base, tabela top 10 e um parágrafo
+"O que priorizar"). Incluir no mesmo commit do envio.
+
 ## Economia
 - No máximo ~15 consultas web por dia (~22 às quintas).
 - Não reler páginas já lidas; abrir a página da vaga só quando a listagem não traz requisitos.
