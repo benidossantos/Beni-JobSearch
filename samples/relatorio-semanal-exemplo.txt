@@ -45,7 +45,7 @@ O QUE PRIORIZAR NOS ESTUDOS
    cada 3 vagas.
 5. Testes automatizados e Git: aparecem como requisito em vagas júnior e contam
    pontos em entrevistas técnicas.
-6. Inglês: todas as vagas internacionais pedem inglês fluente ou avançado. É o
+6. Inglês: 4 das 5 vagas internacionais pedem inglês fluente ou avançado. É o
    que mais separa você das vagas que pagam em dólar.
 
 Observação: este relatório usou 15 vagas de 1 dia. Nas sextas, ele cobre a
