@@ -1,0 +1,49 @@
+# Beni JobSearch: critérios de busca e regras de seleção.
+# A rotina diária lê este arquivo antes de cada busca.
+
+destinatario: bernardo.claude.bot@gmail.com
+horario_envio: "10:00"          # horário de Brasília (America/Sao_Paulo)
+fuso: America/Sao_Paulo
+
+perfil:
+  areas:
+    - Desenvolvimento de Software   # back-end, front-end, full stack, mobile, QA/automação
+    - Dados                         # análise, engenharia, BI, analytics
+    - Inteligência Artificial       # ML, IA, LLM
+  nivel: junior                     # aceita "Jr", "Júnior", "Junior", "Trainee"; rejeita pleno/sênior
+  modalidade: 100% remoto           # rejeita híbrido e presencial, mesmo que o site marque "remoto"
+
+janela_publicacao_dias: 7
+
+cota_diaria:
+  total: 10
+  pequenas_medias: 8                # até ~500 funcionários
+  grandes: 2                        # mais de ~500 funcionários
+  limite_funcionarios_pme: 500
+
+bloco_internacional:
+  dia_semana: quinta-feira
+  total: 5
+  regra: vaga júnior, 100% remota, aberta a candidatos no Brasil (contractor, PJ, Deel, Remote.com etc.)
+
+fontes:
+  nacionais:
+    - glassdoor.com.br              # mostra a idade da vaga, usado para validar os 7 dias
+    - br.indeed.com
+    - gupy.io
+    - programathor.com.br
+    - remotar.com.br
+    - linkedin.com/jobs             # só via busca na web; o site bloqueia coleta direta
+  internacionais:
+    - remoteok.com
+    - weworkremotely.com
+    - remotive.com
+    - wellfound.com
+    - himalayas.app
+
+regras_de_exclusao:
+  - vaga já enviada antes (ver data/sent_jobs.json)
+  - título ou descrição indicando híbrido/presencial
+  - nível pleno/sênior, ou exigência acima de 2 anos de experiência
+  - vaga exclusiva para PcD (vagas afirmativas não exclusivas entram, sinalizadas)
+  - vagas sem data de publicação confirmada só entram se faltarem vagas, marcadas como "data não confirmada"
