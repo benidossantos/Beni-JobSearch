@@ -1,46 +1,46 @@
 <!doctype html>
 <html lang="pt-BR">
-<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="dark"><meta name="supported-color-schemes" content="dark">
 <title>Beni JobSearch · {{ data_extenso }}</title></head>
-<body style="margin:0;padding:0;background:#f4f5f7;font-family:Arial,Helvetica,sans-serif;color:#1f2933;">
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f4f5f7;"><tr><td align="center" style="padding:24px 12px;">
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:640px;background:#ffffff;border-radius:8px;">
+<body style="margin:0;padding:0;background:#000000;font-family:Arial,Helvetica,sans-serif;color:#ffffff;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#000000;" bgcolor="#000000"><tr><td align="center" style="padding:24px 12px;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:640px;background:#0a0a0a;border:1px solid #1f1f1f;border-radius:8px;">
   <tr><td style="padding:24px 24px 8px;">
-    <div style="font-size:13px;color:#6b7280;">Beni JobSearch · {{ data_extenso }}</div>
-    <h1 style="margin:6px 0 4px;font-size:22px;">{{ vagas|length }} vagas júnior 100% remotas</h1>
-    <div style="font-size:14px;color:#4b5563;">Desenvolvimento de Software, Dados e IA · publicadas nos últimos 7 dias</div>
-    {% for obs in observacoes %}<div style="margin-top:12px;padding:10px 12px;background:#fff7e6;border-radius:6px;font-size:13px;color:#7a4b00;">{{ obs }}</div>{% endfor %}
+    <div style="font-size:13px;color:#8a8a8a;">Beni JobSearch · {{ data_extenso }}</div>
+    <h1 style="margin:6px 0 4px;font-size:22px;color:#ffffff;">{{ vagas|length }} vagas júnior 100% remotas</h1>
+    <div style="font-size:14px;color:#b3b3b3;">Desenvolvimento de Software, Dados e IA · publicadas nos últimos 7 dias</div>
+    {% for obs in observacoes %}<div style="margin-top:12px;padding:10px 12px;background:#1c1708;border:1px solid #3d3110;border-radius:6px;font-size:13px;color:#fcd34d;">{{ obs }}</div>{% endfor %}
   </td></tr>
   {% for grupo, titulo in [("pme", "Pequenas e médias empresas"), ("grande", "Grandes empresas")] %}
   {% set lista = vagas | selectattr("grupo", "equalto", grupo) | list %}
   {% if lista %}
-  <tr><td style="padding:16px 24px 0;"><h2 style="margin:0;font-size:15px;text-transform:uppercase;letter-spacing:.5px;color:#374151;">{{ titulo }} ({{ lista|length }})</h2></td></tr>
+  <tr><td style="padding:16px 24px 0;"><h2 style="margin:0;font-size:15px;text-transform:uppercase;letter-spacing:.5px;color:#d4d4d4;">{{ titulo }} ({{ lista|length }})</h2></td></tr>
   {% for v in lista %}
   <tr><td style="padding:10px 24px;">
-    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border:1px solid #e5e7eb;border-radius:6px;"><tr><td style="padding:14px 16px;">
-      <div style="font-size:16px;font-weight:bold;">{{ v.titulo }}</div>
-      <div style="font-size:14px;color:#374151;margin-top:2px;">{{ v.empresa }} · empresa {{ v.porte }}</div>
-      <div style="font-size:12px;color:#6b7280;margin-top:4px;">{{ v.area }} · {{ v.publicada }} · via {{ v.fonte }}</div>
-      {% if v.salario %}<div style="font-size:13px;color:#047857;margin-top:6px;">💰 {{ v.salario }}</div>{% endif %}
-      {% if v.aviso %}<div style="font-size:12px;color:#7a4b00;margin-top:6px;">⚠ {{ v.aviso }}</div>{% endif %}
-      <div style="font-size:13px;margin-top:8px;"><b>Requisitos:</b> {{ v.requisitos | join(" · ") }}</div>
-      <div style="margin-top:10px;"><a href="{{ v.link }}" style="display:inline-block;padding:8px 14px;background:#2563eb;color:#ffffff;text-decoration:none;border-radius:5px;font-size:13px;">Ver vaga e candidatar-se</a></div>
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border:1px solid #2a2a2a;border-radius:6px;background:#141414;" bgcolor="#141414"><tr><td style="padding:14px 16px;">
+      <div style="font-size:16px;font-weight:bold;color:#ffffff;">{{ v.titulo }}</div>
+      <div style="font-size:14px;color:#d4d4d4;margin-top:2px;">{{ v.empresa }} · empresa {{ v.porte }}</div>
+      <div style="font-size:12px;color:#8a8a8a;margin-top:4px;">{{ v.area }} · {{ v.publicada }} · via {{ v.fonte }}</div>
+      {% if v.salario %}<div style="font-size:13px;color:#4ade80;margin-top:6px;">💰 {{ v.salario }}</div>{% endif %}
+      {% if v.aviso %}<div style="font-size:12px;color:#fbbf24;margin-top:6px;">⚠ {{ v.aviso }}</div>{% endif %}
+      <div style="font-size:13px;margin-top:8px;color:#e5e5e5;"><b>Requisitos:</b> {{ v.requisitos | join(" · ") }}</div>
+      <div style="margin-top:10px;"><a href="{{ v.link }}" style="display:inline-block;padding:8px 14px;background:#ffffff;color:#000000;font-weight:bold;text-decoration:none;border-radius:5px;font-size:13px;">Ver vaga e candidatar-se</a></div>
     </td></tr></table>
   </td></tr>
   {% endfor %}{% endif %}{% endfor %}
   {% if internacionais %}
-  <tr><td style="padding:20px 24px 0;"><h2 style="margin:0;font-size:15px;text-transform:uppercase;letter-spacing:.5px;color:#374151;">🌎 Vagas internacionais da semana ({{ internacionais|length }})</h2></td></tr>
+  <tr><td style="padding:20px 24px 0;"><h2 style="margin:0;font-size:15px;text-transform:uppercase;letter-spacing:.5px;color:#d4d4d4;">🌎 Vagas internacionais da semana ({{ internacionais|length }})</h2></td></tr>
   {% for v in internacionais %}
   <tr><td style="padding:10px 24px;">
-    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border:1px solid #e5e7eb;border-radius:6px;"><tr><td style="padding:14px 16px;">
-      <div style="font-size:16px;font-weight:bold;">{{ v.titulo }}</div>
-      <div style="font-size:14px;color:#374151;margin-top:2px;">{{ v.empresa }} · {{ v.pais }}</div>
-      <div style="font-size:12px;color:#6b7280;margin-top:4px;">{{ v.contratacao }} · {{ v.publicada }} · via {{ v.fonte }}</div>
-      <div style="font-size:13px;margin-top:8px;"><b>Requisitos:</b> {{ v.requisitos | join(" · ") }}</div>
-      <div style="margin-top:10px;"><a href="{{ v.link }}" style="display:inline-block;padding:8px 14px;background:#2563eb;color:#ffffff;text-decoration:none;border-radius:5px;font-size:13px;">Ver vaga e candidatar-se</a></div>
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border:1px solid #2a2a2a;border-radius:6px;background:#141414;" bgcolor="#141414"><tr><td style="padding:14px 16px;">
+      <div style="font-size:16px;font-weight:bold;color:#ffffff;">{{ v.titulo }}</div>
+      <div style="font-size:14px;color:#d4d4d4;margin-top:2px;">{{ v.empresa }} · {{ v.pais }}</div>
+      <div style="font-size:12px;color:#8a8a8a;margin-top:4px;">{{ v.contratacao }} · {{ v.publicada }} · via {{ v.fonte }}</div>
+      <div style="font-size:13px;margin-top:8px;color:#e5e5e5;"><b>Requisitos:</b> {{ v.requisitos | join(" · ") }}</div>
+      <div style="margin-top:10px;"><a href="{{ v.link }}" style="display:inline-block;padding:8px 14px;background:#ffffff;color:#000000;font-weight:bold;text-decoration:none;border-radius:5px;font-size:13px;">Ver vaga e candidatar-se</a></div>
     </td></tr></table>
   </td></tr>
   {% endfor %}{% endif %}
-  <tr><td style="padding:16px 24px 24px;font-size:11px;color:#9ca3af;">Gerado automaticamente pelo Beni JobSearch. Critérios em config.yaml no repositório Beni-JobSearch.</td></tr>
+  <tr><td style="padding:16px 24px 24px;font-size:11px;color:#6b6b6b;">Gerado automaticamente pelo Beni JobSearch. Critérios em config.yaml no repositório Beni-JobSearch.</td></tr>
 </table></td></tr></table>
 </body></html>
