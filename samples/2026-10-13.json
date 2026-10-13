@@ -1,38 +1,163 @@
 {
-  "data": "2026-10-13",
-  "observacoes": [
-    "Só 7 vagas de pequenas e médias empresas passaram em todos os filtros hoje, então este e-mail tem 9 vagas em vez de 10."
-  ],
-  "vagas": [
-    {"titulo": "Desenvolvedor(a) Fullstack Júnior", "empresa": "BBChain", "porte": "pequena", "area": "Desenvolvimento", "publicada": "há 1 dia",
-     "requisitos": ["React e JavaScript", "TypeScript básico", "Consumo de APIs REST", "Back-end Java/Spring Boot (desejável)"],
-     "link": "https://www.glassdoor.com.br/job-listing/remoto-desenvolvedor-a-fullstack-junior-bbchain-JV_IC2479061_KO0,39_KE40,47.htm?jl=1010290198527", "fonte": "Glassdoor"},
-    {"titulo": "Web Analytics JR", "empresa": "Lima Consulting (Teixeira Lima & Brasil)", "porte": "pequena", "area": "Dados", "publicada": "há 6 dias",
-     "requisitos": ["JavaScript, HTML e CSS", "Python básico", "Manipulação de dados", "Google Tag Manager ou similar"],
-     "link": "https://www.glassdoor.com.br/job-listing/web-analytics-jr-lima-consulting-group-brasil-JV_KO0,16_KE17,45.htm?jl=1010287218241", "fonte": "Glassdoor"},
-    {"titulo": "Desenvolvedor SQL Jr", "empresa": "I4PRO", "porte": "média (~260 funcionários)", "area": "Desenvolvimento / Dados", "publicada": "há 6 dias",
-     "requisitos": ["Lógica de programação", "SQL básico", "C# (desejável)", "Graduação em andamento"],
-     "link": "https://www.glassdoor.com.br/job-listing/desenvolvedor-sql-jr-b-i4pro-JV_KO0,22_KE23,28.htm?jl=1010287535989", "fonte": "Glassdoor"},
-    {"titulo": "Analista de Qualidade de Software (QA) Júnior", "empresa": "Quality Digital", "porte": "média", "area": "Desenvolvimento (QA)", "publicada": "há 3 dias",
-     "requisitos": ["Testes funcionais e regressivos", "Casos e cenários de teste", "Registro de bugs", "Metodologias ágeis"],
-     "link": "https://www.glassdoor.com.br/job-listing/analista-de-qualidade-de-software-qa-junior-quality-JV_KO0,43_KE44,51.htm?jl=1010290440798", "fonte": "Glassdoor"},
-    {"titulo": "Jr. Data Quality Analyst", "empresa": "Involves", "porte": "média", "area": "Dados / IA", "publicada": "há 3 dias",
-     "requisitos": ["Excel/Google Sheets básico", "Rotulagem de dados para IA (bounding boxes)", "CRM e entrada de dados", "Atenção a detalhes"],
-     "aviso": "Vaga afirmativa para pessoas com deficiência", 
-     "link": "https://www.glassdoor.com.br/job-listing/jr-data-quality-analyst-remote-afirmativa-para-pessoas-com-deficiência-pcd-involves-JV_KO0,74_KE75,83.htm?jl=1010291008804", "fonte": "Glassdoor"},
-    {"titulo": "Desenvolvedor Full Stack JR", "empresa": "Prothera", "porte": "pequena", "area": "Desenvolvimento", "publicada": "data não confirmada",
-     "requisitos": ["Java e bancos relacionais", "JavaScript, HTML e CSS", "Raciocínio matemático", "Graduação em andamento"],
-     "link": "https://br.indeed.com/viewjob?jk=e32f01d9f6566b0e", "fonte": "Indeed"},
-    {"titulo": "Desenvolvedor(a) Júnior", "empresa": "Construmarket", "porte": "pequena", "area": "Desenvolvimento", "publicada": "data não confirmada",
-     "requisitos": ["C# e .NET básico", "TypeScript e Angular", "Bancos de dados", "Integração com APIs"],
-     "link": "https://br.indeed.com/viewjob?jk=7a26a31ef15233ef", "fonte": "Indeed"},
-    {"titulo": "Junior Java Developer", "empresa": "CI&T", "porte": "grande", "area": "Desenvolvimento", "publicada": "há 4 dias",
-     "requisitos": ["Java com Spring Boot 3", "JavaScript e TypeScript", "OOP e SOLID", "Testes automatizados e APIs REST"],
-     "aviso": "Quem mora na região de Campinas trabalha no escritório",
-     "link": "https://www.glassdoor.com.br/job-listing/job-32009-junior-java-developer-brasil-cit-JV_KO0,38_KE39,42.htm?jl=1010290120309", "fonte": "Glassdoor"},
-    {"titulo": "Desenvolvedor Back-end Java Jr (TAG)", "empresa": "Estapar", "porte": "grande", "area": "Desenvolvimento", "publicada": "há 3 dias",
-     "requisitos": ["Java", "Spring / Spring Boot", "APIs REST", "SQL e MySQL básico", "Git"],
-     "link": "https://www.glassdoor.com.br/job-listing/desenvolvedor-back-end-java-jr-tag-estapar-estacionamentos-JV_KO0,34_KE35,58.htm?jl=1010289771515", "fonte": "Glassdoor"}
-  ],
-  "internacionais": []
+ "data": "2026-10-13",
+ "observacoes": [
+  "Uma vaga (Prothera) vem de um site que não mostra a data de publicação e está marcada como \"data não confirmada\"."
+ ],
+ "vagas": [
+  {
+   "titulo": "Desenvolvedor(a) Fullstack Júnior",
+   "empresa": "BBChain",
+   "porte": "pequena",
+   "area": "Desenvolvimento",
+   "publicada": "há 1 dia",
+   "requisitos": [
+    "React e JavaScript",
+    "TypeScript básico",
+    "Consumo de APIs REST",
+    "Back-end Java/Spring Boot (desejável)"
+   ],
+   "link": "https://www.glassdoor.com.br/job-listing/remoto-desenvolvedor-a-fullstack-junior-bbchain-JV_IC2479061_KO0,39_KE40,47.htm?jl=1010290198527",
+   "fonte": "Glassdoor"
+  },
+  {
+   "titulo": "Web Analytics JR",
+   "empresa": "Lima Consulting (Teixeira Lima & Brasil)",
+   "porte": "pequena",
+   "area": "Dados",
+   "publicada": "há 6 dias",
+   "requisitos": [
+    "JavaScript, HTML e CSS",
+    "Python básico",
+    "Manipulação de dados",
+    "Google Tag Manager ou similar"
+   ],
+   "link": "https://www.glassdoor.com.br/job-listing/web-analytics-jr-lima-consulting-group-brasil-JV_KO0,16_KE17,45.htm?jl=1010287218241",
+   "fonte": "Glassdoor"
+  },
+  {
+   "titulo": "Desenvolvedor SQL Jr",
+   "empresa": "I4PRO",
+   "porte": "média (~260 funcionários)",
+   "area": "Desenvolvimento / Dados",
+   "publicada": "há 6 dias",
+   "requisitos": [
+    "Lógica de programação",
+    "SQL básico",
+    "C# (desejável)",
+    "Graduação em andamento"
+   ],
+   "link": "https://www.glassdoor.com.br/job-listing/desenvolvedor-sql-jr-b-i4pro-JV_KO0,22_KE23,28.htm?jl=1010287535989",
+   "fonte": "Glassdoor"
+  },
+  {
+   "titulo": "Analista de Qualidade de Software (QA) Júnior",
+   "empresa": "Quality Digital",
+   "porte": "média",
+   "area": "Desenvolvimento (QA)",
+   "publicada": "há 3 dias",
+   "requisitos": [
+    "Testes funcionais e regressivos",
+    "Casos e cenários de teste",
+    "Registro de bugs",
+    "Metodologias ágeis"
+   ],
+   "link": "https://www.glassdoor.com.br/job-listing/analista-de-qualidade-de-software-qa-junior-quality-JV_KO0,43_KE44,51.htm?jl=1010290440798",
+   "fonte": "Glassdoor"
+  },
+  {
+   "titulo": "Desenvolvedor RPA Júnior (Python)",
+   "empresa": "Danpi Talentos Humanos",
+   "porte": "pequena",
+   "area": "Desenvolvimento / Automação",
+   "publicada": "há 3 dias",
+   "salario": "até R$ 3.000",
+   "requisitos": [
+    "Python (POO, APIs REST, JSON)",
+    "Power Automate",
+    "Playwright ou Selenium básico",
+    "SQL e Git"
+   ],
+   "link": "https://www.nerdin.com.br/vaga_emprego/vaga-desenvolvedor-rpa-junior-automacao-de-processos-com-python-99652.php",
+   "fonte": "NerdIn"
+  },
+  {
+   "titulo": "Analista de Dados Júnior",
+   "empresa": "EP Conexões e Negócios",
+   "porte": "pequena",
+   "area": "Dados",
+   "publicada": "há 3 dias",
+   "requisitos": [
+    "Power BI",
+    "Excel intermediário",
+    "Raciocínio lógico",
+    "SQL (diferencial)"
+   ],
+   "link": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-de-dados-junior-99647.php",
+   "fonte": "NerdIn"
+  },
+  {
+   "titulo": "Jr. Data Quality Analyst",
+   "empresa": "Involves",
+   "porte": "média",
+   "area": "Dados / IA",
+   "publicada": "há 3 dias",
+   "requisitos": [
+    "Excel/Google Sheets básico",
+    "Rotulagem de dados para IA (bounding boxes)",
+    "CRM e entrada de dados",
+    "Atenção a detalhes"
+   ],
+   "aviso": "Vaga afirmativa para pessoas com deficiência",
+   "link": "https://www.glassdoor.com.br/job-listing/jr-data-quality-analyst-remote-afirmativa-para-pessoas-com-deficiência-pcd-involves-JV_KO0,74_KE75,83.htm?jl=1010291008804",
+   "fonte": "Glassdoor"
+  },
+  {
+   "titulo": "Desenvolvedor Full Stack JR",
+   "empresa": "Prothera",
+   "porte": "pequena",
+   "area": "Desenvolvimento",
+   "publicada": "data não confirmada",
+   "requisitos": [
+    "Java e bancos relacionais",
+    "JavaScript, HTML e CSS",
+    "Raciocínio matemático",
+    "Graduação em andamento"
+   ],
+   "link": "https://br.indeed.com/viewjob?jk=e32f01d9f6566b0e",
+   "fonte": "Indeed"
+  },
+  {
+   "titulo": "Junior Java Developer",
+   "empresa": "CI&T",
+   "porte": "grande",
+   "area": "Desenvolvimento",
+   "publicada": "há 5 dias",
+   "requisitos": [
+    "Java com Spring Boot 3",
+    "JavaScript e TypeScript",
+    "OOP e SOLID",
+    "Testes automatizados e APIs REST"
+   ],
+   "aviso": "Quem mora na região de Campinas trabalha no escritório",
+   "link": "https://jobs.lever.co/ciandt/8cde4bd9-6da1-4148-8d6c-4c213926b82b",
+   "fonte": "página de carreiras da CI&T (Lever)"
+  },
+  {
+   "titulo": "Desenvolvedor Back-end Java Jr (TAG)",
+   "empresa": "Estapar",
+   "porte": "grande",
+   "area": "Desenvolvimento",
+   "publicada": "há 3 dias",
+   "requisitos": [
+    "Java",
+    "Spring / Spring Boot",
+    "APIs REST",
+    "SQL e MySQL básico",
+    "Git"
+   ],
+   "link": "https://www.glassdoor.com.br/job-listing/desenvolvedor-back-end-java-jr-tag-estapar-estacionamentos-JV_KO0,34_KE35,58.htm?jl=1010289771515",
+   "fonte": "Glassdoor"
+  }
+ ],
+ "internacionais": []
 }

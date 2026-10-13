@@ -27,19 +27,29 @@ bloco_internacional:
   regra: vaga júnior, 100% remota, aberta a candidatos no Brasil (contractor, PJ, Deel, Remote.com etc.)
 
 fontes:
+  # Ordem de prioridade. Sempre que possível, o link enviado é o da página de carreiras
+  # da própria empresa (Gupy, Lever, Greenhouse, InHire, Sólides, Recrutei), não o do agregador.
   nacionais:
-    - glassdoor.com.br              # mostra a idade da vaga, usado para validar os 7 dias
-    - br.indeed.com
-    - gupy.io
-    - programathor.com.br
-    - remotar.com.br
-    - linkedin.com/jobs             # só via busca na web; o site bloqueia coleta direta
+    - api.remotar.com.br/jobs        # só vagas remotas, traz data e o link de carreira da empresa
+    - nerdin.com.br/vagas.php        # nicho de TI, mostra a idade da vaga e o salário
+    - programathor.com.br/jobs       # nicho de TI, marca o porte (pequena/média, startup)
+    - api.lever.co/v0/postings/<empresa>          # páginas de carreira com data de criação
+    - boards-api.greenhouse.io/v1/boards/<empresa>/jobs
+    - <empresa>.gupy.io              # páginas de carreira na Gupy, achadas por busca na web
+    - glassdoor.com.br               # mostra a idade da vaga, usado para validar os 7 dias
+    - br.indeed.com                  # último recurso, não mostra a data
   internacionais:
     - remoteok.com
     - weworkremotely.com
     - remotive.com
     - wellfound.com
     - himalayas.app
+  inacessiveis:                      # testados em 13/10/2026, só carregam com JavaScript ou bloqueiam leitura
+    - linkedin.com/jobs
+    - coodesh.com
+    - trampos.co
+    - inhire.app (a página da vaga; o link ainda pode ser enviado)
+    - github.com/*/vagas
 
 regras_de_exclusao:
   - vaga já enviada antes (ver data/sent_jobs.json)
