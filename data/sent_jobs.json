@@ -312,5 +312,79 @@
   ],
   "link": "https://fcamara.gupy.io/job/eyJqb2JJZCI6MTI2OTIwNTYsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
   "enviada_em": "2026-10-13"
+ },
+ {
+  "empresa": "Fullstack Brasil",
+  "titulo": "Desenvolvedor(a) Júnior",
+  "area": "Desenvolvimento",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "Angular e TypeScript",
+   "Node.js",
+   "SQL Server",
+   "Git"
+  ],
+  "link": "https://www.nerdin.com.br/vaga_emprego/vaga-desenvolvedor-a-junior-99724.php",
+  "enviada_em": "2026-10-14"
+ },
+ {
+  "empresa": "Be.Aliant",
+  "titulo": "Desenvolvedor Full Stack JR",
+  "area": "Desenvolvimento",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "Graduação em andamento",
+   "HTML5, CSS3 e JavaScript",
+   "React ou Next.js",
+   "Java e POO",
+   "PostgreSQL e APIs REST"
+  ],
+  "link": "https://www.glassdoor.com.br/job-listing/desenvolvedor-full-stack-jr-be-aliant-JV_KO0,27_KE28,37.htm?jl=1010295691303",
+  "enviada_em": "2026-10-14"
+ },
+ {
+  "empresa": "Viradev",
+  "titulo": "Desenvolvedor(a) Full Stack Júnior (React e TypeScript)",
+  "area": "Desenvolvimento / IA",
+  "porte": "pequena/média",
+  "requisitos": [
+   "React, JavaScript/TypeScript, HTML/CSS",
+   "APIs REST/JSON e Git",
+   "Testes automatizados",
+   "Ferramentas de IA para desenvolvimento",
+   "Inglês avançado"
+  ],
+  "link": "https://programathor.com.br/jobs/33838-desenvolvedor-a-full-stack-junior-react-e-typescript",
+  "enviada_em": "2026-10-14"
+ },
+ {
+  "empresa": "CI&T",
+  "titulo": "AI Engineer (Junior Developer Backend Java)",
+  "area": "Desenvolvimento / IA",
+  "porte": "grande",
+  "requisitos": [
+   "Java e microsserviços",
+   "SQL e NoSQL",
+   "Kafka ou RabbitMQ",
+   "JUnit e Mockito",
+   "Docker, Kubernetes e CI/CD"
+  ],
+  "link": "https://www.glassdoor.com.br/job-listing/job-32162-ai-engineer-junior-developer-backend-java-brasil-cit-JV_KO0,58_KE59,62.htm?jl=1010294206427",
+  "enviada_em": "2026-10-14"
+ },
+ {
+  "empresa": "Sicredi",
+  "titulo": "Engenharia de Software Júnior",
+  "area": "Desenvolvimento",
+  "porte": "grande",
+  "requisitos": [
+   "Java e Spring Boot",
+   "APIs REST e microsserviços",
+   "Bancos de dados",
+   "SOLID e Git",
+   "Testes unitários, Docker e CI/CD"
+  ],
+  "link": "https://sicredi.gupy.io/job/eyJqb2JJZCI6MTI1OTk1ODksInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+  "enviada_em": "2026-10-14"
  }
 ]

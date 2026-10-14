@@ -1,0 +1,25 @@
+{
+ "data": "2026-10-14",
+ "observacoes": [
+  "Este e-mail saiu com atraso: a rotina das 10h não rodou no horário e o envio foi feito à noite.",
+  "Hoje só 3 vagas de pequenas e médias empresas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas), então este e-mail tem 5 vagas."
+ ],
+ "vagas": [
+  {"titulo":"Desenvolvedor(a) Júnior","empresa":"Fullstack Brasil","porte":"de porte não informado","area":"Desenvolvimento","publicada":"hoje",
+   "requisitos":["Angular e TypeScript","Node.js","SQL Server","Git"],
+   "aviso":"","link":"https://www.nerdin.com.br/vaga_emprego/vaga-desenvolvedor-a-junior-99724.php","fonte":"NerdIn"},
+  {"titulo":"Desenvolvedor Full Stack JR","empresa":"Be.Aliant","porte":"de porte não informado","area":"Desenvolvimento","publicada":"há 1 dia",
+   "requisitos":["Graduação em andamento","HTML5, CSS3 e JavaScript","React ou Next.js","Java e POO","PostgreSQL e APIs REST"],
+   "aviso":"Pede até 2 anos de experiência, estágio conta","link":"https://www.glassdoor.com.br/job-listing/desenvolvedor-full-stack-jr-be-aliant-JV_KO0,27_KE28,37.htm?jl=1010295691303","fonte":"Glassdoor"},
+  {"titulo":"Desenvolvedor(a) Full Stack Júnior (React e TypeScript)","empresa":"Viradev","porte":"pequena/média","area":"Desenvolvimento / IA","publicada":"data não confirmada","salario":"Até R$ 10.000 (PJ)",
+   "requisitos":["React, JavaScript/TypeScript, HTML/CSS","APIs REST/JSON e Git","Testes automatizados","Ferramentas de IA para desenvolvimento","Inglês avançado"],
+   "aviso":"Pede 1 ano de experiência e sobreposição com horário dos EUA; data de publicação não confirmada","link":"https://programathor.com.br/jobs/33838-desenvolvedor-a-full-stack-junior-react-e-typescript","fonte":"ProgramaThor"},
+  {"titulo":"AI Engineer (Junior Developer Backend Java)","empresa":"CI&T","porte":"grande","area":"Desenvolvimento / IA","publicada":"há 1 dia",
+   "requisitos":["Java e microsserviços","SQL e NoSQL","Kafka ou RabbitMQ","JUnit e Mockito","Docker, Kubernetes e CI/CD"],
+   "aviso":"Quem mora em Campinas trabalha no escritório; remoto para as demais cidades","link":"https://www.glassdoor.com.br/job-listing/job-32162-ai-engineer-junior-developer-backend-java-brasil-cit-JV_KO0,58_KE59,62.htm?jl=1010294206427","fonte":"Glassdoor"},
+  {"titulo":"Engenharia de Software Júnior","empresa":"Sicredi","porte":"grande","area":"Desenvolvimento","publicada":"há 5 dias",
+   "requisitos":["Java e Spring Boot","APIs REST e microsserviços","Bancos de dados","SOLID e Git","Testes unitários, Docker e CI/CD"],
+   "aviso":"","link":"https://sicredi.gupy.io/job/eyJqb2JJZCI6MTI1OTk1ODksInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar","fonte":"Remotar / Gupy"}
+ ],
+ "internacionais": []
+}
