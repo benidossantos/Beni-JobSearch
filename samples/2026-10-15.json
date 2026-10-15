@@ -1,0 +1,26 @@
+{
+ "data": "2026-10-15",
+ "observacoes": [
+  "Semana fraca de vagas: hoje só 4 vagas nacionais novas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas). As outras que apareceram já estavam nos e-mails anteriores ou eram híbridas, pleno/sênior ou exclusivas para PcD.",
+  "Vagas internacionais júnior abertas ao Brasil também estão raras: só 1 passou nos filtros nesta quinta. As demais exigiam residência em outro país da América Latina ou eram de nível pleno."
+ ],
+ "vagas": [
+  {"titulo":"Analista de Implantação Júnior","empresa":"Animati (Grupo Arcadea)","porte":"de porte não informado","area":"Sistemas / Dados","publicada":"há 6 dias",
+   "requisitos":["SQL em PostgreSQL (consultas, updates e scripts de correção)","Implantação e suporte de sistemas","Análise de logs (DICOM e HL7)","Windows e Linux"],
+   "aviso":"Cargo técnico de implantação de software de saúde, não de desenvolvimento. O anúncio diz home office, mas não diz 100% remoto.","link":"https://www.glassdoor.com.br/job-listing/analista-de-implantação-júnior-animati-JV_KO0,30_KE31,38.htm?jl=1010287315586","fonte":"Glassdoor"},
+  {"titulo":"Desenvolvedor(a) Back-end","empresa":"Empregga","porte":"pequena (1 a 10 funcionários)","area":"Desenvolvimento","publicada":"há 1 dia","salario":"R$ 6.000/mês (PJ)",
+   "requisitos":["TypeScript e NestJS","PostgreSQL e TypeORM","Filas com Bull","Integração com APIs externas"],
+   "aviso":"Marcada como júnior, mas pede de 1 a 3 anos de experiência","link":"https://empregga.pandape.infojobs.com.br/Detail/3824459","fonte":"Remote Rocketship"},
+  {"titulo":"Analista de Sistemas Júnior (Remoto)","empresa":"Vitru Educação","porte":"grande","area":"Desenvolvimento","publicada":"há 4 dias",
+   "requisitos":["Desenvolvimento na plataforma Bubble","Integrações via APIs REST, SOAP e Web Services","SQL e bancos de dados","Lógica de programação e HTTP","Graduação completa ou em andamento"],
+   "aviso":"","link":"https://www.glassdoor.com.br/job-listing/analista-de-sistemas-júnior-remoto-vitru-JV_KO0,34_KE35,40.htm?jl=1010289773658","fonte":"Glassdoor"},
+  {"titulo":"Desenvolvedor Back-end Java Jr (Seguros)","empresa":"Estapar","porte":"grande","area":"Desenvolvimento","publicada":"há 6 dias",
+   "requisitos":["Java ou Kotlin","Spring Boot, Micronaut ou Quarkus","OAuth e JWT","APIs REST","SQL (MySQL) e Git"],
+   "aviso":"Outra vaga da mesma equipe (TAG) já foi enviada na segunda","link":"https://www.glassdoor.com.br/job-listing/desenvolvedor-back-end-java-jr-seguros-estapar-estacionamentos-JV_KO0,38_KE39,62.htm?jl=1010290098416","fonte":"Glassdoor"}
+ ],
+ "internacionais": [
+  {"titulo":"Desenvolvedor(a) Web Júnior","empresa":"GoFasti","pais":"América Latina (empresa de 51 a 200 funcionários)","contratacao":"Remoto alocado em cliente, residência na América Latina","publicada":"hoje","salario":"US$ 2.000 a 2.500/mês",
+   "requisitos":["Inglês fluente","TypeScript e JavaScript","React","HTML, CSS e layout responsivo","APIs REST e Git"],
+   "aviso":"Pede 1 a 3 anos de experiência, mas aceita estágio, bootcamp ou projetos pessoais","link":"https://boards.greenhouse.io/gofasti/jobs/6224954004","fonte":"Remote Rocketship / Greenhouse"}
+ ]
+}

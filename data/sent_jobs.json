@@ -386,5 +386,78 @@
   ],
   "link": "https://sicredi.gupy.io/job/eyJqb2JJZCI6MTI1OTk1ODksInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
   "enviada_em": "2026-10-14"
+ },
+ {
+  "empresa": "Animati (Grupo Arcadea)",
+  "titulo": "Analista de Implantação Júnior",
+  "area": "Sistemas / Dados",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "SQL em PostgreSQL (consultas, updates e scripts de correção)",
+   "Implantação e suporte de sistemas",
+   "Análise de logs (DICOM e HL7)",
+   "Windows e Linux"
+  ],
+  "link": "https://www.glassdoor.com.br/job-listing/analista-de-implantação-júnior-animati-JV_KO0,30_KE31,38.htm?jl=1010287315586",
+  "enviada_em": "2026-10-15"
+ },
+ {
+  "empresa": "Empregga",
+  "titulo": "Desenvolvedor(a) Back-end",
+  "area": "Desenvolvimento",
+  "porte": "pequena (1 a 10 funcionários)",
+  "requisitos": [
+   "TypeScript e NestJS",
+   "PostgreSQL e TypeORM",
+   "Filas com Bull",
+   "Integração com APIs externas"
+  ],
+  "link": "https://empregga.pandape.infojobs.com.br/Detail/3824459",
+  "enviada_em": "2026-10-15"
+ },
+ {
+  "empresa": "Vitru Educação",
+  "titulo": "Analista de Sistemas Júnior (Remoto)",
+  "area": "Desenvolvimento",
+  "porte": "grande",
+  "requisitos": [
+   "Desenvolvimento na plataforma Bubble",
+   "Integrações via APIs REST, SOAP e Web Services",
+   "SQL e bancos de dados",
+   "Lógica de programação e HTTP",
+   "Graduação completa ou em andamento"
+  ],
+  "link": "https://www.glassdoor.com.br/job-listing/analista-de-sistemas-júnior-remoto-vitru-JV_KO0,34_KE35,40.htm?jl=1010289773658",
+  "enviada_em": "2026-10-15"
+ },
+ {
+  "empresa": "Estapar",
+  "titulo": "Desenvolvedor Back-end Java Jr (Seguros)",
+  "area": "Desenvolvimento",
+  "porte": "grande",
+  "requisitos": [
+   "Java ou Kotlin",
+   "Spring Boot, Micronaut ou Quarkus",
+   "OAuth e JWT",
+   "APIs REST",
+   "SQL (MySQL) e Git"
+  ],
+  "link": "https://www.glassdoor.com.br/job-listing/desenvolvedor-back-end-java-jr-seguros-estapar-estacionamentos-JV_KO0,38_KE39,62.htm?jl=1010290098416",
+  "enviada_em": "2026-10-15"
+ },
+ {
+  "empresa": "GoFasti",
+  "titulo": "Desenvolvedor(a) Web Júnior",
+  "area": "Desenvolvimento (internacional)",
+  "porte": "internacional",
+  "requisitos": [
+   "Inglês fluente",
+   "TypeScript e JavaScript",
+   "React",
+   "HTML, CSS e layout responsivo",
+   "APIs REST e Git"
+  ],
+  "link": "https://boards.greenhouse.io/gofasti/jobs/6224954004",
+  "enviada_em": "2026-10-15"
  }
 ]
