@@ -1,0 +1,55 @@
+BENI JOBSEARCH - REQUISITOS MAIS PEDIDOS DA SEMANA
+Período: 12/10 a 16/10/2026 · 37 vagas analisadas
+
+TOP 10 GERAL
+ 1. APIs REST                                18 vagas (49%)
+ 2. SQL                                      14 vagas (38%)
+ 3. Git                                      14 vagas (38%)
+ 4. Java                                     12 vagas (32%)
+ 5. JavaScript                               11 vagas (30%)
+ 6. TypeScript                               10 vagas (27%)
+ 7. Inglês                                   10 vagas (27%)
+ 8. Testes                                    9 vagas (24%)
+ 9. Spring / Spring Boot                      8 vagas (22%)
+10. React                                     8 vagas (22%)
+
+DADOS
+  - Manipulação de dados (3)
+  - Python (2)
+  - SQL (2)
+  - Excel / Google Sheets (2)
+  - Power BI (2)
+
+DESENVOLVIMENTO
+  - APIs REST (18)
+  - Git (14)
+  - Java (12)
+  - SQL (11)
+  - TypeScript (9)
+
+IA
+  - TypeScript (1)
+  - Python (1)
+  - Testes (1)
+  - Inglês (1)
+  - JavaScript (1)
+
+QA
+  - Testes (1)
+  - Inglês (1)
+  - Metodologias ágeis (1)
+  - Automação web (Selenium/Playwright) (1)
+
+SISTEMAS
+  - SQL (1)
+  - Implantação e suporte de sistemas (1)
+  - Windows e Linux (1)
+  - Análise de logs (DICOM e HL7) (1)
+
+O QUE PRIORIZAR NOS ESTUDOS
+  1. APIs REST aparecem em quase metade das vagas: saiba criar e consumir uma API do zero (rotas, verbos HTTP, status, JSON).
+  2. SQL e Git estão em 4 de cada 10 vagas: pratique consultas com JOIN e GROUP BY, e fluxo de branch e pull request.
+  3. Java com Spring Boot é a stack de back-end mais pedida: um projeto CRUD com Spring Boot no GitHub ajuda muito.
+  4. No front-end, JavaScript e TypeScript com React dominam: vale migrar um projeto pessoal para TypeScript.
+  5. Inglês aparece em 1 de cada 4 vagas, e em quase todas as internacionais.
+  6. Testes automatizados (JUnit, Jest, Playwright) são diferencial frequente: inclua testes nos seus projetos.

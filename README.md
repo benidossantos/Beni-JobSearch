@@ -45,24 +45,25 @@ Um exemplo está em [`samples/relatorio-semanal-exemplo.txt`](samples/relatorio-
 ### Requisitos mais pedidos até agora
 
 <!-- REQUISITOS:INICIO (atualizado automaticamente toda sexta-feira) -->
-Base: 15 vagas enviadas em 13/10/2026 (10 nacionais + 5 internacionais).
+Base: 37 vagas enviadas de 13/10 a 16/10/2026 (inclui as 15 do e-mail de teste).
 
 | # | Requisito | Vagas | % |
 | --- | --- | --- | --- |
-| 1 | APIs REST | 6 | 40% |
-| 2 | JavaScript | 5 | 33% |
-| 3 | Python | 5 | 33% |
-| 4 | SQL | 5 | 33% |
-| 5 | Java | 4 | 27% |
-| 6 | Testes | 4 | 27% |
-| 7 | TypeScript | 3 | 20% |
-| 8 | Spring / Spring Boot | 3 | 20% |
-| 9 | Git | 3 | 20% |
-| 10 | Inglês | 3 | 20% |
+| 1 | APIs REST | 18 | 49% |
+| 2 | SQL | 14 | 38% |
+| 3 | Git | 14 | 38% |
+| 4 | Java | 12 | 32% |
+| 5 | JavaScript | 11 | 30% |
+| 6 | TypeScript | 10 | 27% |
+| 7 | Inglês | 10 | 27% |
+| 8 | Testes | 9 | 24% |
+| 9 | Spring / Spring Boot | 8 | 22% |
+| 10 | React | 8 | 22% |
 
-**O que priorizar:** APIs REST e SQL valem para qualquer trilha; Java + Spring Boot domina as vagas
-nacionais e Python domina as internacionais e as de Dados/IA; inglês fluente é o que mais abre
-as vagas internacionais.
+**O que priorizar:** APIs REST aparecem em quase metade das vagas, e SQL e Git em 4 de cada 10,
+então valem para qualquer trilha. No back-end, Java + Spring Boot é a stack mais pedida; no front-end,
+JavaScript/TypeScript com React. Inglês aparece em 1 de cada 4 vagas e em quase todas as internacionais,
+e testes automatizados são um diferencial frequente.
 <!-- REQUISITOS:FIM -->
 
 ## Arquivos

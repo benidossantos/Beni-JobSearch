@@ -1,0 +1,25 @@
+{
+ "data": "2026-10-16",
+ "observacoes": [
+  "Hoje só 5 vagas novas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas). As demais que apareceram já tinham ido nos e-mails desta semana.",
+  "Em anexo: o relatório da semana com os requisitos mais pedidos."
+ ],
+ "vagas": [
+  {"titulo":"Desenvolvedor(a) de Software Júnior (somente LATAM)","empresa":"MyVA Support","porte":"pequena (11 a 50 funcionários)","area":"Desenvolvimento","publicada":"hoje",
+   "requisitos":["Java e Spring Boot","React","PostgreSQL e modelagem relacional","APIs REST","Git/GitHub","Espanhol e inglês fluentes"],
+   "aviso":"Vaga para quem mora na América Latina, pagamento mensal via Deel","link":"https://myvasupport.zohorecruit.com/jobs/careers/671760000008459009/Junior-Software-Developer-Programmer-LATAM-only-?source=CareerSite","fonte":"Remote Rocketship / página de carreiras"},
+  {"titulo":"Analista QA Júnior","empresa":"MTP Métodos e Tecnologia","porte":"de porte não informado","area":"QA","publicada":"há 1 dia",
+   "requisitos":["Testes end-to-end e BDD","Ferramentas de gestão de testes e bugs","Scrum/Kanban","Inglês intermediário/avançado","Diferencial: Selenium, Playwright, Cypress"],
+   "aviso":"Pede experiência comprovada como QA, sem dizer quantos anos","link":"https://www.glassdoor.com.br/job-listing/12732048-analista-qa-júnior-mtp-métodos-e-tecnologia-brasil-JV_KO0,27_KE28,59.htm?jl=1010297571489","fonte":"Glassdoor"},
+  {"titulo":"Analista de Performance Júnior","empresa":"Grupo Fácil","porte":"de porte não informado","area":"Dados / BI","publicada":"há 2 dias",
+   "requisitos":["SQL avançado","Power BI ou Tableau","ETL e pipelines de dados","Graduação completa na área","Diferencial: Python, Power Query"],
+   "aviso":"Pede de 1 a 2 anos de experiência em dados ou BI","link":"https://grupofacil.vagas.solides.com.br/vaga/937418?origem=remotar","fonte":"Remotar"},
+  {"titulo":"Desenvolvedor(a) Operações Júnior","empresa":"Zenvia","porte":"grande","area":"Desenvolvimento","publicada":"há 1 dia",
+   "requisitos":["JavaScript e JSON básicos","Lógica de programação","Comunicação e organização","Inglês intermediário (diferencial)"],
+   "aviso":"","link":"https://zenvia.gupy.io/job/eyJqb2JJZCI6MTI1NDIyOTEsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar","fonte":"Remotar / Gupy"},
+  {"titulo":"Pessoa Desenvolvedora Júnior (.NET, React e IA)","empresa":"King of Languages","porte":"grande (501 a 1.000 funcionários)","area":"Desenvolvimento / IA","publicada":"há 2 dias","salario":"R$ 6.000/mês",
+   "requisitos":["C# e .NET","React","Projeto com APIs de IA","SQL e Git"],
+   "aviso":"Pede de 1 a 3 anos de experiência","link":"https://kingoflanguages.pandape.infojobs.com.br/Detail/3817540","fonte":"Remote Rocketship"}
+ ],
+ "internacionais": []
+}
