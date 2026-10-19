@@ -1,0 +1,18 @@
+{
+ "data": "2026-10-19",
+ "observacoes": [
+  "Hoje só 3 vagas novas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas). Os sites quase não tiveram vagas júnior remotas novas no fim de semana, e o que apareceu já tinha ido nos e-mails da semana passada."
+ ],
+ "vagas": [
+  {"titulo":"Junior Software Engineer","empresa":"Mimi Dental Clinic","porte":"pequena (11 a 50 funcionários)","area":"Desenvolvimento","publicada":"há 3 dias",
+   "requisitos":["Python, C#, TypeScript ou JavaScript","APIs, bancos de dados e Git","Graduação ou experiência prática equivalente","Interesse em tecnologia para saúde (diferencial)"],
+   "aviso":"Clínica na Nigéria aberta a candidatos de todos os países; processo em inglês. Candidatura pelo Himalayas: confirme a vaga no site da empresa e nunca pague para se candidatar.","link":"https://himalayas.app/companies/mimidentalclinic/jobs/junior-software-engineer","fonte":"Himalayas"},
+  {"titulo":"JavaScript Junior (Trabalhe de Casa)","empresa":"BairesDev","porte":"grande","area":"Desenvolvimento","publicada":"há 3 dias",
+   "requisitos":["JavaScript","Algoritmos e estruturas de dados básicos","HTML5, CSS3 e design responsivo","Git","Inglês intermediário"],
+   "aviso":"Pede 1 ano ou mais de experiência; a página não deixa claro quais países são aceitos","link":"https://applicants.bairesdev.com/job/289/282667/apply?utm_source=remotar&utm_medium=jobposting&utm_campaign=Cajamarca,Peru-20261016","fonte":"Remotar"},
+  {"titulo":"Frontend Junior (Trabalhe de Casa)","empresa":"BairesDev","porte":"grande","area":"Desenvolvimento","publicada":"há 3 dias",
+   "requisitos":["HTML5, CSS3 e JavaScript","React, Angular ou Vue (básico)","Design responsivo","Git","Inglês intermediário"],
+   "aviso":"Pede 1 ano ou mais de experiência; a página não deixa claro quais países são aceitos","link":"https://applicants.bairesdev.com/job/54/282670/apply?utm_source=remotar&utm_medium=jobposting&utm_campaign=Cajamarca,Peru-20261016","fonte":"Remotar"}
+ ],
+ "internacionais": []
+}
