@@ -577,5 +577,49 @@
   ],
   "link": "https://applicants.bairesdev.com/job/54/282670/apply?utm_source=remotar&utm_medium=jobposting&utm_campaign=Cajamarca,Peru-20261016",
   "enviada_em": "2026-10-19"
+ },
+ {
+  "empresa": "Verity",
+  "titulo": "QA Automation Engineer Júnior",
+  "area": "QA",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "Automação com Playwright, Cypress ou Selenium",
+   "Python, JavaScript ou TypeScript",
+   "Testes de API REST com Postman",
+   "Casos de teste e BDD",
+   "Scrum/Kanban"
+  ],
+  "link": "https://www.glassdoor.com.br/job-listing/qa-automation-engineer-júnior-remoto-sejaveriter-JV_KO0,36_KE37,48.htm?jl=1010300871943",
+  "enviada_em": "2026-10-20"
+ },
+ {
+  "empresa": "Contato Seguro",
+  "titulo": "Desenvolvedor(a) Web Fullstack",
+  "area": "Desenvolvimento",
+  "porte": "média (51 a 200 funcionários)",
+  "requisitos": [
+   "PHP, React e TypeScript",
+   "MySQL",
+   "Padrões de projeto e segurança de APIs",
+   "Graduação completa ou em andamento"
+  ],
+  "link": "https://contatoseguro.vagas.solides.com.br/vaga/940126",
+  "enviada_em": "2026-10-20"
+ },
+ {
+  "empresa": "YDUQS",
+  "titulo": "Pessoa Analista ServiceNow Júnior",
+  "area": "Desenvolvimento",
+  "porte": "grande",
+  "requisitos": [
+   "ServiceNow (Business Rules, Flow Designer, Client Scripts)",
+   "JavaScript e HTML/CSS",
+   "Scrum/Kanban",
+   "Graduação completa em tecnologia",
+   "Diferencial: certificação CSA ou CAD"
+  ],
+  "link": "https://www.glassdoor.com.br/job-listing/pessoa-analista-servicenow-júnior-yduqs-JV_KO0,33_KE34,39.htm?jl=1010300870995",
+  "enviada_em": "2026-10-20"
  }
 ]

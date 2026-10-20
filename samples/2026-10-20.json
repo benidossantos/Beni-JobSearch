@@ -1,0 +1,18 @@
+{
+ "data": "2026-10-20",
+ "observacoes": [
+  "Hoje só 3 vagas novas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas). O que mais apareceu foram vagas de suporte técnico, que ficam fora das áreas escolhidas."
+ ],
+ "vagas": [
+  {"titulo":"QA Automation Engineer Júnior","empresa":"Verity","porte":"de porte não informado","area":"QA","publicada":"há 1 dia",
+   "requisitos":["Automação com Playwright, Cypress ou Selenium","Python, JavaScript ou TypeScript","Testes de API REST com Postman","Casos de teste e BDD","Scrum/Kanban"],
+   "aviso":"Aceita experiência acadêmica, de estágio ou projetos pessoais","link":"https://www.glassdoor.com.br/job-listing/qa-automation-engineer-júnior-remoto-sejaveriter-JV_KO0,36_KE37,48.htm?jl=1010300871943","fonte":"Glassdoor"},
+  {"titulo":"Desenvolvedor(a) Web Fullstack","empresa":"Contato Seguro","porte":"média (51 a 200 funcionários)","area":"Desenvolvimento","publicada":"hoje",
+   "requisitos":["PHP, React e TypeScript","MySQL","Padrões de projeto e segurança de APIs","Graduação completa ou em andamento"],
+   "aviso":"Nível júnior, mas pede pelo menos 1 ano como desenvolvedor web","link":"https://contatoseguro.vagas.solides.com.br/vaga/940126","fonte":"Remote Rocketship / Sólides"},
+  {"titulo":"Pessoa Analista ServiceNow Júnior","empresa":"YDUQS","porte":"grande","area":"Desenvolvimento","publicada":"há 1 dia",
+   "requisitos":["ServiceNow (Business Rules, Flow Designer, Client Scripts)","JavaScript e HTML/CSS","Scrum/Kanban","Graduação completa em tecnologia","Diferencial: certificação CSA ou CAD"],
+   "aviso":"100% remoto fora do Rio de Janeiro; quem mora no RJ trabalha em modelo híbrido","link":"https://www.glassdoor.com.br/job-listing/pessoa-analista-servicenow-júnior-yduqs-JV_KO0,33_KE34,39.htm?jl=1010300870995","fonte":"Glassdoor"}
+ ],
+ "internacionais": []
+}
