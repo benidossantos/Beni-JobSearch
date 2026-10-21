@@ -621,5 +621,78 @@
   ],
   "link": "https://www.glassdoor.com.br/job-listing/pessoa-analista-servicenow-júnior-yduqs-JV_KO0,33_KE34,39.htm?jl=1010300870995",
   "enviada_em": "2026-10-20"
+ },
+ {
+  "empresa": "Yandeh",
+  "titulo": "Desenvolvedor de Software Full Stack Júnior",
+  "area": "Desenvolvimento",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "Node.js e TypeScript",
+   "Vue ou React",
+   "PostgreSQL, SQLite e Redis",
+   "Docker, Kubernetes e CI/CD",
+   "AWS (básico)"
+  ],
+  "link": "https://www.glassdoor.com.br/job-listing/desenvolvedor-de-software-full-stack-júnior-yandeh-JV_KO0,43_KE44,50.htm?jl=1010301415530",
+  "enviada_em": "2026-10-21"
+ },
+ {
+  "empresa": "Jobbol",
+  "titulo": "Desenvolvedor Java Júnior (Projeto 22)",
+  "area": "Desenvolvimento",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "Java",
+   "Correções simples de código e testes básicos",
+   "Documentação técnica",
+   "Ensino médio completo"
+  ],
+  "link": "https://www.glassdoor.com.br/job-listing/desenvolvedor-java-júnior-projeto-22-jobbol-JV_KO0,36_KE37,43.htm?jl=1010301582765",
+  "enviada_em": "2026-10-21"
+ },
+ {
+  "empresa": "Conviso",
+  "titulo": "Junior/Pleno Front-End Engineer",
+  "area": "Desenvolvimento",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "JavaScript e TypeScript",
+   "Vue 3 (ou React/Angular com interesse em Vue)",
+   "HTML semântico e CSS (flexbox, grid)",
+   "APIs REST ou GraphQL"
+  ],
+  "link": "https://convisoappsec.gupy.io/jobs/12482376",
+  "enviada_em": "2026-10-21"
+ },
+ {
+  "empresa": "THS Tecnologia",
+  "titulo": "Cientista de Dados Júnior",
+  "area": "Dados / IA",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "R e Python",
+   "SQL",
+   "Análise exploratória e mineração de dados",
+   "Modelos estatísticos e machine learning",
+   "Inglês técnico"
+  ],
+  "link": "https://www.nerdin.com.br/vaga_emprego/vaga-cientista-de-dados-junior-99190.php",
+  "enviada_em": "2026-10-21"
+ },
+ {
+  "empresa": "Insi",
+  "titulo": "Desenvolvedor IA (Node e Python) JR",
+  "area": "IA",
+  "porte": "grande",
+  "requisitos": [
+   "Python",
+   "Node.js e TypeScript",
+   "LangChain ou outros frameworks de IA generativa",
+   "RAG e bancos vetoriais",
+   "AWS (Lambda, S3, DynamoDB, Bedrock)"
+  ],
+  "link": "https://www.glassdoor.com.br/job-listing/desenvolvedor-ia-node-e-python-jr-meta-it-JV_KO0,33_KE34,41.htm?jl=1010301318875",
+  "enviada_em": "2026-10-21"
  }
 ]
