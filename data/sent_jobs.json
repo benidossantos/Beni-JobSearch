@@ -694,5 +694,34 @@
   ],
   "link": "https://www.glassdoor.com.br/job-listing/desenvolvedor-ia-node-e-python-jr-meta-it-JV_KO0,33_KE34,41.htm?jl=1010301318875",
   "enviada_em": "2026-10-21"
+ },
+ {
+  "empresa": "byx",
+  "titulo": "Desenvolvedor Backend Python JR",
+  "area": "Desenvolvimento",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "Python com Django, FastAPI ou Flask",
+   "APIs REST e POO",
+   "PostgreSQL ou MySQL e SQL",
+   "Git",
+   "Testes unitários e de integração, Linux básico"
+  ],
+  "link": "https://byx.inhire.app/vagas/aa87848b-9004-46a7-b54e-b00c74a07a03/desenvolvedor-backend-python-jr",
+  "enviada_em": "2026-10-22"
+ },
+ {
+  "empresa": "Quality Digital",
+  "titulo": "Analista de Automação Júnior (RPA)",
+  "area": "Desenvolvimento / Automação",
+  "porte": "média",
+  "requisitos": [
+   "RPA (UiPath ou Blue Prism) básico",
+   "Formação em tecnologia ou engenharia",
+   "Perfil analítico e comunicação",
+   "Diferencial: Python ou JavaScript, APIs, ágil"
+  ],
+  "link": "https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTI2OTM3NTcsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+  "enviada_em": "2026-10-22"
  }
 ]

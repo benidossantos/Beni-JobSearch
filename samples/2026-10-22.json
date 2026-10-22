@@ -1,0 +1,16 @@
+{
+ "data": "2026-10-22",
+ "observacoes": [
+  "Hoje só 2 vagas nacionais novas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas). As demais que apareceram já tinham ido nos e-mails anteriores ou foram publicadas há mais de 7 dias.",
+  "Nesta quinta nenhuma vaga internacional júnior aberta ao Brasil passou nos filtros. As que apareceram eram de nível pleno, exigiam morar em outro país (Argentina, Uruguai, Colômbia) ou já tinham sido enviadas."
+ ],
+ "vagas": [
+  {"titulo":"Desenvolvedor Backend Python JR","empresa":"byx","porte":"de porte não informado","area":"Desenvolvimento","publicada":"há 3 dias",
+   "requisitos":["Python com Django, FastAPI ou Flask","APIs REST e POO","PostgreSQL ou MySQL e SQL","Git","Testes unitários e de integração, Linux básico"],
+   "aviso":"","link":"https://byx.inhire.app/vagas/aa87848b-9004-46a7-b54e-b00c74a07a03/desenvolvedor-backend-python-jr","fonte":"Remotar / InHire"},
+  {"titulo":"Analista de Automação Júnior (RPA)","empresa":"Quality Digital","porte":"média","area":"Desenvolvimento / Automação","publicada":"há 1 dia",
+   "requisitos":["RPA (UiPath ou Blue Prism) básico","Formação em tecnologia ou engenharia","Perfil analítico e comunicação","Diferencial: Python ou JavaScript, APIs, ágil"],
+   "aviso":"","link":"https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTI2OTM3NTcsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar","fonte":"Remotar / Gupy"}
+ ],
+ "internacionais": []
+}
