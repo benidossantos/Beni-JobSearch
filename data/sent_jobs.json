@@ -723,5 +723,78 @@
   ],
   "link": "https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTI2OTM3NTcsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
   "enviada_em": "2026-10-22"
+ },
+ {
+  "empresa": "Smart NX",
+  "titulo": "Q.A Jr",
+  "area": "QA",
+  "porte": "pequena/média (mais de 100 pessoas)",
+  "requisitos": [
+   "Cypress ou Selenium",
+   "Gherkin/BDD",
+   "Node.js e React (fundamentos)",
+   "Git e AWS básico",
+   "CI/CD (Jenkins, GitHub Actions)"
+  ],
+  "link": "https://www.glassdoor.com.br/job-listing/qa-jr-smart-nx-JV_KO0,5_KE6,14.htm?jl=1010303019431",
+  "enviada_em": "2026-10-23"
+ },
+ {
+  "empresa": "Stone & Company",
+  "titulo": "Software Engineer .NET II (Junior)",
+  "area": "Desenvolvimento",
+  "porte": "de porte não confirmado",
+  "requisitos": [
+   "C#",
+   "PostgreSQL ou SQL Server",
+   "Microsserviços",
+   "Testes automatizados",
+   "Code review"
+  ],
+  "link": "https://boards.greenhouse.io/stone/jobs/8036128003",
+  "enviada_em": "2026-10-23"
+ },
+ {
+  "empresa": "Serendipe Instituto de Ciência e Tecnologia (via Jobbol)",
+  "titulo": "Engenheiro DevSecOps Júnior",
+  "area": "DevOps / Segurança",
+  "porte": "pequena (instituto fundado em 2024)",
+  "requisitos": [
+   "Infraestrutura em nuvem (servidores, bancos, redes)",
+   "Gestão de repositórios de código",
+   "Ferramentas de segurança",
+   "Graduação completa"
+  ],
+  "link": "https://www.glassdoor.com.br/job-listing/engenheiro-devsecops-júnior-serendipe-instituto-de-ciência-e-tecnologia-jobbol-JV_KO0,71_KE72,78.htm?jl=1010303929898",
+  "enviada_em": "2026-10-23"
+ },
+ {
+  "empresa": "CI&T",
+  "titulo": "Developer Fullstack Jr (Java + Angular)",
+  "area": "Desenvolvimento",
+  "porte": "grande",
+  "requisitos": [
+   "Java 17+",
+   "Angular",
+   "Microsserviços",
+   "APIs REST"
+  ],
+  "link": "https://www.glassdoor.com.br/job-listing/job-32142-developer-fullstack-jr-java-angular-cit-JV_KO0,45_KE46,49.htm?jl=1010302575485",
+  "enviada_em": "2026-10-23"
+ },
+ {
+  "empresa": "Stefanini",
+  "titulo": "Analista Desenvolvedor Jr",
+  "area": "Desenvolvimento",
+  "porte": "grande",
+  "requisitos": [
+   "Java",
+   "Angular",
+   "Docker e CI/CD",
+   "Bancos relacionais",
+   "Graduação em andamento"
+  ],
+  "link": "https://stefanini.gupy.io/jobs/12760706",
+  "enviada_em": "2026-10-23"
  }
 ]

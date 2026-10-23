@@ -1,0 +1,56 @@
+BENI JOBSEARCH - REQUISITOS MAIS PEDIDOS DA SEMANA
+Período: 19/10 a 23/10/2026 · 18 vagas analisadas
+
+TOP 10 GERAL
+ 1. JavaScript                                7 vagas (39%)
+ 2. APIs REST                                 7 vagas (39%)
+ 3. TypeScript                                6 vagas (33%)
+ 4. Python                                    6 vagas (33%)
+ 5. Git                                       5 vagas (28%)
+ 6. Graduação (em andamento)                  5 vagas (28%)
+ 7. React                                     5 vagas (28%)
+ 8. HTML e CSS                                4 vagas (22%)
+ 9. Angular                                   4 vagas (22%)
+10. Testes                                    4 vagas (22%)
+
+DADOS
+  - Inglês (1)
+  - Python (1)
+  - Manipulação de dados (1)
+  - Machine Learning (1)
+  - SQL (1)
+
+DESENVOLVIMENTO
+  - JavaScript (6)
+  - APIs REST (6)
+  - TypeScript (4)
+  - Git (4)
+  - Graduação (em andamento) (4)
+
+DEVOPS
+  - Infraestrutura em nuvem (servidores, bancos, redes) (1)
+  - Ferramentas de segurança (1)
+  - Gestão de repositórios de código (1)
+  - Graduação (em andamento) (1)
+
+IA
+  - TypeScript (1)
+  - Python (1)
+  - LangChain ou outros frameworks de IA generativa (1)
+  - RAG e bancos vetoriais (1)
+  - Cloud (AWS/Azure/GCP) (1)
+
+QA
+  - Automação web (Selenium/Playwright) (2)
+  - TypeScript (1)
+  - Python (1)
+  - JavaScript (1)
+  - Testes (1)
+
+O QUE PRIORIZAR NOS ESTUDOS
+  1. JavaScript e TypeScript lideraram esta semana: quase 4 de cada 10 vagas pediram JavaScript, e um terço pediu TypeScript.
+  2. APIs REST seguem no topo: saiba criar e consumir APIs (verbos HTTP, status, JSON, autenticação).
+  3. Python subiu bastante, puxado por vagas de IA e back-end (Django, FastAPI): um projeto pequeno com FastAPI vale a pena.
+  4. React e Angular dividem o front-end; escolha um e tenha um projeto publicado no GitHub.
+  5. IA generativa já aparece em vagas júnior (LangChain, RAG, bancos vetoriais): um projeto simples usando a API de um modelo de IA é um diferencial.
+  6. Muitas vagas pedem graduação em andamento, então destaque o curso de Engenharia de Software no currículo.
