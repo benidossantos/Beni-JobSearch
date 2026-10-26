@@ -796,5 +796,106 @@
   ],
   "link": "https://stefanini.gupy.io/jobs/12760706",
   "enviada_em": "2026-10-23"
+ },
+ {
+  "empresa": "Confidencial (via Sylision)",
+  "titulo": "Desenvolvedor(a) Java Júnior (Fila de Pedidos)",
+  "area": "Desenvolvimento",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "Java e POO (collections, exceções)",
+   "Spring Boot básico",
+   "SQL e bancos relacionais",
+   "Processamento assíncrono com filas",
+   "Git"
+  ],
+  "link": "https://www.glassdoor.com.br/job-listing/desenvolvedor-a-java-júnior-fila-de-pedidos-sylision-JV_KO0,43_KE44,52.htm?jl=1010306090893",
+  "enviada_em": "2026-10-26"
+ },
+ {
+  "empresa": "Darede",
+  "titulo": "Engenheiro(a) de Dados Júnior (PJ)",
+  "area": "Dados",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "Databricks",
+   "SQL e Python",
+   "ETL/ELT e bancos de dados",
+   "Diferencial: PySpark, Delta Lake e Git"
+  ],
+  "link": "https://www.nerdin.com.br/vaga_emprego/vaga-engenheiro-a-de-dados-junior-100028.php",
+  "enviada_em": "2026-10-26"
+ },
+ {
+  "empresa": "Locus",
+  "titulo": "Engenheiro(a) de IA (Júnior a Pleno)",
+  "area": "IA",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "Java, Kotlin ou outra linguagem da JVM",
+   "Microsserviços, mensageria, APIs REST e SQL",
+   "Criação de agentes, servidores MCP e plugins",
+   "Ferramentas de IA para código (Cursor, Claude Code)",
+   "Git, code review e CI/CD"
+  ],
+  "link": "https://www.nerdin.com.br/vaga_emprego/vaga-engenheiro-a-de-ia-junior-a-pleno-100024.php",
+  "enviada_em": "2026-10-26"
+ },
+ {
+  "empresa": "Bancorbrás",
+  "titulo": "Cientista de Dados Júnior",
+  "area": "Dados / IA",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "SQL e Python (Pandas, Scikit-Learn, PySpark)",
+   "Estatística e testes de hipótese",
+   "AWS e deploy de modelos",
+   "Git e IA generativa",
+   "Graduação completa"
+  ],
+  "link": "https://bancorbras.gupy.io/jobs/12424215",
+  "enviada_em": "2026-10-26"
+ },
+ {
+  "empresa": "SOLINFTEC",
+  "titulo": "Analista de Banco de Dados Júnior",
+  "area": "Dados",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "SQL e bancos relacionais",
+   "Inglês ou espanhol (desejável)"
+  ],
+  "link": "https://solinftec.gupy.io/jobs/11381046",
+  "enviada_em": "2026-10-26"
+ },
+ {
+  "empresa": "CI&T",
+  "titulo": "Junior Quality Analyst",
+  "area": "QA",
+  "porte": "grande",
+  "requisitos": [
+   "Testes de API com Postman ou Insomnia",
+   "Robot Framework ou Playwright, BDD e Gherkin",
+   "Git",
+   "Azure e Confluence",
+   "Análise de logs"
+  ],
+  "link": "https://www.glassdoor.com.br/job-listing/job-32280-junior-quality-analyst-brasil-cit-JV_KO0,39_KE40,43.htm?jl=1010305293302",
+  "enviada_em": "2026-10-26"
+ },
+ {
+  "empresa": "Grupo OLX",
+  "titulo": "Analista de Dados Júnior (Remoto)",
+  "area": "Dados",
+  "porte": "grande",
+  "requisitos": [
+   "SQL avançado",
+   "Tableau ou Power BI",
+   "Python ou R",
+   "Testes A/B",
+   "Excel"
+  ],
+  "link": "https://vemsergrupoolx.gupy.io/jobs/12507567",
+  "enviada_em": "2026-10-26"
  }
 ]

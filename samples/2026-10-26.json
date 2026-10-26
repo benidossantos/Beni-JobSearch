@@ -1,0 +1,30 @@
+{
+ "data": "2026-10-26",
+ "observacoes": [
+  "Hoje 7 vagas novas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas): 5 de pequenas/médias ou de porte não informado e 2 de empresas grandes."
+ ],
+ "vagas": [
+  {"titulo":"Desenvolvedor(a) Java Júnior (Fila de Pedidos)","empresa":"Confidencial (via Sylision)","porte":"de porte não informado","area":"Desenvolvimento","publicada":"há 1 dia",
+   "requisitos":["Java e POO (collections, exceções)","Spring Boot básico","SQL e bancos relacionais","Processamento assíncrono com filas","Git"],
+   "aviso":"Aceita curso em andamento ou projeto pessoal em Java publicado","link":"https://www.glassdoor.com.br/job-listing/desenvolvedor-a-java-júnior-fila-de-pedidos-sylision-JV_KO0,43_KE44,52.htm?jl=1010306090893","fonte":"Glassdoor"},
+  {"titulo":"Engenheiro(a) de Dados Júnior (PJ)","empresa":"Darede","porte":"de porte não informado","area":"Dados","publicada":"há 2 dias",
+   "requisitos":["Databricks","SQL e Python","ETL/ELT e bancos de dados","Diferencial: PySpark, Delta Lake e Git"],
+   "aviso":"Contratação PJ","link":"https://www.nerdin.com.br/vaga_emprego/vaga-engenheiro-a-de-dados-junior-100028.php","fonte":"NerdIn"},
+  {"titulo":"Engenheiro(a) de IA (Júnior a Pleno)","empresa":"Locus","porte":"de porte não informado","area":"IA","publicada":"há 1 dia",
+   "requisitos":["Java, Kotlin ou outra linguagem da JVM","Microsserviços, mensageria, APIs REST e SQL","Criação de agentes, servidores MCP e plugins","Ferramentas de IA para código (Cursor, Claude Code)","Git, code review e CI/CD"],
+   "aviso":"Vaga júnior avançado a pleno","link":"https://www.nerdin.com.br/vaga_emprego/vaga-engenheiro-a-de-ia-junior-a-pleno-100024.php","fonte":"NerdIn"},
+  {"titulo":"Cientista de Dados Júnior","empresa":"Bancorbrás","porte":"de porte não informado","area":"Dados / IA","publicada":"há 2 dias",
+   "requisitos":["SQL e Python (Pandas, Scikit-Learn, PySpark)","Estatística e testes de hipótese","AWS e deploy de modelos","Git e IA generativa","Graduação completa"],
+   "aviso":"Marcada como home office, sem dizer 100% remoto","link":"https://bancorbras.gupy.io/jobs/12424215","fonte":"NerdIn / Gupy"},
+  {"titulo":"Analista de Banco de Dados Júnior","empresa":"SOLINFTEC","porte":"de porte não informado","area":"Dados","publicada":"há 3 dias",
+   "requisitos":["SQL e bancos relacionais","Inglês ou espanhol (desejável)"],
+   "aviso":"Pede pelo menos 1 ano de experiência; marcada como home office, sem dizer 100% remoto","link":"https://solinftec.gupy.io/jobs/11381046","fonte":"NerdIn / Gupy"},
+  {"titulo":"Junior Quality Analyst","empresa":"CI&T","porte":"grande","area":"QA","publicada":"há 2 dias",
+   "requisitos":["Testes de API com Postman ou Insomnia","Robot Framework ou Playwright, BDD e Gherkin","Git","Azure e Confluence","Análise de logs"],
+   "aviso":"Quem mora na região de Campinas trabalha no escritório","link":"https://www.glassdoor.com.br/job-listing/job-32280-junior-quality-analyst-brasil-cit-JV_KO0,39_KE40,43.htm?jl=1010305293302","fonte":"Glassdoor"},
+  {"titulo":"Analista de Dados Júnior (Remoto)","empresa":"Grupo OLX","porte":"grande","area":"Dados","publicada":"há 3 dias",
+   "requisitos":["SQL avançado","Tableau ou Power BI","Python ou R","Testes A/B","Excel"],
+   "aviso":"O anúncio diz júnior, mas a descrição fala em analista pleno","link":"https://vemsergrupoolx.gupy.io/jobs/12507567","fonte":"NerdIn / Gupy"}
+ ],
+ "internacionais": []
+}
