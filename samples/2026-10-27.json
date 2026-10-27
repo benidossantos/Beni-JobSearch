@@ -1,0 +1,27 @@
+{
+ "data": "2026-10-27",
+ "observacoes": [
+  "Hoje 6 vagas novas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas): 4 de pequenas/médias ou de porte não informado e 2 de empresas grandes. O restante das buscas trouxe vagas pleno/sênior, híbridas ou repetidas."
+ ],
+ "vagas": [
+  {"titulo": "Junior Software Engineer - Remote (Global)", "empresa": "Mixrank", "porte": "pequena (51-200)", "area": "Desenvolvimento", "publicada": "25/10",
+   "requisitos": ["Python", "PostgreSQL", "Linux", "Git", "Projetos pessoais (diferencial: Rust, TypeScript, Nix)"],
+   "aviso": "Vaga global em inglês; aceita estudantes; pede 0 a 3 anos de experiência", "link": "https://himalayas.app/companies/mixrank/jobs/junior-software-engineer-remote-global-full-time", "fonte": "Himalayas"},
+  {"titulo": "Desenvolvedor(a) Frontend Júnior (Meio período)", "empresa": "GoFasti", "porte": "pequena (51-200)", "area": "Desenvolvimento", "publicada": "há 3 dias",
+   "requisitos": ["PHP, HTML, CSS, JavaScript e MySQL", "Git", "APIs REST e padrão MVC", "Noções de segurança (CSRF, XSS)", "Inglês fluente"],
+   "aviso": "Meio período (20h/semana), remoto LATAM; pede mais de 1 ano como frontend", "salario": "US$ 500 a 700/mês", "link": "https://boards.greenhouse.io/gofasti/jobs/6233771004", "fonte": "Remote Rocketship"},
+  {"titulo": "Analista de Sistemas Jr (DevSecOps)", "empresa": "RNP", "porte": "média", "area": "Desenvolvimento", "publicada": "26/10",
+   "requisitos": ["Graduação completa em TI", "CI/CD (GitHub Actions ou GitLab CI)", "Docker e Kubernetes", "Terraform e AWS", "Segurança (SAST, SCA) e Git"],
+   "aviso": "Remoto, mas a vaga cita idas eventuais ao escritório e viagens", "link": "https://rnp.gupy.io/job/eyJqb2JJZCI6MTI3ODE0OTYsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar", "fonte": "Remotar"},
+  {"titulo": "Programador Júnior (RPA)", "empresa": "Unimed Vale do Sinos/RS", "porte": "de porte não informado", "area": "Desenvolvimento", "publicada": "22/10",
+   "requisitos": ["Técnico em TI ou graduação em andamento", "Ferramentas de automação RPA", "Lógica de programação", "Bancos de dados e APIs", "Metodologias ágeis (desejável)"],
+   "aviso": "Home office; preferência por quem mora na Grande Porto Alegre ou Vale do Sinos", "link": "https://himalayas.app/companies/unimed-vale-do-sinos-rs/jobs/programador-junior-rpa", "fonte": "Himalayas"},
+  {"titulo": "Desenvolvedor .Net Júnior", "empresa": "Localiza&Co", "porte": "grande", "area": "Desenvolvimento", "publicada": "há 4 dias",
+   "requisitos": [".NET e C# no backend", "SQL Server, PostgreSQL ou MongoDB", "Entity Framework ou Dapper", "APIs REST", "Testes automatizados (básico)"],
+   "aviso": "", "link": "https://localiza.gupy.io/jobs/11499926", "fonte": "NerdIn"},
+  {"titulo": "Analista de Dados Júnior", "empresa": "Afya", "porte": "grande", "area": "Dados & IA", "publicada": "há 4 dias",
+   "requisitos": ["SQL (consultas complexas)", "Power BI com DAX básico", "Git", "Graduação em andamento", "Diferencial: dbt, Python, Airflow, data warehouse"],
+   "aviso": "Aceita graduação em andamento", "link": "https://afya.gupy.io/jobs/12589095", "fonte": "NerdIn"}
+ ],
+ "internacionais": []
+}

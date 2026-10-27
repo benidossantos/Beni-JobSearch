@@ -897,5 +897,95 @@
   ],
   "link": "https://vemsergrupoolx.gupy.io/jobs/12507567",
   "enviada_em": "2026-10-26"
+ },
+ {
+  "empresa": "Mixrank",
+  "titulo": "Junior Software Engineer - Remote (Global)",
+  "area": "Desenvolvimento",
+  "porte": "pequena (51-200)",
+  "requisitos": [
+   "Python",
+   "PostgreSQL",
+   "Linux",
+   "Git",
+   "Projetos pessoais (diferencial: Rust, TypeScript, Nix)"
+  ],
+  "link": "https://himalayas.app/companies/mixrank/jobs/junior-software-engineer-remote-global-full-time",
+  "enviada_em": "2026-10-27"
+ },
+ {
+  "empresa": "GoFasti",
+  "titulo": "Desenvolvedor(a) Frontend Júnior (Meio período)",
+  "area": "Desenvolvimento",
+  "porte": "pequena (51-200)",
+  "requisitos": [
+   "PHP, HTML, CSS, JavaScript e MySQL",
+   "Git",
+   "APIs REST e padrão MVC",
+   "Noções de segurança (CSRF, XSS)",
+   "Inglês fluente"
+  ],
+  "link": "https://boards.greenhouse.io/gofasti/jobs/6233771004",
+  "enviada_em": "2026-10-27"
+ },
+ {
+  "empresa": "RNP",
+  "titulo": "Analista de Sistemas Jr (DevSecOps)",
+  "area": "Desenvolvimento",
+  "porte": "média",
+  "requisitos": [
+   "Graduação completa em TI",
+   "CI/CD (GitHub Actions ou GitLab CI)",
+   "Docker e Kubernetes",
+   "Terraform e AWS",
+   "Segurança (SAST, SCA) e Git"
+  ],
+  "link": "https://rnp.gupy.io/job/eyJqb2JJZCI6MTI3ODE0OTYsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+  "enviada_em": "2026-10-27"
+ },
+ {
+  "empresa": "Unimed Vale do Sinos/RS",
+  "titulo": "Programador Júnior (RPA)",
+  "area": "Desenvolvimento",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "Técnico em TI ou graduação em andamento",
+   "Ferramentas de automação RPA",
+   "Lógica de programação",
+   "Bancos de dados e APIs",
+   "Metodologias ágeis (desejável)"
+  ],
+  "link": "https://himalayas.app/companies/unimed-vale-do-sinos-rs/jobs/programador-junior-rpa",
+  "enviada_em": "2026-10-27"
+ },
+ {
+  "empresa": "Localiza&Co",
+  "titulo": "Desenvolvedor .Net Júnior",
+  "area": "Desenvolvimento",
+  "porte": "grande",
+  "requisitos": [
+   ".NET e C# no backend",
+   "SQL Server, PostgreSQL ou MongoDB",
+   "Entity Framework ou Dapper",
+   "APIs REST",
+   "Testes automatizados (básico)"
+  ],
+  "link": "https://localiza.gupy.io/jobs/11499926",
+  "enviada_em": "2026-10-27"
+ },
+ {
+  "empresa": "Afya",
+  "titulo": "Analista de Dados Júnior",
+  "area": "Dados & IA",
+  "porte": "grande",
+  "requisitos": [
+   "SQL (consultas complexas)",
+   "Power BI com DAX básico",
+   "Git",
+   "Graduação em andamento",
+   "Diferencial: dbt, Python, Airflow, data warehouse"
+  ],
+  "link": "https://afya.gupy.io/jobs/12589095",
+  "enviada_em": "2026-10-27"
  }
 ]
