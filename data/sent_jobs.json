@@ -987,5 +987,95 @@
   ],
   "link": "https://afya.gupy.io/jobs/12589095",
   "enviada_em": "2026-10-27"
+ },
+ {
+  "empresa": "BigDataCorp",
+  "titulo": "Back-end JR | Pesquisa e Desenvolvimento",
+  "area": "Desenvolvimento",
+  "porte": "pequena (51-200)",
+  "requisitos": [
+   "Programação orientada a objetos",
+   "Bancos relacionais (e noções de NoSQL)",
+   "Git/GitHub",
+   "Consumo de APIs REST",
+   "Não exige diploma"
+  ],
+  "link": "https://apply.workable.com/bigdatacorp/j/361C1FC669",
+  "enviada_em": "2026-10-28"
+ },
+ {
+  "empresa": "Viceri SEIDOR",
+  "titulo": "Pessoa Desenvolvedora FullStack (NodeJS / Angular / Java) - Júnior",
+  "area": "Desenvolvimento",
+  "porte": "pequena (51-200)",
+  "requisitos": [
+   "Java e/ou Node.js",
+   "Angular e TypeScript",
+   "HTML, CSS e JavaScript",
+   "APIs REST e Git",
+   "Oracle ou SQL Server"
+  ],
+  "link": "https://viceri-vagas.gupy.io/jobs/12785519",
+  "enviada_em": "2026-10-28"
+ },
+ {
+  "empresa": "Bask Health",
+  "titulo": "Engenheiro(a) de Software Front-end Júnior",
+  "area": "Desenvolvimento",
+  "porte": "pequena (11-50)",
+  "requisitos": [
+   "React, Next.js e TypeScript",
+   "Tailwind e JavaScript",
+   "Node.js, SQL e tRPC/Drizzle",
+   "Autonomia em ambiente de startup",
+   "Inglês"
+  ],
+  "link": "https://apply.workable.com/bask-health-1/j/01A6A33272",
+  "enviada_em": "2026-10-28"
+ },
+ {
+  "empresa": "Bask Health",
+  "titulo": "Engenheiro(a) de Software Back-end Júnior",
+  "area": "Desenvolvimento",
+  "porte": "pequena (11-50)",
+  "requisitos": [
+   "Node.js, SST e Drizzle",
+   "AWS (SQS, EventBridge, Lambda)",
+   "SQL e modelagem de banco",
+   "Autonomia em ambiente de startup",
+   "Inglês"
+  ],
+  "link": "https://apply.workable.com/bask-health-1/j/3A8CAD873C",
+  "enviada_em": "2026-10-28"
+ },
+ {
+  "empresa": "Quality Digital",
+  "titulo": "Pessoa Desenvolvedora Júnior VTEX (Front-end)",
+  "area": "Desenvolvimento",
+  "porte": "grande",
+  "requisitos": [
+   "Boas práticas de front-end, segurança e performance",
+   "Go (Golang) em microsserviços",
+   "APIs da VTEX e APIs REST",
+   "Testes automatizados e CI/CD",
+   "Git/GitHub e containers"
+  ],
+  "link": "https://qualitydigital.gupy.io/jobs/12745394",
+  "enviada_em": "2026-10-28"
+ },
+ {
+  "empresa": "Stefanini",
+  "titulo": "Analista de Dados Júnior",
+  "area": "Dados & IA",
+  "porte": "grande",
+  "requisitos": [
+   "SQL",
+   "BigQuery e/ou Databricks",
+   "Power BI e Looker Studio",
+   "Google Analytics 4",
+   "Análise exploratória e dashboards"
+  ],
+  "link": "https://stefanini.gupy.io/jobs/12459926",
+  "enviada_em": "2026-10-28"
  }
 ]

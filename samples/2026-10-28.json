@@ -1,0 +1,27 @@
+{
+ "data": "2026-10-28",
+ "observacoes": [
+  "Hoje 6 vagas novas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas): 4 de pequenas/médias e 2 de empresas grandes. O restante das buscas trouxe vagas pleno/sênior, híbridas, fora de TI ou já enviadas."
+ ],
+ "vagas": [
+  {"titulo": "Back-end JR | Pesquisa e Desenvolvimento", "empresa": "BigDataCorp", "porte": "pequena (51-200)", "area": "Desenvolvimento", "publicada": "28/10",
+   "requisitos": ["Programação orientada a objetos", "Bancos relacionais (e noções de NoSQL)", "Git/GitHub", "Consumo de APIs REST", "Não exige diploma"],
+   "aviso": "", "link": "https://apply.workable.com/bigdatacorp/j/361C1FC669", "fonte": "Remote Rocketship"},
+  {"titulo": "Pessoa Desenvolvedora FullStack (NodeJS / Angular / Java) - Júnior", "empresa": "Viceri SEIDOR", "porte": "pequena (51-200)", "area": "Desenvolvimento", "publicada": "27/10",
+   "requisitos": ["Java e/ou Node.js", "Angular e TypeScript", "HTML, CSS e JavaScript", "APIs REST e Git", "Oracle ou SQL Server"],
+   "aviso": "Não exige diploma; não precisa dominar toda a stack", "link": "https://viceri-vagas.gupy.io/jobs/12785519", "fonte": "Remote Rocketship"},
+  {"titulo": "Engenheiro(a) de Software Front-end Júnior", "empresa": "Bask Health", "porte": "pequena (11-50)", "area": "Desenvolvimento", "publicada": "28/10",
+   "requisitos": ["React, Next.js e TypeScript", "Tailwind e JavaScript", "Node.js, SQL e tRPC/Drizzle", "Autonomia em ambiente de startup", "Inglês"],
+   "aviso": "Startup dos EUA; pede mais de 1 ano de experiência e inglês", "link": "https://apply.workable.com/bask-health-1/j/01A6A33272", "fonte": "Remote Rocketship"},
+  {"titulo": "Engenheiro(a) de Software Back-end Júnior", "empresa": "Bask Health", "porte": "pequena (11-50)", "area": "Desenvolvimento", "publicada": "28/10",
+   "requisitos": ["Node.js, SST e Drizzle", "AWS (SQS, EventBridge, Lambda)", "SQL e modelagem de banco", "Autonomia em ambiente de startup", "Inglês"],
+   "aviso": "Startup dos EUA; pede mais de 1 ano de experiência e inglês", "link": "https://apply.workable.com/bask-health-1/j/3A8CAD873C", "fonte": "Remote Rocketship"},
+  {"titulo": "Pessoa Desenvolvedora Júnior VTEX (Front-end)", "empresa": "Quality Digital", "porte": "grande", "area": "Desenvolvimento", "publicada": "há 5 dias",
+   "requisitos": ["Boas práticas de front-end, segurança e performance", "Go (Golang) em microsserviços", "APIs da VTEX e APIs REST", "Testes automatizados e CI/CD", "Git/GitHub e containers"],
+   "aviso": "", "link": "https://qualitydigital.gupy.io/jobs/12745394", "fonte": "Remote Rocketship"},
+  {"titulo": "Analista de Dados Júnior", "empresa": "Stefanini", "porte": "grande", "area": "Dados & IA", "publicada": "há 5 dias",
+   "requisitos": ["SQL", "BigQuery e/ou Databricks", "Power BI e Looker Studio", "Google Analytics 4", "Análise exploratória e dashboards"],
+   "aviso": "", "link": "https://stefanini.gupy.io/jobs/12459926", "fonte": "NerdIn"}
+ ],
+ "internacionais": []
+}
