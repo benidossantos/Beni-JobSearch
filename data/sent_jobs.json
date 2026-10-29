@@ -1077,5 +1077,49 @@
   ],
   "link": "https://stefanini.gupy.io/jobs/12459926",
   "enviada_em": "2026-10-28"
+ },
+ {
+  "empresa": "Knewin",
+  "titulo": "Pessoa Desenvolvedora Fullstack .NET Júnior",
+  "area": "Desenvolvimento",
+  "porte": "média (200+)",
+  "requisitos": [
+   "C# / .NET e APIs REST",
+   "ASP.NET MVC, Web API e Razor",
+   "Angular, jQuery, HTML, CSS e JavaScript",
+   "SQL e Git",
+   "Experiência com aplicações de IA generativa"
+  ],
+  "link": "https://knewin.inhire.app/vagas/2c707853-c7e6-4c69-ad06-959cd3b14803/pessoa-desenvolvedora-fullstack-net-junior",
+  "enviada_em": "2026-10-29"
+ },
+ {
+  "empresa": "Solutis",
+  "titulo": "Desenvolvedor MuleSoft Júnior",
+  "area": "Desenvolvimento",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "APIs REST e SOAP, JSON e XML",
+   "MuleSoft (Anypoint Studio, DataWeave)",
+   "Segurança de APIs (OAuth2, JWT)",
+   "Git e CI/CD (Azure DevOps)",
+   "Graduação completa em TI"
+  ],
+  "link": "https://solutis.inhire.app/vagas/0c72f3ce-6d97-45eb-b2bd-f7d302ce9309/desenvolvedor-mulesoft-junior-pleno-senior-e-especialista",
+  "enviada_em": "2026-10-29"
+ },
+ {
+  "empresa": "Canals",
+  "titulo": "Junior Software Engineer",
+  "area": "Desenvolvimento (internacional)",
+  "porte": "internacional",
+  "requisitos": [
+   "Fundamentos sólidos de programação",
+   "Uma linguagem de backend (Go, Python ou Node)",
+   "Comunicação e resolução de problemas",
+   "Interesse em startups, IA ou logística (diferencial)"
+  ],
+  "link": "https://jobs.ashbyhq.com/canals/f5be2674-0d4b-406d-bc29-be5e657b8ac5",
+  "enviada_em": "2026-10-29"
  }
 ]

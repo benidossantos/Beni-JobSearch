@@ -1,0 +1,21 @@
+{
+ "data": "2026-10-29",
+ "observacoes": [
+  "Semana fraca de vagas: hoje só 2 vagas nacionais novas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas). As demais candidatas eram pleno/sênior, antigas (publicadas no começo de outubro), exclusivas para PcD ou já enviadas nos dias anteriores.",
+  "Internacionais: só 1 vaga júnior aberta a quem mora no Brasil e publicada nos últimos 7 dias apareceu nas fontes (Himalayas, Remote Rocketship, Remotar e We Work Remotely)."
+ ],
+ "vagas": [
+  {"titulo": "Pessoa Desenvolvedora Fullstack .NET Júnior", "empresa": "Knewin", "porte": "média (200+)", "area": "Desenvolvimento", "publicada": "28/10",
+   "requisitos": ["C# / .NET e APIs REST", "ASP.NET MVC, Web API e Razor", "Angular, jQuery, HTML, CSS e JavaScript", "SQL e Git", "Experiência com aplicações de IA generativa"],
+   "aviso": "Graduação é desejável, não obrigatória", "link": "https://knewin.inhire.app/vagas/2c707853-c7e6-4c69-ad06-959cd3b14803/pessoa-desenvolvedora-fullstack-net-junior", "fonte": "Remotar"},
+  {"titulo": "Desenvolvedor MuleSoft Júnior", "empresa": "Solutis", "porte": "de porte não informado", "area": "Desenvolvimento", "publicada": "29/10",
+   "requisitos": ["APIs REST e SOAP, JSON e XML", "MuleSoft (Anypoint Studio, DataWeave)", "Segurança de APIs (OAuth2, JWT)", "Git e CI/CD (Azure DevOps)", "Graduação completa em TI"],
+   "aviso": "Mesma vaga abre níveis júnior, pleno, sênior e especialista", "link": "https://solutis.inhire.app/vagas/0c72f3ce-6d97-45eb-b2bd-f7d302ce9309/desenvolvedor-mulesoft-junior-pleno-senior-e-especialista", "fonte": "Remotar"}
+ ],
+ "internacionais": [
+  {"titulo": "Junior Software Engineer", "empresa": "Canals", "pais": "Startup de IA para logística (11-50 funcionários)", "contratacao": "Remoto no Brasil, Colômbia ou Argentina, tempo integral",
+   "publicada": "há 5 dias", "salario": "", "aviso": "Aceita 0 a 2 anos de experiência, contando estágio e projetos; não exige diploma",
+   "requisitos": ["Fundamentos sólidos de programação", "Uma linguagem de backend (Go, Python ou Node)", "Comunicação e resolução de problemas", "Interesse em startups, IA ou logística (diferencial)"],
+   "link": "https://jobs.ashbyhq.com/canals/f5be2674-0d4b-406d-bc29-be5e657b8ac5", "fonte": "Remote Rocketship / Ashby"}
+ ]
+}
