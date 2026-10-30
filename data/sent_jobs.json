@@ -1121,5 +1121,34 @@
   ],
   "link": "https://jobs.ashbyhq.com/canals/f5be2674-0d4b-406d-bc29-be5e657b8ac5",
   "enviada_em": "2026-10-29"
+ },
+ {
+  "empresa": "iDelsoft",
+  "titulo": "Desenvolvedor(a) Quantitativo(a) — Python/Django (LATAM)",
+  "area": "Desenvolvimento / Dados",
+  "porte": "pequena (51-200)",
+  "requisitos": [
+   "Python em produção",
+   "Django (models, migrations, testes, CI)",
+   "SQL, pandas e NumPy",
+   "Noções de mercado financeiro dos EUA e risco",
+   "Inglês"
+  ],
+  "link": "https://www.careers-page.com/idelsoft/job/4R4Y7XY7",
+  "enviada_em": "2026-10-30"
+ },
+ {
+  "empresa": "Decision",
+  "titulo": "Desenvolvedor(a) LabVantage LIMS Júnior/Pleno",
+  "area": "Desenvolvimento",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "LabVantage LIMS 8.6+",
+   "Oracle e SQL",
+   "Core Java e JavaScript",
+   "Inglês avançado"
+  ],
+  "link": "https://www.nerdin.com.br/vaga_emprego/vaga-desenvolvedor-a-labvantage-lims-junior-pleno-100203.php",
+  "enviada_em": "2026-10-30"
  }
 ]

@@ -1,0 +1,16 @@
+{
+ "data": "2026-10-30",
+ "observacoes": [
+  "Hoje só 2 vagas novas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas). A Viradev republicou a vaga de Full Stack Júnior que já foi enviada em 13/10, por isso ficou de fora.",
+  "Em anexo vai o relatório semanal com os requisitos mais pedidos (o README do repositório também foi atualizado)."
+ ],
+ "vagas": [
+  {"titulo": "Desenvolvedor(a) Quantitativo(a) — Python/Django (LATAM)", "empresa": "iDelsoft", "porte": "pequena (51-200)", "area": "Desenvolvimento / Dados", "publicada": "30/10",
+   "requisitos": ["Python em produção", "Django (models, migrations, testes, CI)", "SQL, pandas e NumPy", "Noções de mercado financeiro dos EUA e risco", "Inglês"],
+   "aviso": "Vaga exigente para júnior: pede histórico de 18+ meses nos empregos anteriores; não exige diploma", "link": "https://www.careers-page.com/idelsoft/job/4R4Y7XY7", "fonte": "Remote Rocketship"},
+  {"titulo": "Desenvolvedor(a) LabVantage LIMS Júnior/Pleno", "empresa": "Decision", "porte": "de porte não informado", "area": "Desenvolvimento", "publicada": "29/10",
+   "requisitos": ["LabVantage LIMS 8.6+", "Oracle e SQL", "Core Java e JavaScript", "Inglês avançado"],
+   "aviso": "Vaga júnior/pleno de nicho; pede experiência com LabVantage. CLT", "link": "https://www.nerdin.com.br/vaga_emprego/vaga-desenvolvedor-a-labvantage-lims-junior-pleno-100203.php", "fonte": "NerdIn"}
+ ],
+ "internacionais": []
+}

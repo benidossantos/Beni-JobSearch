@@ -1,0 +1,57 @@
+BENI JOBSEARCH - REQUISITOS MAIS PEDIDOS DA SEMANA
+Período: 26/10 a 30/10/2026 · 24 vagas analisadas
+
+TOP 10 GERAL
+ 1. SQL                                      16 vagas (67%)
+ 2. Git                                      14 vagas (58%)
+ 3. APIs REST                                10 vagas (42%)
+ 4. Python                                    7 vagas (29%)
+ 5. Testes                                    6 vagas (25%)
+ 6. Inglês                                    6 vagas (25%)
+ 7. Cloud (AWS/Azure/GCP)                     5 vagas (21%)
+ 8. Graduação (em andamento)                  5 vagas (21%)
+ 9. JavaScript                                5 vagas (21%)
+10. Java                                      4 vagas (17%)
+
+DADOS
+  - SQL (4)
+  - Python (3)
+  - Git (2)
+  - Testes (2)
+  - Databricks (1)
+
+DADOS & IA
+  - SQL (2)
+  - Power BI (2)
+  - Python (1)
+  - Graduação (em andamento) (1)
+  - Git (1)
+
+DESENVOLVIMENTO
+  - SQL (9)
+  - Git (9)
+  - APIs REST (8)
+  - JavaScript (5)
+  - Inglês (5)
+
+IA
+  - Criação de agentes, servidores MCP e plugins (1)
+  - Ferramentas de IA para código (Cursor, Claude Code) (1)
+  - APIs REST (1)
+  - Java (1)
+  - SQL (1)
+
+QA
+  - Testes (1)
+  - Cloud (AWS/Azure/GCP) (1)
+  - APIs REST (1)
+  - Automação web (Selenium/Playwright) (1)
+  - Git (1)
+
+O QUE PRIORIZAR NOS ESTUDOS
+  1. SQL foi o requisito mais pedido da semana (2 de cada 3 vagas), tanto em dados quanto em desenvolvimento: pratique JOINs, agregações e modelagem de tabelas.
+  2. Git apareceu em mais da metade das vagas: mantenha projetos no GitHub com commits organizados e pull requests.
+  3. APIs REST continuam essenciais: saiba criar e consumir APIs (verbos HTTP, status, JSON, autenticação).
+  4. Python e testes automatizados aparecem em 1 de cada 4 vagas: um projeto pequeno em Python com testes (pytest) é um bom diferencial.
+  5. Cloud (AWS, Azure ou GCP) começou a aparecer em vagas júnior: o básico de uma delas (ex.: AWS Cloud Practitioner) ajuda.
+  6. Várias vagas aceitam graduação em andamento e algumas pedem inglês: destaque o curso de Engenharia de Software e invista no inglês técnico.

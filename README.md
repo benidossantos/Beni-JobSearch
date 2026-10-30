@@ -45,25 +45,25 @@ Um exemplo está em [`samples/relatorio-semanal-exemplo.txt`](samples/relatorio-
 ### Requisitos mais pedidos até agora
 
 <!-- REQUISITOS:INICIO (atualizado automaticamente toda sexta-feira) -->
-Base: 55 vagas enviadas de 13/10 a 23/10/2026 (inclui as 15 do e-mail de teste).
+Base: 79 vagas enviadas de 13/10 a 30/10/2026 (inclui as 15 do e-mail de teste).
 
 | # | Requisito | Vagas | % |
 | --- | --- | --- | --- |
-| 1 | APIs REST | 25 | 45% |
-| 2 | Git | 19 | 35% |
-| 3 | JavaScript | 18 | 33% |
-| 4 | SQL | 18 | 33% |
-| 5 | TypeScript | 16 | 29% |
-| 6 | Java | 15 | 27% |
-| 7 | React | 13 | 24% |
-| 8 | Python | 13 | 24% |
-| 9 | Testes | 13 | 24% |
-| 10 | Inglês | 13 | 24% |
+| 1 | APIs REST | 35 | 44% |
+| 2 | SQL | 34 | 43% |
+| 3 | Git | 33 | 42% |
+| 4 | JavaScript | 23 | 29% |
+| 5 | Python | 20 | 25% |
+| 6 | TypeScript | 19 | 24% |
+| 7 | Java | 19 | 24% |
+| 8 | Testes | 19 | 24% |
+| 9 | Inglês | 19 | 24% |
+| 10 | Graduação (em andamento) | 17 | 22% |
 
-**O que priorizar:** APIs REST continuam no topo, pedidas em quase metade das vagas, e Git e SQL
-aparecem em cerca de 1 de cada 3, então valem para qualquer trilha. JavaScript/TypeScript com React
-domina o front-end, e Java segue forte no back-end, com Python crescendo em vagas de IA e back-end.
-Testes automatizados e inglês aparecem em 1 de cada 4 vagas.
+**O que priorizar:** APIs REST, SQL e Git formam a base, cada um pedido em mais de 4 de cada 10 vagas,
+e valem para qualquer trilha. SQL subiu bastante nas últimas semanas, puxado por vagas de dados e back-end.
+JavaScript/TypeScript seguem fortes no front-end, Java e Python dividem o back-end, e testes automatizados
+e inglês aparecem em 1 de cada 4 vagas. Muitas vagas aceitam graduação em andamento.
 <!-- REQUISITOS:FIM -->
 
 ## Arquivos
