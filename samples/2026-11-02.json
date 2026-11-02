@@ -1,0 +1,21 @@
+{
+ "data": "2026-11-02",
+ "observacoes": [
+  "Hoje 4 vagas novas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas), nenhuma de empresa grande. As demais candidatas eram pleno/sênior, pediam mais de 2 anos de experiência, eram de suporte/infra ou já foram enviadas."
+ ],
+ "vagas": [
+  {"titulo": "Analista Backend Java Júnior", "empresa": "EvoluServices Meios de Pagamento", "porte": "pequena (51-200)", "area": "Desenvolvimento", "publicada": "30/10",
+   "requisitos": ["Orientação a objetos com Java, C++ ou C#", "Lógica, algoritmos e estruturas de dados", "MySQL", "Leitura em inglês", "Graduação em computação (cursando ou completa)"],
+   "aviso": "", "link": "https://evoluservices.gupy.io/jobs/12816644", "fonte": "Remote Rocketship"},
+  {"titulo": "Desenvolvedor(a) de Software TypeScript / Elixir Júnior (Mobilidade Elétrica)", "empresa": "Vonbz", "porte": "de porte não informado", "area": "Desenvolvimento", "publicada": "29/10",
+   "requisitos": ["TypeScript e/ou Elixir", "NestJS, Express e Phoenix", "DDD, SOLID, arquitetura hexagonal e Kafka", "Docker, Kubernetes e CI/CD (básico)", "Ferramentas de IA para código (Copilot, Claude Code)"],
+   "aviso": "Júnior com requisitos puxados: pede experiência prática com vários frameworks", "link": "https://vonbz.inhire.app/vagas/31c10560-fdcc-492a-a8a0-0730254c331a/desenvolvedora-de-software-typescript-elixir-or-junior-or-remoto-or-mobilidade-eletrica", "fonte": "Remotar"},
+  {"titulo": "Junior Forward Deployed Data & Analytics Specialist", "empresa": "JOPY (JOYn Tech)", "porte": "de porte não informado", "area": "Dados & IA", "publicada": "31/10",
+   "requisitos": ["SQL", "Power BI ou outra ferramenta de dashboards", "Análise e interpretação de dados", "Interesse em IA e agentes de IA", "Inglês funcional"],
+   "aviso": "Contratação PJ; envolve reuniões com clientes", "link": "https://jobs.quickin.io/joynrh/jobs/6ae29cb35746520013149763", "fonte": "Remotar"},
+  {"titulo": "Testador Júnior", "empresa": "Spread", "porte": "de porte não informado", "area": "QA", "publicada": "há 2 dias",
+   "requisitos": ["Graduação em TI (cursando ou completa)", "Lógica de programação", "Orientação a objetos (básico)", "Interesse em qualidade e testes", "Diferencial: Java, Selenium e automação de testes"],
+   "aviso": "Vaga afirmativa para pessoas com deficiência (o anúncio não diz que é exclusiva). CLT", "link": "https://www.nerdin.com.br/vaga_emprego/vaga-testador-junior-vaga-pcd-100246.php", "fonte": "NerdIn"}
+ ],
+ "internacionais": []
+}
