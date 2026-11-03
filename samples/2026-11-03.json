@@ -1,0 +1,12 @@
+{
+ "data": "2026-11-03",
+ "observacoes": [
+  "Dia muito fraco: só 1 vaga nova passou nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviada). As outras candidatas já foram enviadas nos últimos dias, eram pleno/sênior, pediam 2+ anos de experiência ou eram de suporte/infra."
+ ],
+ "vagas": [
+  {"titulo": "Engenheiro(a) de Software Júnior com Experiência em Contabilidade (LATAM)", "empresa": "Sezzle", "porte": "média (201-500)", "area": "Desenvolvimento", "publicada": "02/11",
+   "requisitos": ["Experiência prévia como contador(a) ou analista financeiro", "Python, Java ou Go", "MySQL ou PostgreSQL e APIs de backend", "Uso de ferramentas de IA (Claude ou similares)", "Graduação em Contabilidade, Computação ou área afim; inglês"],
+   "aviso": "Vaga de nicho: exige experiência em contabilidade/finanças. Remoto na América Latina", "salario": "US$ 1.500 a 4.000/mês", "link": "https://boards.greenhouse.io/sezzle/jobs/6668065003", "fonte": "Remote Rocketship"}
+ ],
+ "internacionais": []
+}

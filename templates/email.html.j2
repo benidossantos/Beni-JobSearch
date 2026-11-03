@@ -7,7 +7,7 @@
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:640px;background:#0a0a0a;border:1px solid #1f1f1f;border-radius:8px;">
   <tr><td style="padding:24px 24px 8px;">
     <div style="font-size:13px;color:#8a8a8a;">Beni JobSearch · {{ data_extenso }}</div>
-    <h1 style="margin:6px 0 4px;font-size:22px;color:#ffffff;">{{ vagas|length }} vagas júnior 100% remotas</h1>
+    <h1 style="margin:6px 0 4px;font-size:22px;color:#ffffff;">{{ vagas|length }} {{ "vaga júnior 100% remota" if vagas|length == 1 else "vagas júnior 100% remotas" }}</h1>
     <div style="font-size:14px;color:#b3b3b3;">Desenvolvimento de Software, Dados e IA · publicadas nos últimos 7 dias</div>
     {% for obs in observacoes %}<div style="margin-top:12px;padding:10px 12px;background:#1c1708;border:1px solid #3d3110;border-radius:6px;font-size:13px;color:#fcd34d;">{{ obs }}</div>{% endfor %}
   </td></tr>
