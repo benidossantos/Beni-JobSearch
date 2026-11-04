@@ -1225,5 +1225,65 @@
   ],
   "link": "https://boards.greenhouse.io/sezzle/jobs/6668065003",
   "enviada_em": "2026-11-03"
+ },
+ {
+  "empresa": "200DEV",
+  "titulo": "Desenvolvedor(a) Júnior - Integrações",
+  "area": "Desenvolvimento",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "Integração de sistemas (APIs REST, SOAP e webhooks)",
+   ".NET / C#",
+   "Raciocínio lógico estruturado",
+   "Boa comunicação com clientes",
+   "Diferencial: plataforma Digibee"
+  ],
+  "link": "https://www.nerdin.com.br/vaga_emprego/vaga-desenvolvedor-a-junior-integracoes-100301.php",
+  "enviada_em": "2026-11-04"
+ },
+ {
+  "empresa": "Solutis",
+  "titulo": "Engenharia / Ciência de Dados Júnior",
+  "area": "Dados & IA",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "Python para dados (pandas, numpy, matplotlib)",
+   "Estatística aplicada e probabilidade",
+   "Machine learning supervisionado e não supervisionado",
+   "SQL (JOINs, GROUP BY, agregações)",
+   "Git e graduação em área exata ou TI"
+  ],
+  "link": "https://solutis.inhire.app/vagas/5dd116f8-e814-459e-be05-bf3fad254e70/engenheria-ciencias-de-dados-junior-pleno-e-senior-or-remoto",
+  "enviada_em": "2026-11-04"
+ },
+ {
+  "empresa": "Solutis",
+  "titulo": "RPA e Automação Júnior",
+  "area": "Desenvolvimento",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "Python ou outra linguagem",
+   "Uma ferramenta de RPA (IBM RPA, Power Automate, UiPath)",
+   "SQL (criação de tabelas, SELECT, INSERT, UPDATE)",
+   "Metodologias ágeis",
+   "Graduação completa em TI"
+  ],
+  "link": "https://solutis.inhire.app/vagas/46cb9a52-e2d4-4878-b8db-350f09b280fb/rpa-e-automacao-junior-pleno-e-senior-or-remoto",
+  "enviada_em": "2026-11-04"
+ },
+ {
+  "empresa": "act digital",
+  "titulo": "Desenvolvedor Full Stack .NET - Júnior / Pleno",
+  "area": "Desenvolvimento",
+  "porte": "grande",
+  "requisitos": [
+   ".NET / .NET Core / C# e MVC",
+   "Razor Pages, Entity Framework e Web API REST",
+   "SQL Server",
+   "JavaScript, jQuery, HTML5 e CSS",
+   "Graduação completa em TI"
+  ],
+  "link": "https://www.nerdin.com.br/vaga_emprego/vaga-desenvolvedor-full-stack-net-junior-pleno-100306.php",
+  "enviada_em": "2026-11-04"
  }
 ]

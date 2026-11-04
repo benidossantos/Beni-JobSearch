@@ -1,0 +1,21 @@
+{
+ "data": "2026-11-04",
+ "observacoes": [
+  "Hoje 4 vagas novas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas): 3 de pequenas/médias ou de porte não informado e 1 de empresa grande. Três delas abrem mais de um nível (júnior/pleno/sênior) no mesmo anúncio, o que está sinalizado em cada uma."
+ ],
+ "vagas": [
+  {"titulo": "Desenvolvedor(a) Júnior - Integrações", "empresa": "200DEV", "porte": "de porte não informado", "area": "Desenvolvimento", "publicada": "03/11",
+   "requisitos": ["Integração de sistemas (APIs REST, SOAP e webhooks)", ".NET / C#", "Raciocínio lógico estruturado", "Boa comunicação com clientes", "Diferencial: plataforma Digibee"],
+   "aviso": "Pede experiência prática em projetos de integração", "link": "https://www.nerdin.com.br/vaga_emprego/vaga-desenvolvedor-a-junior-integracoes-100301.php", "fonte": "NerdIn"},
+  {"titulo": "Engenharia / Ciência de Dados Júnior", "empresa": "Solutis", "porte": "de porte não informado", "area": "Dados & IA", "publicada": "03/11",
+   "requisitos": ["Python para dados (pandas, numpy, matplotlib)", "Estatística aplicada e probabilidade", "Machine learning supervisionado e não supervisionado", "SQL (JOINs, GROUP BY, agregações)", "Git e graduação em área exata ou TI"],
+   "aviso": "Mesmo anúncio abre júnior, pleno e sênior", "link": "https://solutis.inhire.app/vagas/5dd116f8-e814-459e-be05-bf3fad254e70/engenheria-ciencias-de-dados-junior-pleno-e-senior-or-remoto", "fonte": "Remotar"},
+  {"titulo": "RPA e Automação Júnior", "empresa": "Solutis", "porte": "de porte não informado", "area": "Desenvolvimento", "publicada": "03/11",
+   "requisitos": ["Python ou outra linguagem", "Uma ferramenta de RPA (IBM RPA, Power Automate, UiPath)", "SQL (criação de tabelas, SELECT, INSERT, UPDATE)", "Metodologias ágeis", "Graduação completa em TI"],
+   "aviso": "Mesmo anúncio abre júnior, pleno e sênior; contratações até dezembro", "link": "https://solutis.inhire.app/vagas/46cb9a52-e2d4-4878-b8db-350f09b280fb/rpa-e-automacao-junior-pleno-e-senior-or-remoto", "fonte": "Remotar"},
+  {"titulo": "Desenvolvedor Full Stack .NET - Júnior / Pleno", "empresa": "act digital", "porte": "grande", "area": "Desenvolvimento", "publicada": "03/11",
+   "requisitos": [".NET / .NET Core / C# e MVC", "Razor Pages, Entity Framework e Web API REST", "SQL Server", "JavaScript, jQuery, HTML5 e CSS", "Graduação completa em TI"],
+   "aviso": "Vaga júnior/pleno", "link": "https://www.nerdin.com.br/vaga_emprego/vaga-desenvolvedor-full-stack-net-junior-pleno-100306.php", "fonte": "NerdIn"}
+ ],
+ "internacionais": []
+}
