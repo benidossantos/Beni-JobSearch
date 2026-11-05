@@ -1285,5 +1285,50 @@
   ],
   "link": "https://www.nerdin.com.br/vaga_emprego/vaga-desenvolvedor-full-stack-net-junior-pleno-100306.php",
   "enviada_em": "2026-11-04"
+ },
+ {
+  "empresa": "Sysmaps",
+  "titulo": "Engenheiro(a) de Dados Júnior/Pleno Databricks",
+  "area": "Dados & IA",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "Python e PySpark",
+   "SQL avançado",
+   "Databricks (notebooks e jobs)",
+   "ETL/ELT, Delta Lake e arquitetura medalhão",
+   "Git"
+  ],
+  "link": "https://www.nerdin.com.br/vaga_emprego/vaga-engenheiro-a-de-dados-junior-pleno-databricks-100365.php",
+  "enviada_em": "2026-11-05"
+ },
+ {
+  "empresa": "MadeinWeb",
+  "titulo": "Pessoa Desenvolvedora Android Nativo (Kotlin / Jetpack Compose) - Júnior+/Pleno",
+  "area": "Desenvolvimento",
+  "porte": "de porte não informado",
+  "requisitos": [
+   "Kotlin e Android SDK",
+   "Jetpack Compose e layouts XML",
+   "Coroutines e Flow",
+   "Hilt/Koin e Room/DataStore",
+   "Retrofit, APIs REST, Git e testes unitários"
+  ],
+  "link": "https://madeinweb.inhire.app/vagas/02ccb494-1be5-438c-95db-8ff08f4021fd/pessoa-desenvolvedora-android-nativo-kotlin-jetpack-compose-nivel-junior-pleno",
+  "enviada_em": "2026-11-05"
+ },
+ {
+  "empresa": "Sensedia",
+  "titulo": "Desenvolvedor Java | Júnior",
+  "area": "Desenvolvimento",
+  "porte": "grande (501-1000)",
+  "requisitos": [
+   "Java 17+ e Spring Boot",
+   "JUnit 5",
+   "APIs RESTful e microsserviços",
+   "Bancos relacionais e não relacionais",
+   "Git, mensageria e aplicações cloud-native"
+  ],
+  "link": "https://sensedia.hire.trakstar.com/jobs/fk0zc1c/",
+  "enviada_em": "2026-11-05"
  }
 ]
