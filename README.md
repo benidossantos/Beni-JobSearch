@@ -45,25 +45,25 @@ Um exemplo está em [`samples/relatorio-semanal-exemplo.txt`](samples/relatorio-
 ### Requisitos mais pedidos até agora
 
 <!-- REQUISITOS:INICIO (atualizado automaticamente toda sexta-feira) -->
-Base: 79 vagas enviadas de 13/10 a 30/10/2026 (inclui as 15 do e-mail de teste).
+Base: 93 vagas enviadas de 13/10 a 06/11/2026 (inclui as 15 do e-mail de teste).
 
 | # | Requisito | Vagas | % |
 | --- | --- | --- | --- |
-| 1 | APIs REST | 35 | 44% |
-| 2 | SQL | 34 | 43% |
-| 3 | Git | 33 | 42% |
-| 4 | JavaScript | 23 | 29% |
-| 5 | Python | 20 | 25% |
-| 6 | TypeScript | 19 | 24% |
-| 7 | Java | 19 | 24% |
-| 8 | Testes | 19 | 24% |
-| 9 | Inglês | 19 | 24% |
-| 10 | Graduação (em andamento) | 17 | 22% |
+| 1 | APIs REST | 42 | 45% |
+| 2 | SQL | 41 | 44% |
+| 3 | Git | 37 | 40% |
+| 4 | Python | 26 | 28% |
+| 5 | JavaScript | 25 | 27% |
+| 6 | Java | 23 | 25% |
+| 7 | Graduação (em andamento) | 23 | 25% |
+| 8 | Testes | 23 | 25% |
+| 9 | Inglês | 22 | 24% |
+| 10 | TypeScript | 21 | 23% |
 
-**O que priorizar:** APIs REST, SQL e Git formam a base, cada um pedido em mais de 4 de cada 10 vagas,
-e valem para qualquer trilha. SQL subiu bastante nas últimas semanas, puxado por vagas de dados e back-end.
-JavaScript/TypeScript seguem fortes no front-end, Java e Python dividem o back-end, e testes automatizados
-e inglês aparecem em 1 de cada 4 vagas. Muitas vagas aceitam graduação em andamento.
+**O que priorizar:** APIs REST, SQL e Git seguem como a base pedida em cerca de 4 de cada 10 vagas.
+Python vem crescendo, puxado por vagas de dados, RPA e IA generativa, e já passou JavaScript no acumulado.
+Java e C#/.NET dividem o back-end, testes automatizados e inglês aparecem em 1 de cada 4 vagas, e muitas
+vagas aceitam graduação em andamento.
 <!-- REQUISITOS:FIM -->
 
 ## Arquivos

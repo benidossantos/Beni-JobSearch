@@ -1330,5 +1330,35 @@
   ],
   "link": "https://sensedia.hire.trakstar.com/jobs/fk0zc1c/",
   "enviada_em": "2026-11-05"
+ },
+ {
+  "empresa": "BIP Brasil",
+  "titulo": "Desenvolvedor Full Stack - Júnior",
+  "area": "Desenvolvimento / IA",
+  "porte": "grande (1001-5000)",
+  "requisitos": [
+   "Python, JavaScript ou TypeScript",
+   "Back-end e front-end (básico)",
+   "APIs REST, integrações e bancos de dados",
+   "Machine learning, IA generativa e LLMs",
+   "Testes e versionamento (básico)"
+  ],
+  "link": "https://vemprabip.gupy.io/jobs/12844849",
+  "enviada_em": "2026-11-06"
+ },
+ {
+  "empresa": "BIP Brasil",
+  "titulo": "Pessoa Desenvolvedora de IA/RPA - Júnior",
+  "area": "Desenvolvimento / IA",
+  "porte": "grande (1001-5000)",
+  "requisitos": [
+   "RPA (UiPath, Power Automate ou similares)",
+   "Python, C# ou VB.NET",
+   "APIs REST, integrações e bancos de dados (básico)",
+   "Interesse em IA generativa, LLMs e agentes",
+   "Mapeamento de processos e testes"
+  ],
+  "link": "https://vemprabip.gupy.io/job/eyJqb2JJZCI6MTI4NDQ3ODAsInNvdXJjZSI6InJlbW90YXIifQ==",
+  "enviada_em": "2026-11-06"
  }
 ]

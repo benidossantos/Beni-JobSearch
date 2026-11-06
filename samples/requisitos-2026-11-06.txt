@@ -1,0 +1,43 @@
+BENI JOBSEARCH - REQUISITOS MAIS PEDIDOS DA SEMANA
+Período: 02/11 a 06/11/2026 · 14 vagas analisadas
+
+TOP 10 GERAL
+ 1. SQL                                       7 vagas (50%)
+ 2. APIs REST                                 7 vagas (50%)
+ 3. Graduação (em andamento)                  6 vagas (43%)
+ 4. Python                                    6 vagas (43%)
+ 5. Manipulação de dados                      5 vagas (36%)
+ 6. C# / .NET                                 4 vagas (29%)
+ 7. Java                                      4 vagas (29%)
+ 8. Testes                                    4 vagas (29%)
+ 9. Git                                       4 vagas (29%)
+10. Inglês                                    3 vagas (21%)
+
+DADOS & IA
+  - SQL (3)
+  - Manipulação de dados (2)
+  - Python (2)
+  - Git (2)
+  - Interesse em IA e agentes de IA (1)
+
+DESENVOLVIMENTO
+  - APIs REST (7)
+  - Graduação (em andamento) (4)
+  - C# / .NET (4)
+  - SQL (4)
+  - Python (4)
+
+QA
+  - Graduação (em andamento) (1)
+  - Java (1)
+  - Automação web (Selenium/Playwright) (1)
+  - Orientação a objetos (básico) (1)
+  - Lógica de programação (1)
+
+O QUE PRIORIZAR NOS ESTUDOS
+  1. SQL e APIs REST empataram no topo (metade das vagas da semana): pratique consultas com JOIN/GROUP BY e crie uma API simples que consome e grava dados.
+  2. Python apareceu em quase metade das vagas, puxado por dados, RPA e IA: um projeto pequeno de automação ou análise com pandas é um ótimo cartão de visita.
+  3. C#/.NET e Java dividem o back-end: escolha um dos dois e tenha um projeto publicado no GitHub com testes.
+  4. Várias vagas desta semana pedem IA generativa (LLMs, agentes, RAG) ou RPA: um projeto simples usando a API de um modelo de IA já é diferencial.
+  5. Testes automatizados e Git aparecem em quase 1 de cada 3 vagas: mantenha commits organizados e escreva testes nos seus projetos.
+  6. Muitas vagas aceitam graduação em andamento: destaque o curso de Engenharia de Software e o estágio no currículo.

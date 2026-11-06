@@ -1,0 +1,16 @@
+{
+ "data": "2026-11-06",
+ "observacoes": [
+  "Hoje só 2 vagas novas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas), ambas da BIP Brasil (empresa grande). As demais candidatas já foram enviadas nesta semana ou eram pleno/sênior.",
+  "Em anexo vai o relatório semanal com os requisitos mais pedidos (o README do repositório também foi atualizado)."
+ ],
+ "vagas": [
+  {"titulo": "Desenvolvedor Full Stack - Júnior", "empresa": "BIP Brasil", "porte": "grande (1001-5000)", "area": "Desenvolvimento / IA", "publicada": "05/11",
+   "requisitos": ["Python, JavaScript ou TypeScript", "Back-end e front-end (básico)", "APIs REST, integrações e bancos de dados", "Machine learning, IA generativa e LLMs", "Testes e versionamento (básico)"],
+   "aviso": "Aceita qualquer graduação; diferencial: LangChain, RAG, React e cloud", "link": "https://vemprabip.gupy.io/jobs/12844849", "fonte": "Remote Rocketship"},
+  {"titulo": "Pessoa Desenvolvedora de IA/RPA - Júnior", "empresa": "BIP Brasil", "porte": "grande (1001-5000)", "area": "Desenvolvimento / IA", "publicada": "05/11",
+   "requisitos": ["RPA (UiPath, Power Automate ou similares)", "Python, C# ou VB.NET", "APIs REST, integrações e bancos de dados (básico)", "Interesse em IA generativa, LLMs e agentes", "Mapeamento de processos e testes"],
+   "aviso": "A página da vaga não detalha o modelo de trabalho; o Remotar a classifica como remota", "link": "https://vemprabip.gupy.io/job/eyJqb2JJZCI6MTI4NDQ3ODAsInNvdXJjZSI6InJlbW90YXIifQ==", "fonte": "Remotar"}
+ ],
+ "internacionais": []
+}
