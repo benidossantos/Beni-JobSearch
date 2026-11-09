@@ -1,0 +1,14 @@
+{"data": "2026-11-09",
+ "observacoes": ["Hoje 3 vagas novas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas): 1 de PME e 2 de empresas grandes. As demais candidatas já tinham sido enviadas, eram pleno/sênior, pediam 2+ anos de experiência ou não eram abertas ao Brasil.",
+  "O porte da Wicomm não aparece no anúncio; ela foi classificada como PME por ser uma agência digital."],
+ "vagas": [
+  {"titulo": "Desenvolvedor Front-end Jr", "empresa": "Wicomm", "porte": "pme (agência digital)", "area": "Desenvolvimento", "publicada": "07/11",
+   "requisitos": ["HTML, CSS e JavaScript", "Perfil colaborativo e vontade de aprender"],
+   "aviso": "Diferenciais: Git e React", "link": "https://wicomm.vagas.solides.com.br/vaga/949725?origem=remotar", "fonte": "Remotar"},
+  {"titulo": "Analista de Qualidade Júnior", "empresa": "Zenvia", "porte": "grande", "area": "Desenvolvimento (QA)", "publicada": "06/11",
+   "requisitos": ["Lógica de programação", "Leitura de fluxogramas", "Análise e documentação de requisitos", "GitHub e APIs (básico)"],
+   "aviso": "Testes manuais e automatizados de chatbots; diferenciais: Scrum, Ruby, HTML, automação de UI", "link": "https://zenvia.gupy.io/job/eyJqb2JJZCI6MTI3NDExNTAsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar", "fonte": "Remotar"},
+  {"titulo": "Desenvolvimento Java Júnior - 137333", "empresa": "GFT Technologies", "porte": "grande (10.000+)", "area": "Desenvolvimento", "publicada": "06/11",
+   "requisitos": ["Java e Spring Boot (básico)", "Angular, TypeScript, HTML e CSS (básico)", "APIs REST", "SQL (PostgreSQL ou MySQL)", "Git", "Testes e boas práticas"],
+   "aviso": "Página da GFT marca a vaga como Remote; o endereço de Alphaville/Barueri aparece apenas como localização", "link": "https://jobs.gft.com/job/Alphaville-Barueri-Desenvolvimento-Java-J%C3%BAnior-137333-06_454-000/1455191733/", "fonte": "Remote Rocketship / site da GFT"}
+ ]}

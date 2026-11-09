@@ -1360,5 +1360,47 @@
   ],
   "link": "https://vemprabip.gupy.io/job/eyJqb2JJZCI6MTI4NDQ3ODAsInNvdXJjZSI6InJlbW90YXIifQ==",
   "enviada_em": "2026-11-06"
+ },
+ {
+  "empresa": "Wicomm",
+  "titulo": "Desenvolvedor Front-end Jr",
+  "area": "Desenvolvimento",
+  "porte": "pme (agência digital)",
+  "requisitos": [
+   "HTML, CSS e JavaScript",
+   "Perfil colaborativo e vontade de aprender"
+  ],
+  "link": "https://wicomm.vagas.solides.com.br/vaga/949725?origem=remotar",
+  "enviada_em": "2026-11-09"
+ },
+ {
+  "empresa": "Zenvia",
+  "titulo": "Analista de Qualidade Júnior",
+  "area": "Desenvolvimento (QA)",
+  "porte": "grande",
+  "requisitos": [
+   "Lógica de programação",
+   "Leitura de fluxogramas",
+   "Análise e documentação de requisitos",
+   "GitHub e APIs (básico)"
+  ],
+  "link": "https://zenvia.gupy.io/job/eyJqb2JJZCI6MTI3NDExNTAsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+  "enviada_em": "2026-11-09"
+ },
+ {
+  "empresa": "GFT Technologies",
+  "titulo": "Desenvolvimento Java Júnior - 137333",
+  "area": "Desenvolvimento",
+  "porte": "grande (10.000+)",
+  "requisitos": [
+   "Java e Spring Boot (básico)",
+   "Angular, TypeScript, HTML e CSS (básico)",
+   "APIs REST",
+   "SQL (PostgreSQL ou MySQL)",
+   "Git",
+   "Testes e boas práticas"
+  ],
+  "link": "https://jobs.gft.com/job/Alphaville-Barueri-Desenvolvimento-Java-J%C3%BAnior-137333-06_454-000/1455191733/",
+  "enviada_em": "2026-11-09"
  }
 ]
