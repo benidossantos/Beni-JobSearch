@@ -1,0 +1,11 @@
+{"data": "2026-11-10",
+ "observacoes": ["Hoje só 2 vagas novas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas): 1 de PME e 1 de empresa grande. As demais candidatas já tinham sido enviadas, eram pleno/sênior, pediam 2+ anos de experiência, eram híbridas ou não eram de desenvolvimento/dados.",
+  "O porte da Newze não aparece no anúncio; ela foi classificada como PME."],
+ "vagas": [
+  {"titulo": "Desenvolvedor Junior - Remoto", "empresa": "Newze", "porte": "pme (Grupo N / NTech)", "area": "Desenvolvimento / IA", "publicada": "09/11",
+   "requisitos": ["Interesse em ferramentas de IA aplicadas ao desenvolvimento", "Familiaridade ou interesse em Vibe Coding", "Conhecimento de ferramentas de desenvolvimento", "Aprender rápido e resolver problemas"],
+   "aviso": "Tags: Python, IA, .NET; contrato PJ; anúncio marca Home Office", "link": "https://www.nerdin.com.br/vaga_emprego/vaga-desenvolvedor-junior-remoto-100477.php", "fonte": "NerdIn", "salario": "R$ 3.200 (PJ)"},
+  {"titulo": ".Net Full-Stack Developer Junior | Remote", "empresa": "Compass", "porte": "grande (10.000+)", "area": "Desenvolvimento", "publicada": "09/11",
+   "requisitos": [".NET 8+ no back-end", "APIs REST e Swagger", "PostgreSQL e MongoDB", "OAuth2/Keycloak", "Git (GitHub/GitLab) e Docker", "Front-end básico: TypeScript, Redux, CSS e Jest"],
+   "aviso": "Não exige graduação; diferenciais: testes unitários, Scrum, Node.js/NestJS e ferramentas de IA", "link": "https://compass.gupy.io/jobs/12850018", "fonte": "Remote Rocketship"}
+ ]}

@@ -1402,5 +1402,35 @@
   ],
   "link": "https://jobs.gft.com/job/Alphaville-Barueri-Desenvolvimento-Java-J%C3%BAnior-137333-06_454-000/1455191733/",
   "enviada_em": "2026-11-09"
+ },
+ {
+  "empresa": "Newze",
+  "titulo": "Desenvolvedor Junior - Remoto",
+  "area": "Desenvolvimento / IA",
+  "porte": "pme (Grupo N / NTech)",
+  "requisitos": [
+   "Interesse em ferramentas de IA aplicadas ao desenvolvimento",
+   "Familiaridade ou interesse em Vibe Coding",
+   "Conhecimento de ferramentas de desenvolvimento",
+   "Aprender rápido e resolver problemas"
+  ],
+  "link": "https://www.nerdin.com.br/vaga_emprego/vaga-desenvolvedor-junior-remoto-100477.php",
+  "enviada_em": "2026-11-10"
+ },
+ {
+  "empresa": "Compass",
+  "titulo": ".Net Full-Stack Developer Junior | Remote",
+  "area": "Desenvolvimento",
+  "porte": "grande (10.000+)",
+  "requisitos": [
+   ".NET 8+ no back-end",
+   "APIs REST e Swagger",
+   "PostgreSQL e MongoDB",
+   "OAuth2/Keycloak",
+   "Git (GitHub/GitLab) e Docker",
+   "Front-end básico: TypeScript, Redux, CSS e Jest"
+  ],
+  "link": "https://compass.gupy.io/jobs/12850018",
+  "enviada_em": "2026-11-10"
  }
 ]
