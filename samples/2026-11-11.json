@@ -1,0 +1,26 @@
+{
+ "data": "2026-11-11",
+ "observacoes": [
+  "Hoje só 1 vaga nova passou nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviada), de uma PME. Não apareceu nenhuma vaga nova de empresa grande; as demais candidatas já tinham sido enviadas, eram pleno/sênior, pediam 2+ anos de experiência, eram híbridas ou eram de infraestrutura.",
+  "A vaga de Desenvolvedor(a) Júnior - Integrações da 200DEV foi republicada no NerdIn, mas já tinha sido enviada em 04/11, por isso ficou de fora."
+ ],
+ "vagas": [
+  {
+   "titulo": "Desenvolvedor(a) Júnior (C# / .NET)",
+   "empresa": "Ahlex",
+   "porte": "pme (11-50)",
+   "area": "Desenvolvimento",
+   "publicada": "11/11",
+   "requisitos": [
+    "C# e .NET (básico)",
+    "SQL (SQL Server ou PostgreSQL)",
+    "Git (GitHub/GitLab)",
+    "Lógica de programação e orientação a objetos",
+    "Experiência prévia em desenvolvimento (estágio ou projetos valem)"
+   ],
+   "aviso": "Não exige graduação; contrato PJ/cooperativa",
+   "link": "https://ahlex.vagas.solides.com.br/vaga/951388",
+   "fonte": "Remote Rocketship"
+  }
+ ]
+}
