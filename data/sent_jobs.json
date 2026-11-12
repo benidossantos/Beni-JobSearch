@@ -1447,5 +1447,65 @@
   ],
   "link": "https://ahlex.vagas.solides.com.br/vaga/951388",
   "enviada_em": "2026-11-11"
+ },
+ {
+  "empresa": "Vericode",
+  "titulo": "Desenvolvedor(a) Full Stack Júnior – Node.js | React Native",
+  "area": "Desenvolvimento",
+  "porte": "pme",
+  "requisitos": [
+   "Node.js e TypeScript",
+   "React Native",
+   "PostgreSQL / SQL",
+   "APIs REST",
+   "Git",
+   "Testes automatizados (básico) e Clean Code"
+  ],
+  "link": "https://vericode.inhire.app/vagas/30547dcf-a40a-4904-8f21-eb4ec63cde34/desenvolvedora-full-stack-junior-nodejs-or-react-native",
+  "enviada_em": "2026-11-12"
+ },
+ {
+  "empresa": "Fast2Mine",
+  "titulo": "Analista de Testes e Qualidade Júnior",
+  "area": "Desenvolvimento (QA)",
+  "porte": "pme",
+  "requisitos": [
+   "Análise de grandes volumes de dados",
+   "Registro de casos de teste, evidências e defeitos",
+   "Conhecimento de indicadores de operação de mineração",
+   "Perfil analítico e atento a detalhes"
+  ],
+  "link": "https://fast2mine.vagas.solides.com.br/vaga/951758?origem=remotar",
+  "enviada_em": "2026-11-12"
+ },
+ {
+  "empresa": "Kinix",
+  "titulo": "Analista Júnior de Power BI",
+  "area": "Dados",
+  "porte": "pme",
+  "requisitos": [
+   "Power Query e DAX",
+   "Modelagem de dados (star schema)",
+   "SQL básico e Excel avançado",
+   "Graduação em andamento ou concluída em TI, Engenharia, Estatística ou afins"
+  ],
+  "link": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-junior-de-power-bi-100574.php",
+  "enviada_em": "2026-11-12"
+ },
+ {
+  "empresa": "Quality Digital",
+  "titulo": "Pessoa Desenvolvedora Júnior Golang",
+  "area": "Desenvolvimento",
+  "porte": "grande (1001-5000)",
+  "requisitos": [
+   "Go (Golang) na prática, incluindo goroutines e channels",
+   "APIs e back-end",
+   "HTTP, JSON e integrações",
+   "PostgreSQL ou MySQL (básico)",
+   "Git e Docker (básico)",
+   "Testes automatizados (básico)"
+  ],
+  "link": "https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTI4Njk0MjcsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+  "enviada_em": "2026-11-12"
  }
 ]

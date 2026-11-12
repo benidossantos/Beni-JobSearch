@@ -1,0 +1,19 @@
+{"data": "2026-11-12",
+ "observacoes": ["Hoje 4 vagas novas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas): 3 de PMEs e 1 de empresa grande. As demais candidatas já tinham sido enviadas (várias foram republicadas), eram pleno/sênior, pediam 2+ anos de experiência ou eram de suporte.",
+  "Vagas internacionais: nenhuma nova nesta semana. As que apareceram abertas ao Brasil já tinham sido enviadas (Mixrank, GoFasti), eram de setembro (Pixibo, Appetiser Apps) ou pediam 5+ anos (RADCOM).",
+  "O porte de Kinix, Fast2Mine e Vericode não aparece nos anúncios; elas foram classificadas como PME."],
+ "vagas": [
+  {"titulo": "Desenvolvedor(a) Full Stack Júnior – Node.js | React Native", "empresa": "Vericode", "porte": "pme", "area": "Desenvolvimento", "publicada": "11/11",
+   "requisitos": ["Node.js e TypeScript", "React Native", "PostgreSQL / SQL", "APIs REST", "Git", "Testes automatizados (básico) e Clean Code"],
+   "aviso": "Diferenciais: microsserviços, filas (Kafka/RabbitMQ/SQS), Docker, CI/CD, AWS e interesse em fintech", "link": "https://vericode.inhire.app/vagas/30547dcf-a40a-4904-8f21-eb4ec63cde34/desenvolvedora-full-stack-junior-nodejs-or-react-native", "fonte": "Remotar"},
+  {"titulo": "Analista de Testes e Qualidade Júnior", "empresa": "Fast2Mine", "porte": "pme", "area": "Desenvolvimento (QA)", "publicada": "11/11",
+   "requisitos": ["Análise de grandes volumes de dados", "Registro de casos de teste, evidências e defeitos", "Conhecimento de indicadores de operação de mineração", "Perfil analítico e atento a detalhes"],
+   "aviso": "CLT; diferenciais: SQL Server, Python, Robot Framework, Jira/Zephyr e testes de API", "link": "https://fast2mine.vagas.solides.com.br/vaga/951758?origem=remotar", "fonte": "Remotar"},
+  {"titulo": "Analista Júnior de Power BI", "empresa": "Kinix", "porte": "pme", "area": "Dados", "publicada": "11/11",
+   "requisitos": ["Power Query e DAX", "Modelagem de dados (star schema)", "SQL básico e Excel avançado", "Graduação em andamento ou concluída em TI, Engenharia, Estatística ou afins"],
+   "aviso": "Pede pelo menos 1 ano com Power BI; contrato PJ; diferenciais: PL-300, Microsoft Fabric, Python e inglês", "link": "https://www.nerdin.com.br/vaga_emprego/vaga-analista-junior-de-power-bi-100574.php", "fonte": "NerdIn"},
+  {"titulo": "Pessoa Desenvolvedora Júnior Golang", "empresa": "Quality Digital", "porte": "grande (1001-5000)", "area": "Desenvolvimento", "publicada": "11/11",
+   "requisitos": ["Go (Golang) na prática, incluindo goroutines e channels", "APIs e back-end", "HTTP, JSON e integrações", "PostgreSQL ou MySQL (básico)", "Git e Docker (básico)", "Testes automatizados (básico)"],
+   "aviso": "Diferenciais: VTEX, CI/CD, Flutter, PHP, Kubernetes e espanhol", "link": "https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTI4Njk0MjcsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar", "fonte": "Remotar / Remote Rocketship"}
+ ],
+ "internacionais": []}
