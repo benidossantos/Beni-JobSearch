@@ -45,25 +45,25 @@ Um exemplo está em [`samples/relatorio-semanal-exemplo.txt`](samples/relatorio-
 ### Requisitos mais pedidos até agora
 
 <!-- REQUISITOS:INICIO (atualizado automaticamente toda sexta-feira) -->
-Base: 93 vagas enviadas de 13/10 a 06/11/2026 (inclui as 15 do e-mail de teste).
+Base: 105 vagas enviadas de 13/10 a 13/11/2026 (inclui as 15 do e-mail de teste).
 
 | # | Requisito | Vagas | % |
 | --- | --- | --- | --- |
-| 1 | APIs REST | 42 | 45% |
-| 2 | SQL | 41 | 44% |
-| 3 | Git | 37 | 40% |
-| 4 | Python | 26 | 28% |
-| 5 | JavaScript | 25 | 27% |
-| 6 | Java | 23 | 25% |
-| 7 | Graduação (em andamento) | 23 | 25% |
-| 8 | Testes | 23 | 25% |
-| 9 | Inglês | 22 | 24% |
-| 10 | TypeScript | 21 | 23% |
+| 1 | APIs REST | 48 | 46% |
+| 2 | SQL | 48 | 46% |
+| 3 | Git | 43 | 41% |
+| 4 | Python | 27 | 26% |
+| 5 | Testes | 27 | 26% |
+| 6 | JavaScript | 26 | 25% |
+| 7 | Graduação (em andamento) | 25 | 24% |
+| 8 | TypeScript | 24 | 23% |
+| 9 | Java | 24 | 23% |
+| 10 | Inglês | 22 | 21% |
 
-**O que priorizar:** APIs REST, SQL e Git seguem como a base pedida em cerca de 4 de cada 10 vagas.
-Python vem crescendo, puxado por vagas de dados, RPA e IA generativa, e já passou JavaScript no acumulado.
-Java e C#/.NET dividem o back-end, testes automatizados e inglês aparecem em 1 de cada 4 vagas, e muitas
-vagas aceitam graduação em andamento.
+**O que priorizar:** APIs REST e SQL empataram no topo do acumulado, pedidos em quase metade das vagas,
+com Git logo atrás. Testes automatizados subiram e já empatam com Python, que segue puxado por vagas de
+dados e IA. JavaScript, TypeScript e Java aparecem em cerca de 1 de cada 4 vagas, Docker e conceitos de IA
+(agentes, RAG, LLMs) vêm aparecendo com mais frequência, e muitas vagas aceitam graduação em andamento.
 <!-- REQUISITOS:FIM -->
 
 ## Arquivos

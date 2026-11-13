@@ -1,0 +1,12 @@
+{"data": "2026-11-13",
+ "observacoes": ["Hoje só 2 vagas novas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas). As demais candidatas já tinham sido enviadas nesta semana (várias foram republicadas), eram pleno/sênior, pediam 3+ anos de experiência ou eram de suporte.",
+  "O porte da Getronics e do Grupo SysMap não aparece nos anúncios. A Getronics foi classificada como grande por ser uma multinacional de TI; o Grupo SysMap, como PME.",
+  "Em anexo vai o relatório semanal com os requisitos mais pedidos (o README do repositório também foi atualizado)."],
+ "vagas": [
+  {"titulo": "Analista de Governança de Dados JR", "empresa": "Grupo SysMap", "porte": "pme", "area": "Dados", "publicada": "12/11",
+   "requisitos": ["SQL básico/intermediário", "Power BI (dashboards e relatórios)", "BI e análise de dados (básico)", "Conceitos de governança de dados e metadados", "Excel", "Graduação em andamento ou concluída em TI, Computação ou afins"],
+   "aviso": "CLT; pede familiaridade com landing pages; diferenciais: catálogo de dados, ETL, modelagem e HTML/CSS", "link": "https://gruposysmap.gupy.io/job/eyJqb2JJZCI6MTI4NzkzNTMsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar", "fonte": "Remotar"},
+  {"titulo": "Desenvolvedor(a) Back End Júnior - Remoto", "empresa": "Getronics", "porte": "grande (multinacional de TI)", "area": "Desenvolvimento / IA", "publicada": "12/11",
+   "requisitos": ["Python (estruturas de dados, POO, tratamento de erros)", "APIs REST, de preferência com FastAPI", "Microsserviços (fundamentos)", "Docker (básico)", "SQL e bancos relacionais (básico)", "Git", "Conceitos de agentes de IA, MCP e RAG"],
+   "aviso": "CLT; diferenciais: Go, Kubernetes, cloud, CI/CD e projetos com LLMs ou bancos vetoriais", "link": "https://www.nerdin.com.br/vaga_emprego/vaga-desenvolvedor-a-back-end-junior-remoto-100579.php", "fonte": "NerdIn"}
+ ]}

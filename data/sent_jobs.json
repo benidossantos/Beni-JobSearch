@@ -1507,5 +1507,38 @@
   ],
   "link": "https://qualitydigital.gupy.io/job/eyJqb2JJZCI6MTI4Njk0MjcsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
   "enviada_em": "2026-11-12"
+ },
+ {
+  "empresa": "Grupo SysMap",
+  "titulo": "Analista de Governança de Dados JR",
+  "area": "Dados",
+  "porte": "pme",
+  "requisitos": [
+   "SQL básico/intermediário",
+   "Power BI (dashboards e relatórios)",
+   "BI e análise de dados (básico)",
+   "Conceitos de governança de dados e metadados",
+   "Excel",
+   "Graduação em andamento ou concluída em TI, Computação ou afins"
+  ],
+  "link": "https://gruposysmap.gupy.io/job/eyJqb2JJZCI6MTI4NzkzNTMsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+  "enviada_em": "2026-11-13"
+ },
+ {
+  "empresa": "Getronics",
+  "titulo": "Desenvolvedor(a) Back End Júnior - Remoto",
+  "area": "Desenvolvimento / IA",
+  "porte": "grande (multinacional de TI)",
+  "requisitos": [
+   "Python (estruturas de dados, POO, tratamento de erros)",
+   "APIs REST, de preferência com FastAPI",
+   "Microsserviços (fundamentos)",
+   "Docker (básico)",
+   "SQL e bancos relacionais (básico)",
+   "Git",
+   "Conceitos de agentes de IA, MCP e RAG"
+  ],
+  "link": "https://www.nerdin.com.br/vaga_emprego/vaga-desenvolvedor-a-back-end-junior-remoto-100579.php",
+  "enviada_em": "2026-11-13"
  }
 ]

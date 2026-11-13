@@ -1,0 +1,36 @@
+BENI JOBSEARCH - REQUISITOS MAIS PEDIDOS DA SEMANA
+Período: 09/11 a 13/11/2026 · 12 vagas analisadas
+
+TOP 10 GERAL
+ 1. SQL                                       7 vagas (58%)
+ 2. APIs REST                                 6 vagas (50%)
+ 3. Git                                       6 vagas (50%)
+ 4. Testes                                    4 vagas (33%)
+ 5. Manipulação de dados                      4 vagas (33%)
+ 6. HTML e CSS                                3 vagas (25%)
+ 7. TypeScript                                3 vagas (25%)
+ 8. Docker                                    3 vagas (25%)
+ 9. Lógica de programação                     2 vagas (17%)
+10. C# / .NET                                 2 vagas (17%)
+
+DADOS
+  - Excel / Google Sheets (2)
+  - SQL (2)
+  - Graduação (em andamento) (2)
+  - Manipulação de dados (2)
+  - Power Query e DAX (1)
+
+DESENVOLVIMENTO
+  - APIs REST (6)
+  - Git (6)
+  - SQL (5)
+  - Testes (4)
+  - HTML e CSS (3)
+
+O QUE PRIORIZAR NOS ESTUDOS
+  1. SQL foi o requisito mais pedido da semana (mais da metade das vagas): pratique consultas com JOIN, GROUP BY e subconsultas em PostgreSQL ou SQL Server.
+  2. APIs REST e Git apareceram em metade das vagas: tenha no GitHub uma API simples (FastAPI, Node.js ou .NET) com histórico de commits organizado.
+  3. Testes automatizados aparecem em 1 de cada 3 vagas, inclusive nas de QA: escreva testes nos seus projetos e conheça uma ferramenta de automação.
+  4. Docker já aparece em 1 de cada 4 vagas: aprenda a criar um Dockerfile e subir sua API com banco usando docker compose.
+  5. Para dados, Power BI (DAX e Power Query) e Excel voltaram a aparecer junto com SQL: um dashboard publicado é um bom portfólio.
+  6. Várias vagas citam IA (agentes, MCP, RAG, LLMs) como requisito ou diferencial: um projeto pequeno usando a API de um modelo de IA já destaca o currículo.
