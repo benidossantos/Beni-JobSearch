@@ -1,0 +1,10 @@
+{"data": "2026-11-17",
+ "observacoes": ["Hoje só 2 vagas novas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas), ambas de PMEs. Não apareceu nenhuma vaga nova de empresa grande; as demais candidatas já tinham sido enviadas (a MixRank foi republicada), eram pleno/sênior, pediam 2+ anos de experiência ou eram híbridas."],
+ "vagas": [
+  {"titulo": "Desenvolvedor Back-end Jr.", "empresa": "Smart NX", "porte": "pme (51-200)", "area": "Desenvolvimento", "publicada": "16/11",
+   "requisitos": ["Node.js, JavaScript e TypeScript (básico)", "Express.js, Fastify ou NestJS (básico)", "APIs REST, Swagger e Postman", "SQL (PostgreSQL ou MySQL) e MongoDB (básico)", "Git", "Testes unitários (Jest ou similar)", "Lógica, estruturas de dados e POO"],
+   "aviso": "Não exige graduação; diferenciais: Docker e cloud", "link": "https://smartnx.gupy.io/jobs/12897121", "fonte": "Remote Rocketship"},
+  {"titulo": "Desenvolvedor(a) Full-Stack de IA Júnior", "empresa": "Concurrences", "porte": "pme (11-50)", "area": "Desenvolvimento / IA", "publicada": "16/11",
+   "requisitos": ["Python em produção (async, testes e tratamento de erros)", "Web service com FastAPI, Flask ou Django", "Linux, Git, shell e SSH", "SQL (joins e índices)", "Inglês"],
+   "aviso": "Contrato PJ (nota fiscal mensal); início em até 4 semanas; diferenciais: francês, RAG/bancos vetoriais, agentes, GCP e legal tech", "link": "https://jobs.dover.com/concurrences/3d5f851d-2350-4ebf-befb-360ab356c9c9", "fonte": "Remote Rocketship", "salario": "R$ 6.600/mês (PJ)"}
+ ]}

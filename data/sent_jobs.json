@@ -1556,5 +1556,37 @@
   ],
   "link": "https://gabyreisrh.abler.com.br/vagas/desenvolvedor-analista-sistemas-ia-claude-code-855417?utm_source=remotar",
   "enviada_em": "2026-11-16"
+ },
+ {
+  "empresa": "Smart NX",
+  "titulo": "Desenvolvedor Back-end Jr.",
+  "area": "Desenvolvimento",
+  "porte": "pme (51-200)",
+  "requisitos": [
+   "Node.js, JavaScript e TypeScript (básico)",
+   "Express.js, Fastify ou NestJS (básico)",
+   "APIs REST, Swagger e Postman",
+   "SQL (PostgreSQL ou MySQL) e MongoDB (básico)",
+   "Git",
+   "Testes unitários (Jest ou similar)",
+   "Lógica, estruturas de dados e POO"
+  ],
+  "link": "https://smartnx.gupy.io/jobs/12897121",
+  "enviada_em": "2026-11-17"
+ },
+ {
+  "empresa": "Concurrences",
+  "titulo": "Desenvolvedor(a) Full-Stack de IA Júnior",
+  "area": "Desenvolvimento / IA",
+  "porte": "pme (11-50)",
+  "requisitos": [
+   "Python em produção (async, testes e tratamento de erros)",
+   "Web service com FastAPI, Flask ou Django",
+   "Linux, Git, shell e SSH",
+   "SQL (joins e índices)",
+   "Inglês"
+  ],
+  "link": "https://jobs.dover.com/concurrences/3d5f851d-2350-4ebf-befb-360ab356c9c9",
+  "enviada_em": "2026-11-17"
  }
 ]
