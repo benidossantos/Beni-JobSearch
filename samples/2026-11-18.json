@@ -1,0 +1,13 @@
+{"data": "2026-11-18",
+ "observacoes": ["Hoje 3 vagas novas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas): 2 de PMEs e 1 de empresa grande. As demais candidatas já tinham sido enviadas, eram pleno/sênior, pediam 2+ anos de experiência, eram híbridas ou eram de suporte/infraestrutura."],
+ "vagas": [
+  {"titulo": "Desenvolvedor(a) de IA Agentic (Nível 1)", "empresa": "BluPeak IT", "porte": "pme (11-50)", "area": "Desenvolvimento / IA", "publicada": "17/11",
+   "requisitos": ["Experiência inicial com desenvolvimento, automação ou integração de sistemas", "Python, C#, JavaScript ou PowerShell", "APIs REST, JSON e integrações", "IA generativa, LLMs, engenharia de prompt e agentes (básico)", "Git, testes, depuração e documentação técnica"],
+   "aviso": "Contrato temporário; vaga em inglês (inglês exigido); diferenciais: Python e Azure", "link": "https://jobs.dover.com/theblupeak/d9ddb609-133a-4067-abcd-a673945546aa", "fonte": "Remote Rocketship"},
+  {"titulo": "Desenvolvedor(a) Web | Shopify e E-commerce", "empresa": "Talent Works", "porte": "pme (51-200)", "area": "Desenvolvimento", "publicada": "18/11",
+   "requisitos": ["Experiência com desenvolvimento e manutenção de sites", "Shopify e plataformas de e-commerce", "HTML, CSS e JavaScript", "Integrações de apps, pedidos e pagamentos", "Inglês avançado"],
+   "aviso": "Anúncio Júnior/Pleno; contrato temporário; pede experiência com sites de marcas de beleza", "link": "https://jobs.quickin.io/talentworksrh/jobs/6afcb86c96ed470013119dce", "fonte": "Remote Rocketship", "salario": "R$ 30/hora"},
+  {"titulo": "Engenheiro de Qualidade de Software Jr.", "empresa": "PagBank", "porte": "grande", "area": "Desenvolvimento (QA)", "publicada": "18/11",
+   "requisitos": ["Graduação concluída em Computação, Engenharia, SI ou afins", "Planejamento e escrita de cenários e scripts de teste", "Testes de back-end e APIs com Postman (básico)", "Lógica e uma linguagem (Java, Kotlin ou JavaScript)", "SQL e Git (básico)", "Metodologias ágeis (Scrum/Kanban)"],
+   "aviso": "Exige graduação concluída; diferenciais: automação com Playwright/Rest Assured/JUnit e IA aplicada a testes", "link": "https://pagseguro.gupy.io/job/eyJqb2JJZCI6MTE4ODI1NTksInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar", "fonte": "Remotar"}
+ ]}

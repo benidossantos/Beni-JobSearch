@@ -1588,5 +1588,51 @@
   ],
   "link": "https://jobs.dover.com/concurrences/3d5f851d-2350-4ebf-befb-360ab356c9c9",
   "enviada_em": "2026-11-17"
+ },
+ {
+  "empresa": "BluPeak IT",
+  "titulo": "Desenvolvedor(a) de IA Agentic (Nível 1)",
+  "area": "Desenvolvimento / IA",
+  "porte": "pme (11-50)",
+  "requisitos": [
+   "Experiência inicial com desenvolvimento, automação ou integração de sistemas",
+   "Python, C#, JavaScript ou PowerShell",
+   "APIs REST, JSON e integrações",
+   "IA generativa, LLMs, engenharia de prompt e agentes (básico)",
+   "Git, testes, depuração e documentação técnica"
+  ],
+  "link": "https://jobs.dover.com/theblupeak/d9ddb609-133a-4067-abcd-a673945546aa",
+  "enviada_em": "2026-11-18"
+ },
+ {
+  "empresa": "Talent Works",
+  "titulo": "Desenvolvedor(a) Web | Shopify e E-commerce",
+  "area": "Desenvolvimento",
+  "porte": "pme (51-200)",
+  "requisitos": [
+   "Experiência com desenvolvimento e manutenção de sites",
+   "Shopify e plataformas de e-commerce",
+   "HTML, CSS e JavaScript",
+   "Integrações de apps, pedidos e pagamentos",
+   "Inglês avançado"
+  ],
+  "link": "https://jobs.quickin.io/talentworksrh/jobs/6afcb86c96ed470013119dce",
+  "enviada_em": "2026-11-18"
+ },
+ {
+  "empresa": "PagBank",
+  "titulo": "Engenheiro de Qualidade de Software Jr.",
+  "area": "Desenvolvimento (QA)",
+  "porte": "grande",
+  "requisitos": [
+   "Graduação concluída em Computação, Engenharia, SI ou afins",
+   "Planejamento e escrita de cenários e scripts de teste",
+   "Testes de back-end e APIs com Postman (básico)",
+   "Lógica e uma linguagem (Java, Kotlin ou JavaScript)",
+   "SQL e Git (básico)",
+   "Metodologias ágeis (Scrum/Kanban)"
+  ],
+  "link": "https://pagseguro.gupy.io/job/eyJqb2JJZCI6MTE4ODI1NTksInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+  "enviada_em": "2026-11-18"
  }
 ]
