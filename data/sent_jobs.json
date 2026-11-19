@@ -1634,5 +1634,50 @@
   ],
   "link": "https://pagseguro.gupy.io/job/eyJqb2JJZCI6MTE4ODI1NTksInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
   "enviada_em": "2026-11-18"
+ },
+ {
+  "empresa": "Leega",
+  "titulo": "Analista Programador Júnior (.NET e Python)",
+  "area": "Desenvolvimento / Dados",
+  "porte": "pme (201-500)",
+  "requisitos": [
+   "Graduação em andamento ou concluída em Computação, SI ou afins",
+   ".NET ou Python na prática (projetos e estágio valem)",
+   "Lógica e orientação a objetos",
+   "APIs (básico) e cloud",
+   "SQL e BigQuery",
+   "Git, testes automatizados (básico) e metodologias ágeis"
+  ],
+  "link": "https://leega.gupy.io/jobs/12905129",
+  "enviada_em": "2026-11-19"
+ },
+ {
+  "empresa": "Objective",
+  "titulo": "Desenvolvedor(a) de Software JR/PL - Inteligência Artificial & LLMs",
+  "area": "Desenvolvimento / IA",
+  "porte": "pme (300+ especialistas)",
+  "requisitos": [
+   "Graduação em andamento ou concluída em Computação, Engenharia de Software ou afins",
+   "Experiência prévia em desenvolvimento (estágio ou projetos valem)",
+   "Python, JavaScript/TypeScript, Java ou C#",
+   "Familiaridade com ferramentas e APIs de IA (OpenAI, LangChain, Gemini, Hugging Face)",
+   "Git e consumo de APIs REST"
+  ],
+  "link": "https://objective.inhire.app/vagas/13668108-d253-4af1-a04b-4b9e4688ff61/desenvolvedora-de-software-jrpl-inteligencia-artificial-and-llms-or-remoto",
+  "enviada_em": "2026-11-19"
+ },
+ {
+  "empresa": "Lighthouse",
+  "titulo": "Analista de Testes Automatizados JR/PL",
+  "area": "Desenvolvimento (QA)",
+  "porte": "pme",
+  "requisitos": [
+   "Automação de testes com Selenium, Cypress, Playwright ou Jenkins",
+   "Criação de cenários e execução de testes funcionais",
+   "Tipos de teste (funcional, regressão, performance) e métricas de qualidade",
+   "Documentação de cenários e casos de teste"
+  ],
+  "link": "https://lighthouseit.inhire.app/vagas/7c74ac70-23f2-4289-9148-485872bfad24/analista-de-testes-automatizados-jrpl",
+  "enviada_em": "2026-11-19"
  }
 ]

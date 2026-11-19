@@ -1,0 +1,16 @@
+{"data": "2026-11-19",
+ "observacoes": ["Hoje 3 vagas novas passaram nos filtros (júnior, 100% remoto, últimos 7 dias, ainda não enviadas), todas de PMEs. Não apareceu nenhuma vaga nova de empresa grande; as demais candidatas já tinham sido enviadas, eram pleno/sênior, eram híbridas ou eram de suporte. A vaga de Desenvolvedor Java da Join Creative Tech ficou de fora porque a página oficial ainda está sem descrição nem requisitos.",
+  "Vagas internacionais: nenhuma nova nesta semana. A única aberta ao Brasil que apareceu (BluPeak IT) já foi enviada ontem na lista nacional, e o feed do We Work Remotely não tem vagas júnior recentes.",
+  "O porte da Lighthouse não aparece no anúncio; ela foi classificada como PME."],
+ "vagas": [
+  {"titulo": "Analista Programador Júnior (.NET e Python)", "empresa": "Leega", "porte": "pme (201-500)", "area": "Desenvolvimento / Dados", "publicada": "18/11",
+   "requisitos": ["Graduação em andamento ou concluída em Computação, SI ou afins", ".NET ou Python na prática (projetos e estágio valem)", "Lógica e orientação a objetos", "APIs (básico) e cloud", "SQL e BigQuery", "Git, testes automatizados (básico) e metodologias ágeis"],
+   "aviso": "Contrato temporário; auxílio home office", "link": "https://leega.gupy.io/jobs/12905129", "fonte": "Remote Rocketship"},
+  {"titulo": "Desenvolvedor(a) de Software JR/PL - Inteligência Artificial & LLMs", "empresa": "Objective", "porte": "pme (300+ especialistas)", "area": "Desenvolvimento / IA", "publicada": "18/11",
+   "requisitos": ["Graduação em andamento ou concluída em Computação, Engenharia de Software ou afins", "Experiência prévia em desenvolvimento (estágio ou projetos valem)", "Python, JavaScript/TypeScript, Java ou C#", "Familiaridade com ferramentas e APIs de IA (OpenAI, LangChain, Gemini, Hugging Face)", "Git e consumo de APIs REST"],
+   "aviso": "Anúncio Júnior/Pleno; diferenciais: agentes de IA, RAG, portfólio no GitHub e inglês intermediário", "link": "https://objective.inhire.app/vagas/13668108-d253-4af1-a04b-4b9e4688ff61/desenvolvedora-de-software-jrpl-inteligencia-artificial-and-llms-or-remoto", "fonte": "Remotar"},
+  {"titulo": "Analista de Testes Automatizados JR/PL", "empresa": "Lighthouse", "porte": "pme", "area": "Desenvolvimento (QA)", "publicada": "16/11",
+   "requisitos": ["Automação de testes com Selenium, Cypress, Playwright ou Jenkins", "Criação de cenários e execução de testes funcionais", "Tipos de teste (funcional, regressão, performance) e métricas de qualidade", "Documentação de cenários e casos de teste"],
+   "aviso": "Anúncio Júnior/Pleno; vaga para cliente da consultoria; diferenciais: Postman e e-commerce", "link": "https://lighthouseit.inhire.app/vagas/7c74ac70-23f2-4289-9148-485872bfad24/analista-de-testes-automatizados-jrpl", "fonte": "Remotar"}
+ ],
+ "internacionais": []}
