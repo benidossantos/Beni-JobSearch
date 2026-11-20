@@ -1679,5 +1679,33 @@
   ],
   "link": "https://lighthouseit.inhire.app/vagas/7c74ac70-23f2-4289-9148-485872bfad24/analista-de-testes-automatizados-jrpl",
   "enviada_em": "2026-11-19"
+ },
+ {
+  "empresa": "EVT",
+  "titulo": "Desenvolvedor Tosca Júnior (70415)",
+  "area": "Desenvolvimento (QA)",
+  "porte": "grande (501-1000)",
+  "requisitos": [
+   "Graduação em andamento ou concluída em Computação, Engenharia de Computação, SI ou afins",
+   "Raciocínio lógico e boa comunicação",
+   "Trabalho em equipe, proatividade e senso de prioridade"
+  ],
+  "link": "https://jobs.quickin.io/evtit/jobs/6afedb9296ed470013c97a41",
+  "enviada_em": "2026-11-20"
+ },
+ {
+  "empresa": "Experian",
+  "titulo": "Analista de Desenvolvimento de Software Júnior - Vaga Afirmativa para Mulheres",
+  "area": "Desenvolvimento",
+  "porte": "grande (10.000+)",
+  "requisitos": [
+   "Java, OutSystems e orientação a objetos",
+   "Spring Boot (básico) e APIs REST",
+   "SQL e bancos relacionais (básico)",
+   "Git",
+   "Vontade de aprender e investigar regras de negócio"
+  ],
+  "link": "https://jobs.smartrecruiters.com/experian/744000162618349-analista-de-desenvolvimento-de-software-junior-vaga-afirmativa-para-mulheres",
+  "enviada_em": "2026-11-20"
  }
 ]

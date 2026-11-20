@@ -1,0 +1,29 @@
+BENI JOBSEARCH - REQUISITOS MAIS PEDIDOS DA SEMANA
+Período: 16/11 a 20/11/2026 · 11 vagas analisadas
+
+TOP 10 GERAL
+ 1. Git                                       8 vagas (73%)
+ 2. APIs REST                                 7 vagas (64%)
+ 3. JavaScript                                6 vagas (55%)
+ 4. Testes                                    6 vagas (55%)
+ 5. Python                                    5 vagas (45%)
+ 6. SQL                                       5 vagas (45%)
+ 7. Lógica de programação                     4 vagas (36%)
+ 8. Graduação (em andamento)                  4 vagas (36%)
+ 9. C# / .NET                                 3 vagas (27%)
+10. Java                                      3 vagas (27%)
+
+DESENVOLVIMENTO
+  - Git (8)
+  - APIs REST (7)
+  - JavaScript (6)
+  - Testes (6)
+  - Python (5)
+
+O QUE PRIORIZAR NOS ESTUDOS
+  1. Git apareceu em quase 3 de cada 4 vagas da semana: mantenha seus projetos no GitHub com commits pequenos, mensagens claras e uso de branches.
+  2. APIs REST seguem no topo (quase 2 de cada 3 vagas): crie e consuma uma API simples, documentada com Swagger, em Node.js, Python (FastAPI) ou .NET.
+  3. Testes subiram muito nesta semana (mais da metade das vagas), inclusive nas de QA e automação: escreva testes unitários e conheça uma ferramenta como Playwright, Cypress ou Selenium.
+  4. JavaScript e Python dividem a preferência: domine bem uma das duas e tenha noções da outra.
+  5. SQL continua presente em quase metade das vagas: pratique consultas com JOIN e GROUP BY em PostgreSQL ou SQL Server.
+  6. Várias vagas citam IA (LLMs, agentes, RAG, ferramentas como Claude Code e Copilot) e aceitam graduação em andamento: um projeto com IA no portfólio e o curso em destaque no currículo ajudam bastante.

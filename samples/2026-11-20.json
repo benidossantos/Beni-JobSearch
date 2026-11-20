@@ -1,0 +1,12 @@
+{"data": "2026-11-20",
+ "observacoes": ["Hoje só 2 vagas novas passaram nos filtros (júnior, remoto no Brasil, últimos 7 dias, ainda não enviadas), ambas de empresas grandes. As demais candidatas já tinham sido enviadas nesta semana, eram pleno/sênior, pediam 2+ anos de experiência (Talan), eram híbridas ou eram de suporte. A vaga de Desenvolvedor Java da Join Creative Tech continua sem descrição na página oficial.",
+  "As duas vagas aparecem como \"Brasil – Remoto\" no Remote Rocketship, sem a expressão \"100% remoto\" no anúncio; vale confirmar o modelo de trabalho na candidatura.",
+  "Em anexo vai o relatório semanal com os requisitos mais pedidos (o README do repositório também foi atualizado)."],
+ "vagas": [
+  {"titulo": "Desenvolvedor Tosca Júnior (70415)", "empresa": "EVT", "porte": "grande (501-1000)", "area": "Desenvolvimento (QA)", "publicada": "20/11",
+   "requisitos": ["Graduação em andamento ou concluída em Computação, Engenharia de Computação, SI ou afins", "Raciocínio lógico e boa comunicação", "Trabalho em equipe, proatividade e senso de prioridade"],
+   "aviso": "Automação de testes; contrato temporário; diferencial: Tosca ou outras ferramentas de teste; oferece aulas de inglês e Udemy", "link": "https://jobs.quickin.io/evtit/jobs/6afedb9296ed470013c97a41", "fonte": "Remote Rocketship"},
+  {"titulo": "Analista de Desenvolvimento de Software Júnior - Vaga Afirmativa para Mulheres", "empresa": "Experian", "porte": "grande (10.000+)", "area": "Desenvolvimento", "publicada": "20/11",
+   "requisitos": ["Java, OutSystems e orientação a objetos", "Spring Boot (básico) e APIs REST", "SQL e bancos relacionais (básico)", "Git", "Vontade de aprender e investigar regras de negócio"],
+   "aviso": "Vaga afirmativa para mulheres (o anúncio não diz se é exclusiva); diferenciais: .NET, procedures SQL Server/Oracle, testes, MongoDB e inglês", "link": "https://jobs.smartrecruiters.com/experian/744000162618349-analista-de-desenvolvimento-de-software-junior-vaga-afirmativa-para-mulheres", "fonte": "Remote Rocketship"}
+ ]}
