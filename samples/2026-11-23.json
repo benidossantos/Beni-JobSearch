@@ -1,0 +1,11 @@
+{"data": "2026-11-23",
+ "observacoes": ["Hoje só 2 vagas novas passaram nos filtros (júnior ou júnior/pleno, remoto no Brasil, últimos 7 dias, ainda não enviadas): 1 de PME e 1 de empresa grande. As demais candidatas já tinham sido enviadas, eram sênior (Tour House), pediam 2+ anos de experiência (Combine), eram híbridas ou eram de suporte.",
+  "As duas vagas são anunciadas como Júnior/Pleno e pedem inglês; a data da Truelogic é aproximada (o Remote Rocketship mostra só tempo relativo)."],
+ "vagas": [
+  {"titulo": "Desenvolvedores, desenvolvedores, desenvolvedores", "empresa": "Owen & Owen", "porte": "pme (2-10)", "area": "Desenvolvimento", "publicada": "23/11",
+   "requisitos": ["Ruby on Rails e Ember.js", "PostgreSQL, Elasticsearch e Redis (familiaridade)", "Inglês"],
+   "aviso": "Anúncio Júnior/Pleno; a empresa prioriza capacidade de aprender sobre experiência anterior; inglês obrigatório", "link": "https://career.owen.se/jobs/889-developers-developers-developers", "fonte": "Remote Rocketship"},
+  {"titulo": "Engenheiro(a) de Back-End Júnior/Pleno (.NET) – Soluções de TI", "empresa": "Truelogic Software", "porte": "grande (501-1000)", "area": "Desenvolvimento", "publicada": "21/11",
+   "requisitos": ["C# e ecossistema .NET (.NET Core essencial)", "ASP.NET MVC e/ou Web Forms", "Banco relacional (SQL Server, Oracle ou PostgreSQL)", "ORM (NHibernate ou Entity Framework)", "Testes automatizados"],
+   "aviso": "Anúncio Júnior/Pleno, pede experiência sólida com C#; trabalho 100% remoto; BDD/TDD muito valorizados", "link": "https://jobs.ashbyhq.com/truelogic/c42fbab1-abdc-4468-ac1f-58728f974050", "fonte": "Remote Rocketship"}
+ ]}

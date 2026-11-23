@@ -1707,5 +1707,33 @@
   ],
   "link": "https://jobs.smartrecruiters.com/experian/744000162618349-analista-de-desenvolvimento-de-software-junior-vaga-afirmativa-para-mulheres",
   "enviada_em": "2026-11-20"
+ },
+ {
+  "empresa": "Owen & Owen",
+  "titulo": "Desenvolvedores, desenvolvedores, desenvolvedores",
+  "area": "Desenvolvimento",
+  "porte": "pme (2-10)",
+  "requisitos": [
+   "Ruby on Rails e Ember.js",
+   "PostgreSQL, Elasticsearch e Redis (familiaridade)",
+   "Inglês"
+  ],
+  "link": "https://career.owen.se/jobs/889-developers-developers-developers",
+  "enviada_em": "2026-11-23"
+ },
+ {
+  "empresa": "Truelogic Software",
+  "titulo": "Engenheiro(a) de Back-End Júnior/Pleno (.NET) – Soluções de TI",
+  "area": "Desenvolvimento",
+  "porte": "grande (501-1000)",
+  "requisitos": [
+   "C# e ecossistema .NET (.NET Core essencial)",
+   "ASP.NET MVC e/ou Web Forms",
+   "Banco relacional (SQL Server, Oracle ou PostgreSQL)",
+   "ORM (NHibernate ou Entity Framework)",
+   "Testes automatizados"
+  ],
+  "link": "https://jobs.ashbyhq.com/truelogic/c42fbab1-abdc-4468-ac1f-58728f974050",
+  "enviada_em": "2026-11-23"
  }
 ]
