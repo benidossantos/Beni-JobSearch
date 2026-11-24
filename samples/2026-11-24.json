@@ -1,0 +1,14 @@
+{"data": "2026-11-24",
+ "observacoes": ["Hoje 3 vagas novas passaram nos filtros (júnior ou júnior/pleno, remoto no Brasil, últimos 7 dias, ainda não enviadas): 2 de PMEs e 1 de empresa grande. Ficaram de fora a Startaideia (pede 2 anos de Java), uma vaga exclusiva para PcD (AZ Tecnologia), vagas híbridas e de suporte.",
+  "O porte do Grupo SysMap não aparece no anúncio; ele foi classificado como PME. As datas das vagas do Remote Rocketship são aproximadas (o site mostra só tempo relativo)."],
+ "vagas": [
+  {"titulo": "Engenheiro de Dados JR", "empresa": "Grupo SysMap", "porte": "pme", "area": "Dados", "publicada": "23/11",
+   "requisitos": ["Formação em TI ou Engenharia", "Bancos de dados relacionais e não relacionais", "Arquitetura de dados", "Programação para processamento de dados (ETL/ELT e pipelines)", "Organização e documentação técnica"],
+   "aviso": "CLT; foco em ETL/ELT e pipelines de dados", "link": "https://gruposysmap.gupy.io/job/eyJqb2JJZCI6MTI5MTY0ODksInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar", "fonte": "Remotar"},
+  {"titulo": "Desenvolvedor Fullstack Junior", "empresa": "Addvisor Group", "porte": "pme (201-500)", "area": "Desenvolvimento", "publicada": "24/11",
+   "requisitos": ["C#, .NET Core / .NET 6+ e Angular", "Entity Framework e conceitos de ORM", "Inglês intermediário (leitura técnica)"],
+   "aviso": "Modelo 100% remoto; inglês obrigatório", "link": "https://jobs.quickin.io/addvisor/jobs/6b04a61f29c8c30014d2afac", "fonte": "Remote Rocketship"},
+  {"titulo": "Software Engineer I - GenAI (CLT) | Remoto", "empresa": "GRAN", "porte": "grande (501-1000)", "area": "Desenvolvimento / IA", "publicada": "23/11",
+   "requisitos": ["Engenharia de IA/ML com foco em IA generativa e LLMs", "Construção e otimização de sistemas RAG", "Python e frameworks de IA (LangChain, LlamaIndex, Hugging Face)"],
+   "aviso": "Anúncio Júnior/Pleno com requisitos de nível mais alto; CLT 40h; diferenciais: sistemas multiagentes, LangFuse e LLM-as-a-Judge", "link": "https://vemsergran.gupy.io/jobs/12879290", "fonte": "Remote Rocketship"}
+ ]}

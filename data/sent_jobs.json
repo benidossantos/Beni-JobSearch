@@ -1735,5 +1735,46 @@
   ],
   "link": "https://jobs.ashbyhq.com/truelogic/c42fbab1-abdc-4468-ac1f-58728f974050",
   "enviada_em": "2026-11-23"
+ },
+ {
+  "empresa": "Grupo SysMap",
+  "titulo": "Engenheiro de Dados JR",
+  "area": "Dados",
+  "porte": "pme",
+  "requisitos": [
+   "Formação em TI ou Engenharia",
+   "Bancos de dados relacionais e não relacionais",
+   "Arquitetura de dados",
+   "Programação para processamento de dados (ETL/ELT e pipelines)",
+   "Organização e documentação técnica"
+  ],
+  "link": "https://gruposysmap.gupy.io/job/eyJqb2JJZCI6MTI5MTY0ODksInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+  "enviada_em": "2026-11-24"
+ },
+ {
+  "empresa": "Addvisor Group",
+  "titulo": "Desenvolvedor Fullstack Junior",
+  "area": "Desenvolvimento",
+  "porte": "pme (201-500)",
+  "requisitos": [
+   "C#, .NET Core / .NET 6+ e Angular",
+   "Entity Framework e conceitos de ORM",
+   "Inglês intermediário (leitura técnica)"
+  ],
+  "link": "https://jobs.quickin.io/addvisor/jobs/6b04a61f29c8c30014d2afac",
+  "enviada_em": "2026-11-24"
+ },
+ {
+  "empresa": "GRAN",
+  "titulo": "Software Engineer I - GenAI (CLT) | Remoto",
+  "area": "Desenvolvimento / IA",
+  "porte": "grande (501-1000)",
+  "requisitos": [
+   "Engenharia de IA/ML com foco em IA generativa e LLMs",
+   "Construção e otimização de sistemas RAG",
+   "Python e frameworks de IA (LangChain, LlamaIndex, Hugging Face)"
+  ],
+  "link": "https://vemsergran.gupy.io/jobs/12879290",
+  "enviada_em": "2026-11-24"
  }
 ]
