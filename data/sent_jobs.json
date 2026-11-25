@@ -1776,5 +1776,37 @@
   ],
   "link": "https://vemsergran.gupy.io/jobs/12879290",
   "enviada_em": "2026-11-24"
+ },
+ {
+  "empresa": "Truelogic Software",
+  "titulo": "Jr. Semi Sr. - QA Engineer (Data) – E-Learning",
+  "area": "Dados (QA)",
+  "porte": "grande (501-1000)",
+  "requisitos": [
+   "SQL avançado",
+   "Playwright, Python ou TypeScript",
+   "Testes de ETL e data warehouse",
+   "Testes de banco (procedures, views, triggers e functions)",
+   "JIRA ou TestRail"
+  ],
+  "link": "https://jobs.ashbyhq.com/truelogic/41be71a2-b9d2-42c4-a290-50770d0dce71?utm_source=remotar",
+  "enviada_em": "2026-11-25"
+ },
+ {
+  "empresa": "GFT Technologies",
+  "titulo": "Desenvolvimento Java JR - 137546 INT",
+  "area": "Desenvolvimento",
+  "porte": "grande (10.000+)",
+  "requisitos": [
+   "Java na prática",
+   "JUnit e Mockito",
+   "Web services REST e SOAP",
+   "SQL",
+   "Gradle e SVN",
+   "Design patterns, Javadoc e Swagger",
+   "Inglês avançado ou fluente"
+  ],
+  "link": "https://jobs.gft.com/job/Alphaville-Barueri-Desenvolvimento-Java-JR-137546-INT-06_454-000/1459882433/",
+  "enviada_em": "2026-11-25"
  }
 ]

@@ -1,0 +1,11 @@
+{"data": "2026-11-25",
+ "observacoes": ["Hoje só 2 vagas novas passaram nos filtros (júnior ou júnior/semi-sênior, remoto no Brasil, últimos 7 dias, ainda não enviadas), ambas de empresas grandes. Não apareceu nenhuma vaga nova de PME; as demais candidatas já tinham sido enviadas, eram híbridas (Mazzatech, Inovation, Roldão), pleno/sênior ou de suporte.",
+  "A data da vaga da GFT é aproximada (o Remote Rocketship mostra só tempo relativo)."],
+ "vagas": [
+  {"titulo": "Jr. Semi Sr. - QA Engineer (Data) – E-Learning", "empresa": "Truelogic Software", "porte": "grande (501-1000)", "area": "Dados (QA)", "publicada": "24/11",
+   "requisitos": ["SQL avançado", "Playwright, Python ou TypeScript", "Testes de ETL e data warehouse", "Testes de banco (procedures, views, triggers e functions)", "JIRA ou TestRail"],
+   "aviso": "Faixa júnior a semi-sênior; vaga internacional em inglês, pagamento em dólar; 100% remoto", "link": "https://jobs.ashbyhq.com/truelogic/41be71a2-b9d2-42c4-a290-50770d0dce71?utm_source=remotar", "fonte": "Remotar"},
+  {"titulo": "Desenvolvimento Java JR - 137546 INT", "empresa": "GFT Technologies", "porte": "grande (10.000+)", "area": "Desenvolvimento", "publicada": "24/11",
+   "requisitos": ["Java na prática", "JUnit e Mockito", "Web services REST e SOAP", "SQL", "Gradle e SVN", "Design patterns, Javadoc e Swagger", "Inglês avançado ou fluente"],
+   "aviso": "Anúncio marcado como Brasil – Remoto; o link da GFT cita Alphaville/Barueri, confirme o modelo na página", "link": "https://jobs.gft.com/job/Alphaville-Barueri-Desenvolvimento-Java-JR-137546-INT-06_454-000/1459882433/", "fonte": "Remote Rocketship"}
+ ]}
