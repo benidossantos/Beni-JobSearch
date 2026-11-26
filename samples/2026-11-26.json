@@ -1,0 +1,9 @@
+{"data":"2026-11-26",
+"observacoes":["Hoje só 2 vagas novas passaram nos filtros (júnior, remoto no Brasil, últimos 7 dias, ainda não enviadas), ambas de PMEs. Não apareceu vaga nova de empresa grande; as demais candidatas já tinham sido enviadas (como a Wicomm Front-end Jr, de 09/11), eram híbridas, pleno/sênior, de suporte, exclusivas PcD ou anteriores a 19/11.",
+"Nenhuma vaga internacional nova aberta ao Brasil nesta quinta: a Bits In Glass aceita só Uruguai, a LoanBud não confirma o Brasil e é majoritariamente suporte, e a da Experian já foi enviada em 20/11.",
+"As datas são aproximadas: o Remote Rocketship mostra só tempo relativo. Confirme na página da empresa."],
+"vagas":[
+{"titulo":"Dev Full Stack (.NET/React) - Jr","empresa":"DOMVS iT","porte":"pme (51-200)","area":"Desenvolvimento","publicada":"25/11","requisitos":["Back-end em .NET (C#)","React em nível intermediário","AWS (EC2, S3, RDS, Lambda, API Gateway)","Microsserviços e APIs REST","SQL Server, PostgreSQL e MongoDB","Git e CI/CD"],"aviso":"Contrato temporário; stack ampla para um júnior, sem anos de experiência exigidos","link":"https://jobs.quickin.io/domvsit/jobs/6b05d9b9c848c5001384187c","fonte":"Remote Rocketship"},
+{"titulo":"Desenvolvedor Back End Júnior","empresa":"Startaideia","porte":"pme (51-200)","area":"Desenvolvimento","publicada":"24/11","requisitos":["Mínimo de 2 anos com Java","Programação concorrente (multi-thread)","Web services e APIs (JSON/XML sobre HTTP)","Bancos relacionais e NoSQL","Cloud (AWS, GCP ou Azure), Docker/Kubernetes e Kafka","Ensino superior em andamento"],"aviso":"Pede no mínimo 2 anos de Java, no limite do filtro","link":"https://jobs.quickin.io/starta/jobs/6b048cf057cf3600132ba882","fonte":"Remote Rocketship"}
+],
+"internacionais":[]}

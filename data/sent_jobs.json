@@ -1808,5 +1808,37 @@
   ],
   "link": "https://jobs.gft.com/job/Alphaville-Barueri-Desenvolvimento-Java-JR-137546-INT-06_454-000/1459882433/",
   "enviada_em": "2026-11-25"
+ },
+ {
+  "empresa": "DOMVS iT",
+  "titulo": "Dev Full Stack (.NET/React) - Jr",
+  "area": "Desenvolvimento",
+  "porte": "pme (51-200)",
+  "requisitos": [
+   "Back-end em .NET (C#)",
+   "React em nível intermediário",
+   "AWS (EC2, S3, RDS, Lambda, API Gateway)",
+   "Microsserviços e APIs REST",
+   "SQL Server, PostgreSQL e MongoDB",
+   "Git e CI/CD"
+  ],
+  "link": "https://jobs.quickin.io/domvsit/jobs/6b05d9b9c848c5001384187c",
+  "enviada_em": "2026-11-26"
+ },
+ {
+  "empresa": "Startaideia",
+  "titulo": "Desenvolvedor Back End Júnior",
+  "area": "Desenvolvimento",
+  "porte": "pme (51-200)",
+  "requisitos": [
+   "Mínimo de 2 anos com Java",
+   "Programação concorrente (multi-thread)",
+   "Web services e APIs (JSON/XML sobre HTTP)",
+   "Bancos relacionais e NoSQL",
+   "Cloud (AWS, GCP ou Azure), Docker/Kubernetes e Kafka",
+   "Ensino superior em andamento"
+  ],
+  "link": "https://jobs.quickin.io/starta/jobs/6b048cf057cf3600132ba882",
+  "enviada_em": "2026-11-26"
  }
 ]
