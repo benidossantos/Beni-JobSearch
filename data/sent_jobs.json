@@ -1840,5 +1840,36 @@
   ],
   "link": "https://jobs.quickin.io/starta/jobs/6b048cf057cf3600132ba882",
   "enviada_em": "2026-11-26"
+ },
+ {
+  "empresa": "VExpenses",
+  "titulo": "Desenvolvedor(a) Back-End Laravel Júnior",
+  "area": "Desenvolvimento",
+  "porte": "pme (51-200)",
+  "requisitos": [
+   "PHP e Laravel em produção",
+   "Bancos relacionais e não relacionais",
+   "Cloud (AWS, GCP ou Azure)",
+   "Autonomia para investigar problemas e propor soluções",
+   "Diferenciais: Node.js ou Python, Docker, mensageria (Kafka, RabbitMQ, SQS)"
+  ],
+  "link": "https://vexpenses.gupy.io/job/eyJqb2JJZCI6MTI5NDk0NTIsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+  "enviada_em": "2026-11-27"
+ },
+ {
+  "empresa": "EVT",
+  "titulo": "Desenvolvedor Junior",
+  "area": "Desenvolvimento",
+  "porte": "grande (501-1000)",
+  "requisitos": [
+   "React e React Native",
+   "Node.js e Express",
+   "Noções de .NET com uso de ferramentas de IA",
+   "Git e Azure DevOps (CI/CD)",
+   "Noções de cloud, de preferência Azure",
+   "Familiaridade com Cursor e Codex"
+  ],
+  "link": "https://jobs.quickin.io/evtit/jobs/6b082ce60103320013dc0beb?utm_source=remotar",
+  "enviada_em": "2026-11-27"
  }
 ]

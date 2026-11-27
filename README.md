@@ -45,25 +45,25 @@ Um exemplo está em [`samples/relatorio-semanal-exemplo.txt`](samples/relatorio-
 ### Requisitos mais pedidos até agora
 
 <!-- REQUISITOS:INICIO (atualizado automaticamente toda sexta-feira) -->
-Base: 116 vagas enviadas de 13/10 a 20/11/2026 (inclui as 15 do e-mail de teste).
+Base: 127 vagas enviadas de 13/10 a 27/11/2026 (inclui as 15 do e-mail de teste).
 
 | # | Requisito | Vagas | % |
 | --- | --- | --- | --- |
-| 1 | APIs REST | 55 | 47% |
-| 2 | SQL | 53 | 46% |
-| 3 | Git | 51 | 44% |
-| 4 | Testes | 33 | 28% |
-| 5 | JavaScript | 32 | 28% |
-| 6 | Python | 32 | 28% |
-| 7 | Graduação (em andamento) | 29 | 25% |
-| 8 | Java | 27 | 23% |
-| 9 | TypeScript | 26 | 22% |
-| 10 | Inglês | 24 | 21% |
+| 1 | APIs REST | 58 | 46% |
+| 2 | SQL | 57 | 45% |
+| 3 | Git | 53 | 42% |
+| 4 | Python | 35 | 28% |
+| 5 | Testes | 35 | 28% |
+| 6 | JavaScript | 32 | 25% |
+| 7 | Java | 29 | 23% |
+| 8 | Graduação (em andamento) | 29 | 23% |
+| 9 | TypeScript | 27 | 21% |
+| 10 | Inglês | 27 | 21% |
 
 **O que priorizar:** APIs REST, SQL e Git continuam como a base pedida em quase metade das vagas.
-Testes automatizados passaram a dividir o 4º lugar com JavaScript e Python, puxados pelas vagas de QA e
-automação. Java e TypeScript aparecem em cerca de 1 de cada 4 vagas, conceitos de IA (LLMs, agentes, RAG)
-estão cada vez mais frequentes, e muitas vagas aceitam graduação em andamento.
+Python e testes automatizados dividem o 4º lugar, seguidos de JavaScript, Java e TypeScript. Nesta semana
+C# / .NET e cloud (AWS/Azure) ganharam força, o que vale um projeto simples com API publicada na nuvem, e
+muitas vagas aceitam graduação em andamento.
 <!-- REQUISITOS:FIM -->
 
 ## Arquivos

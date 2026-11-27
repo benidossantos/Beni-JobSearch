@@ -1,0 +1,36 @@
+BENI JOBSEARCH - REQUISITOS MAIS PEDIDOS DA SEMANA
+Período: 23/11 a 27/11/2026 · 11 vagas analisadas
+
+TOP 10 GERAL
+ 1. C# / .NET                                 4 vagas (36%)
+ 2. SQL                                       4 vagas (36%)
+ 3. Cloud (AWS/Azure/GCP)                     4 vagas (36%)
+ 4. Inglês                                    3 vagas (27%)
+ 5. Python                                    3 vagas (27%)
+ 6. APIs REST                                 3 vagas (27%)
+ 7. Testes                                    2 vagas (18%)
+ 8. Java                                      2 vagas (18%)
+ 9. Git                                       2 vagas (18%)
+10. React                                     2 vagas (18%)
+
+DADOS
+  - Manipulação de dados (1)
+  - Formação em TI ou Engenharia (1)
+  - Organização e documentação técnica (1)
+  - Automação web (Selenium/Playwright) (1)
+  - TypeScript (1)
+
+DESENVOLVIMENTO
+  - C# / .NET (4)
+  - Cloud (AWS/Azure/GCP) (4)
+  - Inglês (3)
+  - SQL (3)
+  - APIs REST (3)
+
+O QUE PRIORIZAR NOS ESTUDOS
+  1. C# / .NET liderou a semana (mais de 1 em cada 3 vagas): vale ter um projeto simples em ASP.NET Core com uma API REST.
+  2. Cloud apareceu tanto quanto SQL: conheça o básico de AWS ou Azure (armazenamento, banco gerenciado, publicar uma aplicação).
+  3. SQL segue firme: pratique consultas com JOIN e GROUP BY em PostgreSQL ou SQL Server.
+  4. APIs REST continuam no topo do acumulado: crie e consuma uma API documentada com Swagger.
+  5. Inglês e Python aparecem em cerca de 1 de cada 4 vagas, inclusive nas internacionais: mantenha os dois em evolução.
+  6. Git, testes e ferramentas de IA (Cursor, Codex, Claude Code) foram citados: mostre no GitHub um projeto com testes e commits organizados.
